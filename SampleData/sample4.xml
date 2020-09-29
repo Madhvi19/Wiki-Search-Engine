@@ -1,0 +1,3105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.36.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Gladstone Institutes</title>
+    <ns>0</ns>
+    <id>29823662</id>
+    <redirect title="Gladstone Institutes" />
+    <revision>
+      <id>505034309</id>
+      <parentid>399791346</parentid>
+      <timestamp>2012-07-31T02:56:50Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Fixing double redirect to [[Gladstone Institutes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" xml:space="preserve">#REDIRECT [[Gladstone Institutes]]</text>
+      <sha1>5lvgq8bqwo3eyg72hiact8c8f0wvq6u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Crucero de verano</title>
+    <ns>0</ns>
+    <id>29823665</id>
+    <revision>
+      <id>707046069</id>
+      <parentid>526786235</parentid>
+      <timestamp>2016-02-26T17:53:50Z</timestamp>
+      <contributor>
+        <username>Inwind</username>
+        <id>2901026</id>
+      </contributor>
+      <comment>format</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="884" xml:space="preserve">{{Infobox film
+| name           =Crucero de verano
+| image          =
+| image_size     =
+| caption        =
+| director       =
+| producer       =
+| writer         =
+| narrator       =
+| starring       =
+| music          =
+| cinematography =
+| editor       =
+| distributor    =
+| released       = 1964
+| runtime        =
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =
+}}
+'''''Crucero de verano''''' is a [[Italian films of 1964|1964]] [[Italy|Italian]]  [[film]]. It stars actor [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|0057975}}
+
+[[Category:1964 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+
+{{1960s-Italy-film-stub}}</text>
+      <sha1>5m1w8btrdap49sf8s31g5w5z52nzqpg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rapina al sole</title>
+    <ns>0</ns>
+    <id>29823674</id>
+    <redirect title="Crime on a Summer Morning" />
+    <revision>
+      <id>435776579</id>
+      <parentid>399791600</parentid>
+      <timestamp>2011-06-23T08:00:03Z</timestamp>
+      <contributor>
+        <username>Ary29</username>
+        <id>64395</id>
+      </contributor>
+      <minor />
+      <comment>[[WP:AES|←]]Redirected page to [[Crime on a Summer Morning]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" xml:space="preserve">#REDIRECT [[Crime on a Summer Morning]]</text>
+      <sha1>aaww51ybosxuzhmsy03btndrpxuwt1v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1915 Dayton Gym-Cadets season</title>
+    <ns>0</ns>
+    <id>29823675</id>
+    <revision>
+      <id>849512032</id>
+      <parentid>690749900</parentid>
+      <timestamp>2018-07-09T14:20:58Z</timestamp>
+      <contributor>
+        <username>Hugo999</username>
+        <id>3006008</id>
+      </contributor>
+      <comment>+[[Category:1915 in sports in Ohio]]; +[[Category:1918 in American football]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1947" xml:space="preserve">{{Use mdy dates|date=November 2013}}
+{{Infobox NFL season
+| team = Dayton Gym-Cadets
+| year = 1915
+| record = 7–1–1
+| league_place =
+| coach = [[Al Mahrt]]
+| stadium = [[Westwood Field]]
+| playoffs =&lt;!--No playoffs--&gt;
+| previous = [[1914 Dayton St. Mary's Cadets season|1914]]
+| next = [[1916 Dayton Triangles season|1916]]
+}}
+The '''1915 [[Dayton Triangles|Dayton Gym-Cadets]] season''' was their third season in the [[Ohio League]]. The team changed its name this season from the St. Mary's Cadets to the Dayton Gym-Cadets, after their presumed sponsors, the Dayton Gymnastic Club. The team posted a 7–1–1 record.
+
+==Schedule==
+{| class=&quot;wikitable&quot;
+|-
+! Game
+! Date
+! Opponent
+! Result
+|-style=&quot;background: #ddffdd;&quot;
+| 1
+| October 10, 1915
+| Cincinnati Valley Athletic Club 
+| W 50-0
+|-style=&quot;background: #ddffdd;&quot;
+| 2
+| October 17, 1915
+| at North Cincinnati Athletic Club  
+| W 33-7
+|-style=&quot;background: #ffeeaa;&quot;
+| 3
+| October 24, 1915
+| at [[Cincinnati Celts]]
+| T 0-0
+|-style=&quot;background: #ddffdd;&quot;
+| 4
+| October 22, 1915
+| at [[Toledo Maroons]]  
+| W 20-7
+|-style=&quot;background: #ffdddd;&quot;
+| 5
+| November 7, 1915
+| [[Columbus Panhandles]]   
+| L 24-7
+|-style=&quot;background: #ddffdd;&quot;
+| 6
+| November 14, 1915
+| [[Akron Indians]] 
+| W 39-0
+|-style=&quot;background: #ddffdd;&quot;
+| 7
+| November 21, 1916
+| Dayton Miamis 
+| W 48-0
+|-style=&quot;background: #ddffdd;&quot;
+| 8
+| November 25, 1916
+| West Carrollton Paper Mill&lt;ref&gt;[[NFL on Thanksgiving Day|Thanksgiving Day game]]&lt;/ref&gt;   
+| W 20-0
+|-style=&quot;background: #ddffdd;&quot;
+| 9
+| November 28, 1916
+| Dayton Wolverines
+| W 20-0
+|}
+
+==Game notes==
+{{reflist}}
+
+==References==
+*[http://www.profootballarchives.com/1915daygc.html Pro Football Archives: Dayton Gym-Cadets 1915]
+
+{{Dayton Triangles}}
+{{Dayton Triangles seasons}}
+
+{{DEFAULTSORT:1915 Dayton Triangles Season}}
+[[Category:Dayton Triangles seasons]]
+[[Category:1915 in sports in Ohio|Dayton Tri]]
+[[Category:1918 in American football|Dayton Tri]]</text>
+      <sha1>ms3773n0zwwnfchjx4as47cplkfnjle</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Boca Río Gallegos</title>
+    <ns>0</ns>
+    <id>29823683</id>
+    <revision>
+      <id>953318038</id>
+      <parentid>934102771</parentid>
+      <timestamp>2020-04-26T19:57:16Z</timestamp>
+      <contributor>
+        <username>Das osmnezz</username>
+        <id>29357030</id>
+      </contributor>
+      <comment>/* Team 2013–14 */  fake player</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3316" xml:space="preserve">{{Infobox football club
+| clubname = Boca Río Gallegos
+| image = Boca rio gallegos logo.png
+| image_size = 120px
+| fullname = Club Boca Río Gallegos
+| nickname = Xeneize
+| founded = {{Start date and years ago|df=yes|1945|10|12}}
+| ground =  Defensores del Carmen, [[Río Gallegos]]
+| capacity = 8,000
+| chairman = [[Martin Báez]]
+| manager = none
+| league =  [[Liga de fútbol Sur (Río Gallegos)|Liga de fútbol Sur]] (6th level)
+| season = [[2013-14 in Argentine football|2013–14]]
+| position = --
+| website = http://www.bocariogallegos.com
+|pattern_la1=_goldborder_2|pattern_b1=_goldcollar|pattern_ra1=_goldborder|pattern_so1=_yellowtop|leftarm1=000066|body1=000066|rightarm1=000066|shorts1=000066|socks1=000066
+|pattern_la2=|pattern_b2=|pattern_ra2=|leftarm2=ffffff|body2=ffffff|rightarm2=ffffff|shorts2=ffffff|socks2=ffffff
+|
+}}
+
+'''Club Boca Río Gallegos''' is an [[Argentina|Argentine]] [[sports club]] from the city of [[Río Gallegos, Santa Cruz]]. Although other sports are practised (such as [[basketball]], [[field hockey]] or [[taekwondo]]), the club is mostly known for its [[association football|football]] team, which currently plays in the [[Liga de fútbol Sur (Río Gallegos)|Liga de fútbol Sur]], the regionalised 6th level of [[Argentine football league system]].
+
+==History==
+[[File:Bocariogallegos 50s.jpg|thumb|left|250px|First team of Boca during the 1950s.]]
+The first step in the foundation of Club Boca was given by a group of enthusiastic meat processing plant workers, who decided to join themselves and create a football team in the city of Río Gallegos. But this wouldn't be totally fulfilled until October 12, 1945, which settled down as the official date of foundation of the institution.
+
+On 1988 Boca participated in the Torneo Regional (organized by [[Asociación del Fútbol Argentino]]) for the first time. Boca was allowed to play after the teams which had finished first, second and third in the last tournament, declined to participate in the next edition. Boca had finished 4th and therefore could come into the tournament filling the vacant place.
+
+That team was coached by Jacinto Cáceres, who had managed before a well-remembered team of [[San Lorenzo de Almagro]] during the Torneo Regional played in 1982. Boca would be soon nicknamed &quot;Boca Coraje&quot; (Courage Boca) due to the Club assumed the compromise of being representing the city of Río Gallegos, having formed a competitive team before the time limit for the beginning of the competition, otherwise they couldn't have played the tournament.
+
+The first championship won by Boca was obtained on October 12, 2008.&lt;ref&gt;[http://bocariogallegos.com.ar/dblog/historia.asp Historia de Boca de Río Gallegos] {{webarchive |url=https://web.archive.org/web/20100912125033/http://bocariogallegos.com.ar/dblog/historia.asp |date=September 12, 2010 }}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat}}
+*[https://web.archive.org/web/20110930170750/http://www.bocariogallegos.com.ar/ Official website] {{in lang|es}}
+*[http://clubbocarg.blogspot.com/ Blog Boca (fan site)] {{in lang|es}}
+
+{{Torneo Argentino B}}
+
+{{DEFAULTSORT:Boca Rio Gallegos}}
+[[Category:Football clubs in Santa Cruz Province, Argentina]]
+[[Category:Sports clubs established in 1945]]
+[[Category:1945 establishments in Argentina]]</text>
+      <sha1>is212nfnv07jftgdjknuh0uhb65ieu3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Power Plant Bielsko Biala</title>
+    <ns>0</ns>
+    <id>29823685</id>
+    <redirect title="Bielsko-Biała Power Plant" />
+    <revision>
+      <id>399791862</id>
+      <timestamp>2010-11-30T20:51:46Z</timestamp>
+      <contributor>
+        <username>Beagel</username>
+        <id>2057630</id>
+      </contributor>
+      <comment>moved [[Power Plant Bielsko Biala]] to [[Bielsko-Biała Power Plant]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" xml:space="preserve">#REDIRECT [[Bielsko-Biała Power Plant]]</text>
+      <sha1>sf74ncoo2e5o7dbz6cnqzfrehp1rf7l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Devil in Love (film)</title>
+    <ns>0</ns>
+    <id>29823687</id>
+    <revision>
+      <id>960193101</id>
+      <parentid>958899557</parentid>
+      <timestamp>2020-06-01T16:28:17Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor />
+      <comment>/* External links */add category</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2560" xml:space="preserve">{{Infobox film
+| name           = L&amp;#39;arcidiavolo&lt;br/&gt;The Devil in Love
+| image          = L'arcidiavolo.jpg
+| image_size     = 
+| caption        = 
+| director       = [[Ettore Scola]]
+| producer       = [[Mario Cecchi Gori]]
+| writer         = 
+| based_on       = ''[[Belfagor arcidiavolo]]'' by [[Niccolò Machiavelli]]
+| starring       = 
+| music          = [[Armando Trovajoli]]
+| cinematography = [[Aldo Tonti]]
+| editing         = 
+| distributor    = 
+| released       = 1966
+| runtime        = 
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         = 
+}}
+'''''The Devil in Love''''' ([[Italian language|Italian]]: '''''L&amp;#39;arcidiavolo''''') is a [[Italian films of 1966|1966]] [[Italy|Italian]] [[fantasy-comedy film]]. It stars [[Vittorio Gassman]] and [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt; It is loosely based on the tale ''[[Belfagor arcidiavolo]]'' by [[Niccolò Machiavelli]].&lt;ref&gt;{{cite web |url=https://www.mymovies.it/dizionario/recensione.asp?id=1958 |title=L'arcidiavolo |work=Mymovies.it |language=Italian |accessdate=6 April 2020 }}&lt;/ref&gt;
+
+==Cast==
+*[[Vittorio Gassman]] as [[Beelphegor|Belfagor]]
+*[[Claudine Auger]] as  [[Maddalena di Lorenzo de' Medici|Maddalena de' Medici]]
+*[[Mickey Rooney]] as  [[Adrammelech|Adramelek]]
+*[[Gabriele Ferzetti]] as  [[Lorenzo de' Medici]]
+*[[Ettore Manni]] as  Gianfigliazzo 
+*[[Annabella Incontrera]] as  Lucrezia
+*[[Hélène Chanel]] as  [[Clarice Orsini]]
+*[[Milena Vukotic]] as  Maddalena's waitress
+*[[Elena Fabrizi]] as  Maddalena's waitress
+*[[Paolo Di Credico]] as  [[Pope Leo X|Cardinal Giovanni de' Medici]]
+*[[Giorgia Moll]] as  aristocrat's wife  
+*[[Liana Orfei]] as  Olimpia 
+*[[Ugo Fangareggi]] as Lorenzo's biographer
+*[[Luigi Vannucchi]] as  Prince [[Franceschetto Cybo]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title}}
+
+{{Ettore Scola}}
+
+{{DEFAULTSORT:Devil In Love (Film)}}
+[[Category:1966 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films set in Florence]]
+[[Category:Films directed by Ettore Scola]]
+[[Category:Films scored by Armando Trovajoli]]
+[[Category:Films set in the 15th century]]
+[[Category:Italian fantasy comedy films]]
+[[Category:1960s fantasy-comedy films]]
+[[Category:Cultural depictions of Lorenzo de' Medici]]
+[[Category:Adaptations of works by Niccolò Machiavelli]]
+[[Category:1966 comedy films]]
+
+
+{{1960s-Italy-comedy-film-stub}}</text>
+      <sha1>iewlldcfly52re4bnr0m4zoc05f3gj8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>26th Independent Spirit Awards</title>
+    <ns>0</ns>
+    <id>29823688</id>
+    <revision>
+      <id>966726406</id>
+      <parentid>965660156</parentid>
+      <timestamp>2020-07-08T20:29:07Z</timestamp>
+      <contributor>
+        <ip>37.179.118.19</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8546" xml:space="preserve">{{Infobox film awards
+|number=26
+|award=Independent Spirit Awards
+|date=February 26, 2011
+|site=U.S.
+|host=[[Joel McHale]]
+|best_film=''[[Black Swan (film)|Black Swan]]''
+|most_wins=''Black Swan'' (4)
+|most_nominations=''[[Winter's Bone]]'' (7)
+|last=25th
+|next=27th
+}}
+
+The '''26th [[Independent Spirit Awards]]''' announced its nominees in November 2010.&lt;ref&gt;{{cite web|url=http://blogs.indiewire.com/thompsononhollywood/independent_spirit_nominations_winters_bone_black_swan_the_kids_are_all_rig|title=Independent Spirit Nominations: Winter's Bone, Black Swan, The Kids Are All Right Head for Oscars|date=2010-11-30|work=indieWire|accessdate=2012-08-25|archive-url=https://web.archive.org/web/20140221200130/http://blogs.indiewire.com/thompsononhollywood/independent_spirit_nominations_winters_bone_black_swan_the_kids_are_all_rig|archive-date=2014-02-21|url-status=dead|df=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://latimesblogs.latimes.com/awards/2010/11/winters-bone-and-the-kids-are-all-right-top-the-spirit-award-nominations.html|title='Winter's Bone' and 'The Kids Are All Right' top the Spirit Award nominations|date=2010-11-30|work=The Envelope|accessdate=2012-08-25}}&lt;/ref&gt; The winners were announced on February 26, 2011.&lt;ref&gt;{{cite web|url=https://www.usatoday.com/life/people/2011-02-26-indie-spirit-awards_N.htm|title='Black Swan' sweeps Film Independent Spirit Awards|date=2011-02-26|work=USA Today|accessdate=2011-02-28}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.indiewire.com/article/spirits_2011_list_of_announced_spirit_award_winners_in_progess|title=&quot;Black Swan&quot; Lead Spirit Award Winners|date=2011-02-27|work=indieWire|accessdate=2012-08-25}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://articles.latimes.com/2011/feb/27/entertainment/la-et-spirit-awards-20110227|title='Black Swan' wins four Spirit Awards, including best feature and best actress|date=2011-02-27|work=Los Angeles Times|accessdate=2012-08-25}}&lt;/ref&gt;  It was hosted by [[Joel McHale]].
+
+==Winners and nominees==
+[[File:OIFF 2015-07-17 193547 - Darren Aronofsky.jpg|thumb|226x226px|[[Darren Aronofsky]], Best Director winner]]
+[[File:James Franco Venice Film Festival 2013 (cropped).jpg|thumb|215x215px|[[James Franco]], Best Male Lead winner]]
+[[File:Natalie Portman (83rd Academy Awards) cropped.jpg|thumb|197x197px|[[Natalie Portman]], Best Female Lead winner]]
+[[File:JohnHawkesApr10.jpg|thumb|233x233px|[[John Hawkes (actor)|John Hawkes]], Best Supporting Male winner]]
+{| class=&quot;wikitable&quot;
+!Best Feature
+!Best Director
+|-
+|
+'''''[[Black Swan (film)|Black Swan]]'''''
+
+*''[[127 Hours]]''
+*''[[Greenberg (film)|Greenberg]]''
+*''[[The Kids Are All Right (film)|The Kids Are All Right]]''
+*''[[Winter's Bone]]''
+|'''[[Darren Aronofsky]] &amp;ndash; ''[[Black Swan (film)|Black Swan]]'''''
+
+*[[Danny Boyle]] &amp;ndash; ''[[127 Hours]]''
+*[[Lisa Cholodenko]] &amp;ndash; ''[[The Kids Are All Right (film)|The Kids Are All Right]]''
+*[[Debra Granik]] &amp;ndash; ''[[Winter's Bone]]''
+*[[John Cameron Mitchell]] &amp;ndash; ''[[Rabbit Hole (film)|Rabbit Hole]]''
+|-
+!Best Male Lead
+!Best Female Lead
+|-
+|'''[[James Franco]] &amp;ndash; ''[[127 Hours]]'''''
+
+*[[Ronald Bronstein]] &amp;ndash; ''[[Daddy Longlegs (2009 film)|Daddy Longlegs]]''
+*[[Aaron Eckhart]] &amp;ndash; ''[[Rabbit Hole (film)|Rabbit Hole]]''
+*[[John C. Reilly]] &amp;ndash; ''[[Cyrus (2010 comedy-drama film)|Cyrus]]''
+*[[Ben Stiller]] &amp;ndash; ''[[Greenberg (film)|Greenberg]]''
+|'''[[Natalie Portman]] &amp;ndash; ''[[Black Swan (film)|Black Swan]]'''''
+
+*[[Annette Bening]] &amp;ndash; ''[[The Kids Are All Right (film)|The Kids Are All Right]]''
+*[[Greta Gerwig]] &amp;ndash; ''[[Greenberg (film)|Greenberg]]''
+*[[Nicole Kidman]] &amp;ndash; ''[[Rabbit Hole (film)|Rabbit Hole]]''
+*[[Jennifer Lawrence]] &amp;ndash; ''[[Winter's Bone]]''
+*[[Michelle Williams (actress)|Michelle Williams]] &amp;ndash; ''[[Blue Valentine (film)|Blue Valentine]]''
+|-
+!Best Supporting Male
+!Best Supporting Female
+|-
+|'''[[John Hawkes (actor)|John Hawkes]] &amp;ndash; ''[[Winter's Bone]]'''''
+
+*[[Samuel L. Jackson]] &amp;ndash; ''[[Mother and Child (2009 film)|Mother and Child]]''
+*[[Bill Murray]] &amp;ndash; ''[[Get Low (film)|Get Low]]''
+*[[John Ortiz]] &amp;ndash; ''[[Jack Goes Boating (film)|Jack Goes Boating]]''
+*[[Mark Ruffalo]] &amp;ndash; ''[[The Kids Are All Right (film)|The Kids Are All Right]]''
+|'''[[Dale Dickey]] &amp;ndash; ''[[Winter's Bone]]'''''
+
+*[[Ashley Bell (actress)|Ashley Bell]] &amp;ndash; ''[[The Last Exorcism]]''
+*[[Allison Janney]] &amp;ndash; ''[[Life During Wartime (film)|Life During Wartime]]''
+*[[Daphne Rubin-Vega]] &amp;ndash; ''[[Jack Goes Boating (film)|Jack Goes Boating]]''
+*[[Naomi Watts]] &amp;ndash; ''[[Mother and Child (2009 film)|Mother and Child]]''
+|-
+!Best Screenplay
+!Best First Screenplay
+|-
+|'''''[[The Kids Are All Right (film)|The Kids Are All Right]]'' &amp;ndash; Stuart Blumberg and [[Lisa Cholodenko]]'''
+
+*''[[Life During Wartime (film)|Life During Wartime]]'' &amp;ndash; [[Todd Solondz]]
+*''[[Please Give]]'' &amp;ndash; [[Nicole Holofcener]]
+*''[[Rabbit Hole (film)|Rabbit Hole]]'' &amp;ndash; [[David Lindsay-Abaire]]
+*''[[Winter's Bone]]'' &amp;ndash; [[Debra Granik]] and [[Anne Rosellini]]
+|'''''[[Tiny Furniture]]'' &amp;ndash; [[Lena Dunham]]'''
+
+*''[[Jack Goes Boating (film)|Jack Goes Boating]]'' &amp;ndash; [[Robert Glaudini]]
+*''[[Lovely, Still]]'' &amp;ndash; [[Nik Fackler]]
+*''[[Monogamy (film)|Monogamy]]'' &amp;ndash; [[Dana Adam Shapiro]] and Evan M. Wiener
+*''[[Obselidia]]'' &amp;ndash; Diane Bell
+|-
+!Best First Feature
+!Best Documentary
+|-
+|'''''[[Get Low (film)|Get Low]]'''''
+
+*''Everything Strange and New''
+*''[[The Last Exorcism]]''
+*''[[Night Catches Us]]''
+*''[[Tiny Furniture]]''
+|'''''[[Exit Through the Gift Shop]]'''''
+
+*''[[Marwencol (film)|Marwencol]]''
+*''[[Restrepo (film)|Restrepo]]''
+*''[[Sweetgrass (film)|Sweetgrass]]''
+*''[[Thunder Soul]]''
+|-
+!Best Cinematography
+!Best Foreign Film
+|-
+|'''''[[Black Swan (film)|Black Swan]]'' &amp;ndash; [[Matthew Libatique]]'''
+
+*''[[Greenberg (film)|Greenberg]]'' &amp;ndash; [[Harris Savides]]
+*''[[Never Let Me Go (2010 film)|Never Let Me Go]]'' &amp;ndash; Adam Kimmel
+*''[[Tiny Furniture]]'' &amp;ndash; Jody Lee Lipes
+*''[[Winter's Bone]]'' &amp;ndash; Michael McDonough
+| '''''[[The King's Speech]]'' • [[UK]]'''
+
+*''[[Kisses (film)|Kisses]]'' • [[Ireland]]
+*''[[Mademoiselle Chambon]]'' • [[France]]
+*''[[Of Gods and Men (film)|Of Gods and Men]]'' • [[Morocco]]/[[France]]
+*''[[Uncle Boonmee Who Can Recall His Past Lives]]'' • [[Thailand]]
+|}
+
+=== Films with multiple nominations and awards ===
+{| class=&quot;wikitable&quot;
+|+Films that received multiple nominations
+!Nominations
+!Film
+|-
+|7
+|''[[Winter's Bone]]''
+|-
+|5
+|''[[The Kids Are All Right (film)|The Kids Are All Right]]''
+|-
+| rowspan=&quot;2&quot; |4
+|''[[Black Swan (film)|Black Swan]]''
+|-
+|''[[Rabbit Hole (film)|Rabbit Hole]]''
+|-
+| rowspan=&quot;4&quot; |3
+|''[[127 Hours]]''
+|-
+|''[[Greenberg (film)|Greenberg]]''
+|-
+|''[[Jack Goes Boating (film)|Jack Goes Boating]]''
+|-
+|''[[Tiny Furniture]]''
+|-
+| rowspan=&quot;4&quot; |2
+|''[[Get Low (film)|Get Low]]''
+|-
+|''[[The Last Exorcism]]''
+|-
+|''[[Life During Wartime (film)|Life During Wartime]]''
+|-
+|''[[Mother and Child (2009 film)|Mother and Child]]''
+|}
+{| class=&quot;wikitable&quot;
+|+Films that won multiple awards
+!Awards
+!Film
+|-
+|4
+|''[[Black Swan (film)|Black Swan]]''
+|-
+|2
+|''[[Winter's Bone]]''
+|}
+
+== Special Awards ==
+
+===[[Independent Spirit John Cassavetes Award|John Cassavetes Award]]===
+'''''[[Daddy Longlegs (2009 film)|Daddy Longlegs]]'''''
+*''[[The Exploding Girl]]''
+*''Lbs.''
+*''Lovers of Hate''
+*''[[Obselidia]]''
+
+===Truer Than Fiction Award===
+'''''[[Marwencol (film)|Marwencol]]'''''
+*''Summer Pasture''
+*''[[Sweetgrass (film)|Sweetgrass]]''
+
+===Producers Award===
+'''Anish Savjani &amp;ndash; ''[[Meek's Cutoff (film)|Meek's Cutoff]]''
+*[[In-Ah Lee]] &amp;ndash; ''[[Au Revoir Taipei]]''
+*[[Adele Romanski]] &amp;ndash; ''[[The Myth of the American Sleepover]]''
+
+===Someone to Watch Award===
+'''Mike Ott &amp;ndash; ''[[Littlerock (film)|Littlerock]]''
+*Hossein Keshavarz &amp;ndash; ''Dog Sweat''
+*[[Laurel Nakadate]] &amp;ndash; ''The Wolf Knife''
+
+===[[Independent Spirit Robert Altman Award|Robert Altman Award]]===
+*'''''[[Please Give]]''''' — [[Nicole Holofcener]], Jeanne McCarthy, [[Ann Guilbert]], [[Rebecca Hall]], [[Catherine Keener]], [[Elizabeth Keener]], [[Amanda Peet]], [[Oliver Platt]] and [[Sarah Steele]]
+
+==References==
+{{reflist}}
+
+== External links ==
+*[https://www.imdb.com/event/ev0000349/2011 2010 Spirit Awards at IMDb]
+*[https://www.youtube.com/watch?v=2a4H5m9BLOE Official ceremony on YouTube]
+
+{{IS Awards Chron}}
+
+[[Category:Independent Spirit Awards|2010]]
+[[Category:2010 film awards|Independent Spirit Awards]]</text>
+      <sha1>h29azikiczp0now5pzf357jxhmp5ei8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Virginia Slims of Detroit</title>
+    <ns>14</ns>
+    <id>29823694</id>
+    <revision>
+      <id>967321300</id>
+      <parentid>928560453</parentid>
+      <timestamp>2020-07-12T15:47:46Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <comment>populating [[Category:Wikipedia categories named after tennis  tournaments]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" xml:space="preserve">[[Category:Defunct tennis tournaments in the United States]]
+[[Category:Virginia Slims tennis tournaments]]
+[[Category:Wikipedia categories named after tennis tournaments]]
+[[Category:Sports competitions in Detroit]]
+[[Category:Tennis in Detroit]]
+[[Category:Carpet court tennis tournaments]]</text>
+      <sha1>cgxs45jpv51lu4xcuopeb04780yh7h4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Locust Valley, Pennsylvania</title>
+    <ns>0</ns>
+    <id>29823696</id>
+    <revision>
+      <id>945978684</id>
+      <parentid>940704395</parentid>
+      <timestamp>2020-03-17T09:04:21Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16762" xml:space="preserve">{{more citations needed|date=September 2013}}
+{{Infobox settlement
+| name                    = Locust Valley
+| native_name             = 
+| other_name              = 
+| settlement_type         = Unincorporated Community
+&lt;!-- images, nickname, motto --&gt;
+| image_skyline           = 
+| image_caption           = 
+| image_flag              = 
+| image_shield            = 
+| motto                   = 
+| nickname                = 
+| etymology               = 
+&lt;!-- location --&gt;
+| subdivision_type        = Country
+| subdivision_name        = United States
+| subdivision_type1       = State
+| subdivision_name1       = Pennsylvania
+| subdivision_type2       = County
+| subdivision_name2       = [[Lehigh County, Pennsylvania|Lehigh]]
+| subdivision_type3       = Township
+| subdivision_name3       = [[Upper Saucon Township, Lehigh County, Pennsylvania|Upper Saucon]]
+&lt;!-- maps and coordinates --&gt;
+| image_map               = 
+| map_caption             = 
+| pushpin_map             = USA Pennsylvania#USA
+| pushpin_relief          = 
+| pushpin_map_caption     = Location of Locust Valley in Pennsylvania 
+| coordinates             = {{coord|40|29|48.084|N|75|24|22.5576|W|display=inline,title}}
+| coordinates_footnotes   = 
+&lt;!-- established --&gt;
+| established_title       = 
+| established_date        = 
+&lt;!-- area --&gt;
+| area_footnotes          = 
+| dunam_link              = 
+| area_total_km2          = 
+| area_total_sq_mi        = 
+| area_land_sq_mi         = 
+| area_water_sq_mi        = 
+&lt;!-- elevation --&gt;
+| elevation_footnotes     = 
+| elevation_m             = 
+| elevation_ft            = 642
+&lt;!-- population --&gt;
+| population_as_of        = 
+| population_footnotes    = 
+| population_total        = 
+| population_density_km2  = auto
+| population_density_sq_mi=
+| population_demonym      = 
+&lt;!-- time zone(s) --&gt;
+| timezone1               = [[North American Eastern Time Zone|EST]]
+| utc_offset1             = -5
+| timezone1_DST           = 
+| utc_offset1_DST         = 
+| timezone2               =  
+| utc_offset2             = 
+| timezone2_DST           = 
+| utc_offset2_DST         = 
+&lt;!-- postal codes, area code --&gt;
+| postal_code_type        = Postal code
+| postal_code             = 18036
+| area_code_type          =  
+| area_code               = [[Area code 610|610]] Exchange: 282
+| geocode                 = 
+| iso_code                = 
+&lt;!-- website, footnotes --&gt;
+| website                 = 
+| footnotes               = 
+}}
+'''Locust Valley, Pennsylvania''' was a village located in the southeastern corner of [[Lehigh County, Pennsylvania|Lehigh County]], [[Pennsylvania]], [[United States]] at the southern end of [[Upper Saucon Township, Lehigh County, Pennsylvania|Upper Saucon Township]].&lt;ref&gt;https://www.openstreetmap.org/search?query=upper%20saucon%20pa#map=15/40.4963/-75.4042&lt;/ref&gt; It developed around the crossroad of what is today, Locust Valley Road and Blue Church Road South.
+
+This area is bordered by [[Springfield Township, Bucks County, Pennsylvania|Springfield Township]] and [[Milford Township, Bucks County, Pennsylvania|Milford Township]] in [[Bucks County, Pennsylvania|Bucks County, PA]] along with [[Lower Milford Township, Lehigh County, Pennsylvania|Lower Milford Township]] in Lehigh County.
+
+George W. Foering planted (in the mid-1800s) an avenue of [[locust tree]]s, thus the village name, Locust Valley. Locust trees are still prevalent in the area, including those on the Locust Valley [[golf course]].
+
+Over time, Locust Valley lost its distinction as a village and now is part of the [[Coopersburg, PA]] mailing address.
+
+== History of Settlement ==
+This land was part of the area called [[Lenapehoking]] by the [[Lenape]] native people that inhabited it prior to the arrival of European settlers. The Unami were the specific division of the Lenape locally and they referred to this area as ''The Valley Watered by Many Springs.''
+
+[[William Penn]] founded the colony of [[History of Pennsylvania|Pennsylvania]] in 1681 and this area was part of [[Bucks County, Pennsylvania|Bucks County]], one of the three original counties created by Penn in 1682. The Lenape people were pushed farther west by the subsequent purchase of land by William Penn. A purchase in 1732 further secured the area of the Lehigh Valley.
+
+German immigrants settled the Locust Valley area around 1735 calling it ''Die Gass'' (the valley). The local immigrants formally organized this area as [[Upper Saucon Township, Lehigh County, Pennsylvania|Upper Saucon Township]] in 1743.&lt;ref&gt;https://www.uppersaucon.org/township-info/history/&lt;/ref&gt; At the founding of the township, Locust Valley was one of the 5 villages in the township, the others being [[Center Valley, Pennsylvania|Centre Valley]], Friedensville, Spring Valley and [[Colesville, Pennsylvania|Colesville]]. Then, in 1752, this area became part of newly created [[Northampton County, Pennsylvania|Northampton County]]. Since 1812, when Northampton County was divided into two, Locust Valley has been located in [[Lehigh County, Pennsylvania|Lehigh County]].
+
+Warrants were given to the original settlers for purchase of plots of land. The first one in the Locust Valley area was given to Henry Rumfield in 1736 (tract #12). The plot (#14) warranted to George Morsteller in 1737 encompassed the hub of Locust Valley. Subsequent warrants (in chronological order) were given to John Adam Stout (#96), George Bachman (#11 &amp; #97), George Bastian (#13), Cornelius Crump (#98), Jacob Weaver (#100), Leonard Boydelman (#142), Jacob Bachman (#143), and Peter Cortz (#144).
+
+During the American Revolution, George Bachman was one of the residents that was imprisoned, banished and all of his property confiscated because he was reluctant to bear arms.
+
+== Commerce ==
+The village developed around an [[iron mill]] (P. Weaver Foundry&lt;ref name = &quot;map&quot;&gt;Aschbach, G. A. ''Map of Lehigh County''. (1862).  https://www.loc.gov/resource/g3823l.la000766/&lt;/ref&gt;) that is located near the [[River source|headwaters]] of Laurel Run (South Branch of the [[Saucon Creek]]&lt;ref&gt;http://sauconcreekwatershed.org/images/maps/Assessment_Reaches.pdf&lt;/ref&gt;). Laurel Run&lt;ref&gt;{{Cite web |url=http://www.fish.state.pa.us/fishpub/summary/troutregs_se.htm |title=Archived copy |access-date=2014-08-03 |archive-url=https://web.archive.org/web/20141011045556/http://www.fish.state.pa.us/fishpub/summary/troutregs_se.htm |archive-date=2014-10-11 |url-status=dead }}&lt;/ref&gt; is a regulated trout stream in Pennsylvania.  The [[mill race]] can still be seen as part of [http://www.locustvalleyclub.com/ Locust Valley Golf Course].
+
+The village was once home to a post office, store (1870&lt;ref&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/642302056837/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt;) (W. Trumbaur Store&lt;ref name = &quot;map&quot; /&gt;), hotel, school, and tavern.&lt;ref name = &quot;map&quot; /&gt; A tannery was still in operation in 1884.&lt;ref&gt;{{cite book |last1=Mathews |first1=Alfred |last2=Hungerford |first2=Austin N. |title=History of the Counties of Lehigh and Carbon, in the Commonwealth of Pennsylvania |date=1884 |publisher=Everts &amp; Richards |page=439 |url=https://www.google.com/search?tbo=p&amp;tbm=bks&amp;q=bibliogroup:%22History+of+the+Counties+of+Lehigh+and+Carbon,+in+the+Commonwealth+of+Pennsylvania%22&amp;source=gbs_metadata_r&amp;cad=6}}&lt;/ref&gt;
+
+An official road that ran from Locust Valley to Lanark opened in 1750.
+
+In 1910, Frank G. Hartman and his brother-in-law, Harvey Hersh (who lived in Locust Valley), opened a foundry and machine shop called Hersh &amp; Hartman. Frank brought twenty years of experience working at [[Bethlehem Steel|Bethlehem Steel Co.]], having worked there since age 16, into this new venture.&lt;ref&gt;{{cite book |first=Charles Rhoads |last=Roberts |first2=John Baer |last2=Stoudt |first3=Thomas H. |last3=Krick |first4=William Joseph |last4=Dietrich |title=History of Lehigh County, Pennsylvania, and a Genealogical and Biographical Record of Its Families |volume=II |date=1914 |publisher=Lehigh Valley publishing Company |url=https://books.google.com/books?id=mzQPAQAAMAAJ&amp;pg=PA506 |page=506}}&lt;/ref&gt;
+
+The Locust Valley [[Post Office]] was established on February 4, 1863. It was run by Peter Weaver out of the building (1832&lt;ref&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/642302232033/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt;) on the southwest corner of the village crossroads. This continued until [[Rural Free Delivery]] service was initiated.&lt;ref&gt;Upper Saucon Township – A Bicentennial Tribute 1743 – 1976 p. 128&lt;/ref&gt;
+
+In 1954, Locust Valley Country Club was granted a charter and opened on Memorial Day as a 9 hole private club. The 1806, 16 room [[fieldstone]] house and 125 acre property (which now spans Bucks and Lehigh Counties) was purchased from the Donald Smith estate.&lt;ref&gt;https://www.uppersaucon.org/wp-content/uploads/2015/12/UpperSauconHistory.pdf&lt;/ref&gt;  William F. Gordon was the designer of the course.&lt;ref&gt;https://asgca.org/architect/wfgordon/&lt;/ref&gt;  He also designed one of the courses at [[Saucon Valley Country Club]]. In 1985, Locust Valley became a public course. Baseball legends [[Joe DiMaggio]], [[Bob Feller]], [[Brooks Robinson]] and [[Bobby Thomson]] and Pro Football Hall of Famer [[Chuck Bednarik]] played in a tournament in 1986.  [[Arnold Palmer]] was known to practice at Locust Valley since his first wife, Winnie Walzer, was from Coopersburg.&lt;ref&gt;{{Cite web|url=https://www.mcall.com/sports/golf/mc-spt-locut-valley-golf-course-closing-date-20191030-4dtna22yhzhmlghck7ysbbelju-story.html|title=Last chance to play Locust Valley: Popular golf course open until April 2020|last=Wogenrich|first=Mark|website=mcall.com|access-date=2019-11-03}}&lt;/ref&gt;  The original 1806 home was razed in 2017.
+
+== Schools ==
+[[File:Locust Valley Schoolhouse 2019.jpg|thumb|2019 photo of the Locust Valley Schoolhouse built in 1880]]
+A one-room schoolhouse was first opened in 1850 two years after the township adopted the [[common school]] system. The school was about one-half mile directly north on what is now Blue Church Rd South. Prior to this, students were educated in private homes or churches (there was a school at the Blue Church, for example). The education was conducted in German exclusively until about 1800, before beginning to transition toward English.
+
+Replacing the first building, a new schoolhouse was opened in 1880&lt;ref&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/641393470006/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt; with a tower and bell being added in 1902. 
+&lt;ref&gt;http://mcall.newspapers.com/image/274818061&lt;/ref&gt; In 1884, the school was furnished with a blackboard, globe and patent desks.&lt;ref&gt;{{cite book |last1=Mathews |first1=Alfred |last2=Hungerford |first2=Austin N. |title=History of the Counties of Lehigh and Carbon, in the Commonwealth of Pennsylvania |date=1884 |publisher=Everts &amp; Richards |page=433 |url=https://www.google.com/search?tbo=p&amp;tbm=bks&amp;q=bibliogroup:%22History+of+the+Counties+of+Lehigh+and+Carbon,+in+the+Commonwealth+of+Pennsylvania%22&amp;source=gbs_metadata_r&amp;cad=6}}&lt;/ref&gt;
+
+This school operated until 1941 when the district became more centralized and children were bused to larger community schools. In 1946, there were 3 buses serving the township, and the Locust Valley students were transported to the Lanark School (the other township school being the Center Valley School (1940)&lt;ref&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/642415065746/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt;).&lt;ref&gt;http://mcall.newspapers.com/image/275190367 The Morning Call August 28, 1946&lt;/ref&gt; The Lanark School was built in 1941 and was located in the northern part of the township, on the east side of Rt 309.&lt;ref&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/641532835329/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt; Most recently a [https://www.flblaw.com/ law firm] has occupied the building with an address of Schoolhouse Lane.
+
+The Locust Valley schoolhouse was auctioned off and remodeled into a residence.&lt;ref&gt;http://mcall.newspapers.com/image/279872836 Morning Call December 3, 1950&lt;/ref&gt; This building is still in existence as a residential home at the intersection of Blue Church Rd S and Beverly Hills Rd.&lt;ref&gt;http://www.lehighcounty.org/Departments/Assessment/SearchRecords&lt;/ref&gt;
+
+As time went along, before there were local junior and senior high schools, those that wanted further schooling would attend the schools in Allentown. Later, the local school district was developed into the [[Southern Lehigh School District]].
+
+== Churches ==
+Worship would have initially been conducted in homes or other gathering spots before specific structures were built.  The first designated building for worship was the [[Mennonites|Mennonite]] meetinghouse in Coopersburg, built about 1738.
+
+The next church constructed within the Upper Saucon area was St. Paul's Blue Church. The first church, built of logs, was in use by 1742. Later, the Friedens church, the Mennonite Brethren in Christ church, the English Methodist church and the Free Methodist churches were constructed.
+
+== Notable Inhabitants ==
+George Washington Foering (1812-1880) settled in Locust Valley about 1839. His home was on the north side of Locust Valley Rd east of Blue Church.&lt;ref name=&quot;map&quot; /&gt; Mr. Foering was instrumental in the development of the Friedensville Zinc mines and was active politically. Being a supporter of [[James Buchanan]] for president, Mr. Foering welcomed Buchanan as a visitor in Locust Valley. A supporter of [[Abraham Lincoln]], Mr. Foering worked in Washington, DC during his administration and also assisted in various ways to enlist volunteers for the Union, including speaking throughout Lehigh County. He is buried in the Blue Church (Woodlands) cemetery.&lt;ref&gt;{{cite book |first=Charles Rhoads |last=Roberts |first2=John Baer |last2=Stoudt |first3=Thomas H. |last3=Krick |first4=William Joseph |last4=Dietrich |title=History of Lehigh County, Pennsylvania, and a Genealogical and Biographical Record of Its Families |volume=II |date=1914 |publisher=Lehigh Valley publishing Company |url=https://books.google.com/books?id=mzQPAQAAMAAJ&amp;pg=PA369 |page=369}}&lt;/ref&gt;&lt;ref&gt;https://www.findagrave.com/memorial/135336053/george-w_-foering&lt;/ref&gt;
+
+== Other Notable Properties ==
+[[File:Locust Valley 1850 Home.jpg|thumb|1850 Locust Valley Home across from schoolhouse]]
+The (oldest?) home still standing is southwest of the crossroads, built in 1750.&lt;ref&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/642302124248/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt;
+
+A fieldstone farmhouse was built in 1850&lt;ref name=&quot;lehighcounty.org&quot;&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/641393168578/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt; at the corner of Blue Church Road South and Beverly Hills Rd (catty-corner from the schoolhouse). This home design shows the German design influence (only 4-across exterior bays with 2 rooms on the first floor) on the [[Federal architecture|Federal style]] (symmetrical design; arch window above door).&lt;ref&gt;http://www.phmc.state.pa.us/portal/communities/architecture/styles/pa-german.html&lt;/ref&gt; Originally, this house had a stucco exterior.
+
+The third home, on the southwest corner of the T-intersection of Blue Church Rd S and Beverly Hills Rd was constructed in 1880.&lt;ref name=&quot;lehighcounty.org&quot;/&gt;
+
+Built in 1850,&lt;ref&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/641393248581/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt; the brick home across from the schoolhouse is built in the more traditional Federal style.
+
+The home at the northeast corner of Locust Valley and Gun Club road was built in 1820.&lt;ref&gt;https://www.lehighcounty.org/Departments/Assessment-Home/Assessment-Direct/PIN/642313587338/PAR/1/handshake/92C43C17-974A-45F5-8090-224744361AC9&lt;/ref&gt;
+
+==References==
+Hauser, James J. ''A history of Lehigh County, Pennsylvania, from the earliest settlements to the present time, including much valuable information for the use of schools, families, libraries''. Jacks, The Printer, (1902), p.&amp;nbsp;47. https://archive.org/details/historyoflehighc00hause, Also referenced here: http://www.lehighvalleyhistory.com/the-history-of-upper-saucon-township/, and here: http://www.livingplaces.com/PA/Lehigh_County/Upper_Saucon_Township/Locust_Valley.html
+
+{{Reflist}}
+
+{{Lehigh County, Pennsylvania}}
+
+{{authority control}}
+
+[[Category:Unincorporated communities in Pennsylvania]]
+[[Category:Geography of Lehigh County, Pennsylvania]]</text>
+      <sha1>kvgp8067qmwwnkzfcsu9dve951zo0lz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ministers of Justice of Guinea</title>
+    <ns>0</ns>
+    <id>29823697</id>
+    <revision>
+      <id>954627984</id>
+      <parentid>954622699</parentid>
+      <timestamp>2020-05-03T13:01:31Z</timestamp>
+      <contributor>
+        <username>Aboubacarkhoraa</username>
+        <id>30348954</id>
+      </contributor>
+      <comment>/* List of ministers */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4306" xml:space="preserve">The Ministry of Justice oversees the administration and management of the justice system in Guinea.&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=bF2bAAAAMAAJ&amp;q|title=La justice en Guinée: une publication de l'ONG Afrique droit|last=Boiro|first=Yaya|last2=Seck|first2=Cheikh|date=2000|publisher=Harmattan|isbn=9782738493019|language=fr}}&lt;/ref&gt;
+
+== List of ministers ==
+A list of '''Ministers of Justice of [[Guinea]]''' follows, from independence to the present.&lt;ref&gt;{{cite web
+ |url=http://guineejuristes.googlepages.com/LESDIFFERENTSMINISTRES.pdf
+ |title=LES DIFFERENTS MINISTRES DE LA JUSTICE DU 4 OCTOBRE 1958 A NOS JOURS
+ |accessdate=2010-11-30}}&lt;/ref&gt;
+
+{|class=wikitable
+|-
+!Start !! End !! Name !! Title
+|-
+|4 October 1958 || 1960 ||[[Damantang Camara]] || Minister
+|-
+|1 March 1960 || 31 January 1961 || [[Barry III]] || Minister
+|-
+|31 January 1961 || 1 January 1963 || [[Paul Louis Faber]]&lt;ref name=&quot;:0&quot;&gt;{{Cite book|url=https://books.google.com/books?id=TfcKAgAAQBAJ&amp;printsec=frontcover&amp;dq|title=Historical Dictionary of Guinea|last=Camara|first=Mohamed Saliou|last2=O'Toole|first2=Thomas|last3=Baker|first3=Janice E.|date=2013-11-07|publisher=Scarecrow Press|isbn=9780810879690|language=en}}&lt;/ref&gt;|| Minister
+|-
+|1 January 1963 || 11 February 1964 || Elhadj [[Saifoulaye Diallo]] || Minister of State
+|-
+|11 February 1964 || 8 November 1964 || [[Moussa Diakité]] || Minister
+|-
+|11 November 1964 || 1967 || Siaka [[Toumani Sangare]]|| Secretary of State
+|-
+|1967 || 19 January 1968 || Doctor [[Saïdou Conte]] || Minister
+|-
+|19 January 1968 || 16 May 1969 ||[[Fode Mamadou Toure]]|| Secretary of State
+|-
+|16 May 1969 || October 1969 || [[Damantang Camara]] || Secretary of State
+|-
+|1969 || 1971 || [[Mohamed Kassory Bangoura]] || Secretary of State
+|-
+|1971 || 1971 || [[Saliou Coumbassa]] || Secretary of State
+|-
+|15 November 1971 || 19 June 1972 ||[[:es:Sikhé Camara|Sikhé Camara]]&lt;ref name=&quot;:0&quot; /&gt;|| Secretary of State, then Minister
+|-
+|June 1972 || 1976 || [[Telli Diallo]]&lt;ref name=&quot;:0&quot; /&gt;|| Secretary of State, then Minister
+|-
+|1976 || 1 June 1979 || General [[Lansana Diané]] || Minister
+|-
+|1 June 1979 || 3 April 1984 ||[[:es:Sikhé Camara|Sikhé Camara]]|| Minister
+|-
+|5 April 1984 || 22 December 1985 || Jean Kolipé Lamah || Minister
+|-
+|22 December 1985 || 21 February 1991 || [[Bassirou Barry]] || Minister
+|-
+|21 February 1991 || 6 February 1992 || [[Faciné Touré]] || Minister
+|-
+| 6 February 1992 || 23 August 1994 || [[Dafilou Sylla]] || Minister
+|-
+|10 July 1996 || 7 June 2000 || [[Maurice Togba Zogbelemou]] || Minister
+|-
+|7 June 2000 || 15 April 2004 || [[Abou Camara]] || Minister
+|-
+|15 April 2004 || 26 May 2006 || [[Mamadou Sylla]] || Minister
+|-
+|26 May 2006 || 28 March 2007 || [[Alsény Rene Gomez]]&lt;ref name=&quot;:0&quot; /&gt;|| Minister
+|-
+|28 March 2007 || 19 June 2008 || [[Paulette Kourouma]]&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=1QA8AQAAIAAJ&amp;q|title=Jeune Afrique|date=2007|publisher=Cidcom/Le Groupe Jeune Afrique|language=fr}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www1.rfi.fr/actufr/articles/087/article_50677.asp|title=RFI  - Guinée - Un gouvernement de consensus sans les politiciens|website=www1.rfi.fr|language=fr-fr|access-date=2018-06-23}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://guineeactu.info/HTML/de-paris-chantal-colle-denonce%E2%80%A6.htm|title=De Paris, Chantal Colle dénonce…|website=guineeactu.info|access-date=2018-06-23}}&lt;/ref&gt; ['''1st female'''] || Minister
+|-
+|19 June 2008 ||december 2008
+|[[Bachir Touré]] || Minister
+|-
+|2009
+|2010
+|Siba Nolamou
+|Minister
+|-
+|2010
+|2014
+|Christian Sow
+|Minister
+|-
+|2014
+|20 mai 2019
+|Cheick Sako&lt;ref&gt;{{Cite web|url=http://lexpressguinee.com/fichiers/videos5.php?langue=fr&amp;idc=fr_Guinee__Me_Cheick_Sako__un_avocat_du_barreau_de_Montpellier_n|title=Guinee: Me Cheick Sako, un avocat du barreau de Montpellier nomm ministre de la Justice (Mr. Cheick Sako, a lawyer of the Montpelier bar nominated as minister of Justice)|last=|first=|date=|website=lexpressguinee.com|archive-url=|archive-date=|access-date=2018-06-23}}&lt;/ref&gt;
+|Minister
+|-
+|2019
+|Present
+|Mohamed Lamine Fofana
+|Minister
+|}&lt;br /&gt;
+==See also==
+
+* [[Justice ministry]]
+* [[Politics of Guinea]]
+
+==References==
+{{reflist}}
+
+[[Category:Justice ministries]]
+[[Category:Government of Guinea]]
+[[Category:Politics of Guinea]]</text>
+      <sha1>30ezwu0pbrzuzjzgnf2ogj2nq6d52i5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1984 Virginia Slims of Detroit</title>
+    <ns>0</ns>
+    <id>29823703</id>
+    <redirect title="Virginia Slims of Detroit" />
+    <revision>
+      <id>399792311</id>
+      <timestamp>2010-11-30T20:54:29Z</timestamp>
+      <contributor>
+        <username>03md</username>
+        <id>6139384</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Virginia Slims of Detroit]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" xml:space="preserve">#REDIRECT [[Virginia Slims of Detroit]]</text>
+      <sha1>qxwoc7h2jnd1nquqbg5yt7nainqllju</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Calda e... infedele</title>
+    <ns>0</ns>
+    <id>29823707</id>
+    <revision>
+      <id>942496465</id>
+      <parentid>707029872</parentid>
+      <timestamp>2020-02-25T01:07:32Z</timestamp>
+      <contributor>
+        <ip>2806:2F0:92E0:C3B:10BD:7514:A4B9:E695</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1064" xml:space="preserve">{{Infobox film
+| name           =Un diablo bajo la almohada
+| image          =
+| image_size     =
+| caption        =
+| director       =[[José María Forqué]]
+| producer       =
+| writer         =
+| narrator       =
+| starring       =[[Ingrid Thulin]]&lt;br&gt;[[Maurice Ronet]]&lt;br&gt;[[Gabriele Ferzetti]]
+| music          =
+| cinematography =
+| editor       =
+| distributor    =
+| released       = 1968
+| runtime        =
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =
+}}
+'''''Un diablo bajo la almohada''''' (Italian title: '''''Calda e... infedele''''') is a [[Italian films of 1968|1968]] Spanish-Italian film. It stars [[Ingrid Thulin]], [[Maurice Ronet]] and [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|0061567}}
+
+[[Category:1968 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+
+{{1960s-Italy-film-stub}}</text>
+      <sha1>quoeau6ihbfiqev5a1zzuvebzaajzmg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Escalation (1968 Italian film)</title>
+    <ns>0</ns>
+    <id>29823709</id>
+    <revision>
+      <id>948799341</id>
+      <parentid>812327100</parentid>
+      <timestamp>2020-04-03T02:30:11Z</timestamp>
+      <contributor>
+        <username>BHGbot</username>
+        <id>5737366</id>
+      </contributor>
+      <comment>[[WP:BHGbot 5|BHGbot 5]]: diffuse [[Category:Directorial debut films]] to by-year sub-categories</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1631" xml:space="preserve">{{About|the 1968 Italian film| the 1968 animated short|Escalation (animated short)}}
+
+{{Infobox film
+| name           = Escalation 
+| image          =Escalation_gabriele_ferzetti_roberto_faenza_006_jpg_eacy.jpg
+| image_size     =
+| caption        =
+| director       = [[Roberto Faenza]]
+| producer       =
+| writer         = Roberto Faenza
+| narrator       =
+| starring       =   
+| music          = [[Ennio Morricone]]
+| cinematography =[[Luigi Kuveiller]]
+| editing      =[[Ruggero Mastroianni]]
+| distributor    =
+| released       = 1968
+| runtime        = 89 minutes
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =
+}}
+'''''Escalation''''' is a [[Italian films of 1968|1968]] [[Italy|Italian]] film written and directed by [[Roberto Faenza]] and starring actor [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt;
+
+== Cast ==
+* [[Lino Capolicchio]]	 : Luca Lambertenghi
+* [[Claudine Auger]]	: Carla Maria Manini	
+* [[Gabriele Ferzetti]]		: Augusto Lambertenghi	
+* [[Didi Perego]]	: L'investigatrice privata	
+* [[Leopoldo Trieste]]	 : Il sacerdote/ il santone	
+* Paola Corinti		
+* [[Dada Gallotti]]		
+* Jacqueline Perrier
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0062938}}
+
+{{Roberto Faenza}}
+
+[[Category:1968 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films directed by Roberto Faenza]]
+[[Category:Films scored by Ennio Morricone]]
+[[Category:1968 directorial debut films]]
+
+
+{{1960s-Italy-film-stub}}</text>
+      <sha1>0en2in6kfgmc3lc1h07rom89if5k9i5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Photography and photographers of the American Civil War</title>
+    <ns>0</ns>
+    <id>29823713</id>
+    <redirect title="Photographers of the American Civil War" />
+    <revision>
+      <id>399792496</id>
+      <timestamp>2010-11-30T20:55:21Z</timestamp>
+      <contributor>
+        <username>Gwillhickers</username>
+        <id>11642524</id>
+      </contributor>
+      <comment>moved [[Photography and photographers of the American Civil War]] to [[Photographers of the American Civil War]]: The page title is unnecessarily long and almost reads like a legal brief. See discussion page, 'Page title'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" xml:space="preserve">#REDIRECT [[Photographers of the American Civil War]]</text>
+      <sha1>60pzyp8tvs83l458pub6r38vhdg5rn0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Demographics of Victoria, British Columbia</title>
+    <ns>0</ns>
+    <id>29823715</id>
+    <redirect title="Victoria, British Columbia" />
+    <revision>
+      <id>505979738</id>
+      <parentid>500526726</parentid>
+      <timestamp>2012-08-05T23:10:59Z</timestamp>
+      <contributor>
+        <username>Steam5</username>
+        <id>493807</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" xml:space="preserve">#REDIRECT [[Victoria, British Columbia#Demographics]]</text>
+      <sha1>557vylqyy57lc9q73d9jnpmk80d60kc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Better a Widow</title>
+    <ns>0</ns>
+    <id>29823716</id>
+    <revision>
+      <id>958740495</id>
+      <parentid>916847539</parentid>
+      <timestamp>2020-05-25T13:35:46Z</timestamp>
+      <contributor>
+        <username>Sc2353</username>
+        <id>36112485</id>
+      </contributor>
+      <comment>removed [[Category:1960s comedy films]]; added [[Category:1968 comedy films]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2258" xml:space="preserve">{{Infobox film
+| name           =Better a Widow
+| image          =Meglio vedova.JPG
+| image_size     =
+| caption        =
+| director       = [[Duccio Tessari]] 
+| producer       =
+| writer         = [[Ennio De Concini]]
+| starring       =
+| music          =[[Carlo Rustichelli]]
+| cinematography =[[Ennio Guarnieri]] 
+| editor       =
+| distributor    =
+| released       = 1968
+| runtime        = 105 minutes
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =
+}}
+'''''Better a Widow''''' ({{lang-it|Meglio vedova}}) is a [[Italian films of 1968|1968]] [[Italy|Italian]] [[comedy film]]. It stars actor [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt;
+
+==Cast==
+* [[Virna Lisi]]: Rosa Minniti 
+* [[Peter McEnery]]: Tom Proby 
+* [[Gabriele Ferzetti]]: don Calogero Minniti 
+* [[Jean Servais]]: Baron Misceni 
+* [[Lando Buzzanca]]: Massito
+* [[Agnès Spaak]]: prostitute
+* [[Nino Terzo]]: Carmelo 
+* [[Carla Calò]]: governante di Rosa  
+* [[Roy Bosier]]: direttore d'orchestra 
+* [[Bruno Lauzi]]: direttore d'albergo
+
+==Reception==
+&quot;Werb.&quot; of ''[[Variety (magazine)|Variety]]'' found the film to be a &quot;modest imitation&quot; of American styled romantic adventure films, noting &quot;fine photography, sets, costuming and music&quot; but that &quot;screenplay is one of the major flaws but it is difficult to determine whether vet Italo writer Ennio De Concini and director Duccio Tessari are responsible or whether fault is with collaborators Brian Degas and Tudor Gates.&quot;&lt;ref name=&quot;variety-book&quot;&gt;{{cite book|title=Variety's Film Reviews 1968-1970|volume=12|publisher=R. R. Bowker|ISBN=0-8352-2792-8|year=1983|at=There are no page numbers in this book. This entry is found under the header &quot;November 20, 1968&quot;}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|id=0064653|title=Better a Widow}}
+{{Duccio Tessari}}
+
+[[Category:1968 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films directed by Duccio Tessari]]
+[[Category:Films scored by Carlo Rustichelli]]
+[[Category:Italian comedy films]]
+[[Category:1968 comedy films]]
+
+
+{{1960s-Italy-comedy-film-stub}}</text>
+      <sha1>js2x888im1hlisomksxi5a5tdcqp7en</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Billy kristol</title>
+    <ns>0</ns>
+    <id>29823722</id>
+    <redirect title="Billy Crystal" />
+    <revision>
+      <id>399792677</id>
+      <timestamp>2010-11-30T20:56:21Z</timestamp>
+      <contributor>
+        <username>Scottperry</username>
+        <id>59005</id>
+      </contributor>
+      <comment>created redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" xml:space="preserve">#REDIRECT [[Billy Crystal]]</text>
+      <sha1>kwjj6yosqbay7p7kjkpn6uht28xw7g7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Love Problems</title>
+    <ns>0</ns>
+    <id>29823724</id>
+    <revision>
+      <id>966263155</id>
+      <parentid>966262657</parentid>
+      <timestamp>2020-07-06T02:36:07Z</timestamp>
+      <contributor>
+        <username>Some1</username>
+        <id>8695428</id>
+      </contributor>
+      <comment>Reverted to revision 777390774 by [[Special:Contributions/Alex Cohn|Alex Cohn]] ([[User talk:Alex Cohn|talk]]): Remove spam links. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1532" xml:space="preserve">{{Infobox film
+| name           =Love Problems
+| image          =L'età del malessere.jpg
+| image_size     =
+| caption        =
+| director       = [[Giuliano Biagetti]] 
+| producer       =Giancarlo Segarelli 
+| writer         =Giuliano Biagetti&lt;br /&gt;   Luciano Lucignani&lt;br /&gt;  [[Dacia Maraini]] 
+| narrator       =
+| starring       =[[Haydée Politoff]]
+| music          =Stefano Torossi 
+| cinematography =Antonio Borghesi 	
+| editor       =
+| distributor    =
+| released       = 1968
+| runtime        =
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =
+}}
+'''''Love Problems''''' ({{lang-it|L'età del malessere}}, literally &quot;The Age of Uneasiness&quot;) is a [[Italian films of 1968|1968]] [[Italy|Italian]]  [[drama film]] directed by [[Giuliano Biagetti]]. It stars actor [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt; The film is based on a novel by [[Dacia Maraini]].
+
+==Plot==
+{{no plot|date=January 2016}}
+
+== Cast ==
+* [[Haydée Politoff]] 	as Enrica
+* [[Jean Sorel]] 	as Giorgio
+* [[Eleonora Rossi Drago]] 	as Countess
+* [[Gabriele Ferzetti]] 	as Guido 
+* [[Salvo Randone]] 
+* [[Yorgo Voyagis]] 
+* [[Claudio Gora]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|id=0062944}}
+ 
+[[Category:1968 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films directed by Giuliano Biagetti]]
+
+
+{{1960s-Italy-film-stub}}</text>
+      <sha1>6pf8y1cfzakd3dw1xqnwrw3z6zk7g25</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roma come Chicago</title>
+    <ns>0</ns>
+    <id>29823725</id>
+    <revision>
+      <id>959019045</id>
+      <parentid>914392868</parentid>
+      <timestamp>2020-05-26T19:35:26Z</timestamp>
+      <contributor>
+        <username>PrimeBOT</username>
+        <id>29463730</id>
+      </contributor>
+      <minor />
+      <comment>/* top */[[User:PrimeBOT/30|Task 30]] - replacing deprecated parameters in [[Template:Infobox film]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4578" xml:space="preserve">{{Infobox film
+| name = Roma come Chicago
+| image = Roma come Chicago.jpg
+| alt = 
+| caption = 
+| native_name = &lt;!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} --&gt;
+| director = [[Alberto De Martino]]
+| producer = [[Dino de Laurentiis]]{{sfn|Curti|2013|p=14}}
+| writer = 
+| screenplay = {{plainlist|*Giacinto Ciaccio
+*Massimo D'Avack
+*[[Carlo Romano]]
+*[[Dino Maiuri]]
+*Massimo De Rita
+*Alberto De Martino
+*[[Fabio Carpi]]
+*[[Lianella Carell]]
+*[[Piero Tellini]]{{sfn|Curti|2013|p=14}}}}
+| story = {{plainlist|*Giacinto Ciaccio
+*Massimo D'Avack
+*Carlo Romano{{sfn|Curti|2013|p=14}}}}
+| based_on = &lt;!-- {{Based on|title of the original work|writer of the original work}} --&gt;
+| starring = {{plainlist|* [[John Cassavetes]]
+* [[Gabriele Ferzetti]]
+* [[Anita Sanders]]
+* [[Nikos Kourkoulos]]}}
+| narrator = 
+| music = {{plainlist|*[[Ennio Morricone]]
+*[[Bruno Nicolai]]}}
+| cinematography = [[Aldo Tonti]]{{sfn|Curti|2013|p=14}}
+| editing = [[Otello Colangeli]]{{sfn|Curti|2013|p=14}}
+| studio = [[Dino de Laurentiis Cinematografica]]{{sfn|Curti|2013|p=14}}
+| distributor = [[Paramount Pictures]]
+| released = {{Film date|df=yes|1968|11|20|Italy}}
+| runtime = 104 minutes{{sfn|Curti|2013|p=14}}
+| country = Italy{{sfn|Curti|2013|p=14}}
+| language = 
+| budget = 
+| gross = ₤320.84 million
+}}
+
+'''''Roma come Chicago''''' (literally &quot;Rome like Chicago&quot;) is a 1968 Italian [[crime film]] directed by [[Alberto De Martino]]. It stars actor [[Gabriele Ferzetti]].
+
+==Cast==
+* [[John Cassavetes]] as Mario Corda
+* [[Gabriele Ferzetti]] as Commissioner
+* [[Anita Sanders]] as Lea Corda
+* [[Nikos Kourkoulos]] as Enrico
+* [[Riccardo Cucciolla]] as Vice-Commissioner Pascuttini
+* [[Luigi Pistilli]] as Colangeli
+* [[Osvaldo Ruggieri]] as Inspector Sernesi
+* [[Guido Lollobrigida]] as Angelo Scotese
+* [[Piero Morgia]] as Carlo Taddei
+
+==Production==
+Among the films crew is cinematographer [[Aldo Tonto]] who had worked with [[Federico Fellini]] and [[Roberto Rossellini]].{{sfn|Curti|2013|p=15}} The score was composed by [[Ennio Morricone]] and [[Bruno Nicolai]].{{sfn|Curti|2013|p=15}} Morricone and Nicolai's score was re-worked music from the 1968 TV show ''[[Musica da sera]]''.{{sfn|Curti|2013|p=15}} Alberto De Martino spoke about working with [[John Cassavetes]], stating that he was &quot;the most difficult actor I have ever worked with. When we first met, his wife [[Gena Rowlands]] came too. He introduced me to her as &quot;the 
+most intelligent  director in Europe&quot; which she responded with &quot;Give him time!&quot;{{sfn|Curti|2013|p=15}} Both De Martino and Cassavetes argued on the set but according to De Martino, the two ended production on good terms.{{sfn|Curti|2013|p=15}}
+
+''Roma come Chicago'' was shot at De Laurentiis studios and on location in Rome.{{sfn|Curti|2013|p=14}} Director [[Alberto De Martino]] discussed the films location as an &quot;Americanized Rome&quot;.{{sfn|Curti|2013|p=15}}
+
+==Release==
+''Roma come Chicago'' was released in Italy on 20 November 1968 where it was distributed by Paramount – De Laurentiis.{{sfn|Curti|2013|p=14}} It grossed a total of 320.84 million [[Italian lira|lira]] on its theatrical run in Italy.{{sfn|Curti|2013|p=14}} As of 2013, the film has not been released on home video.{{sfn|Curti|2013|p=14}}
+
+==Reception==
+A review in the ''[[Monthly Film Bulletin]]'' stated that the film was a &quot;fairly literal imitation of the American location thrillers of the Foties and Fifties made by Hathaway, Siodmak and others, except that it is a little more calculated in its violence.&quot;&lt;ref name=&quot;mfb&quot;&gt;{{cite magazine|title=Roma come Chicago (Bandits in Rome)|magazine=[[Monthly Film Bulletin]]|pages=58|volume=37|issue=434|publisher=[[British Film Institute]]|date=March 1970}}&lt;/ref&gt;
+
+==See also==
+* [[John Cassavetes filmography]]
+*[[List of crime films of the 1960s]]
+*[[List of Italian films of 1968]]
+
+==Notes==
+{{Reflist}}
+
+===References===
+{{Refbegin}}
+* {{cite book
+ |last=Curti
+ |first=Roberto
+ |title=Italian Crime Filmography, 1968-1980
+ |publisher=McFarland
+ |isbn=0786469765
+ |year=2013
+ |ref=harv
+}}
+{{Refend}}
+
+==External links==
+* {{imdb title|id=|title=Roma come Chicago}}
+
+{{Alberto De Martino}}
+
+[[Category:1968 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films scored by Ennio Morricone]]
+[[Category:Films directed by Alberto De Martino]]
+[[Category:1960s crime films]]
+[[Category:Gangster films]]
+[[Category:Italian crime films]]
+[[Category:Films shot in Rome]]
+[[Category:Films set in Rome]]
+[[Category:Films produced by Dino De Laurentiis]]
+
+
+{{1960s-Italy-film-stub}}</text>
+      <sha1>s4dfpgtkrhz4aipuh5q2qo73mnxwbcy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brests</title>
+    <ns>0</ns>
+    <id>29823727</id>
+    <redirect title="Brest" />
+    <revision>
+      <id>399792786</id>
+      <timestamp>2010-11-30T20:56:53Z</timestamp>
+      <contributor>
+        <username>OlEnglish</username>
+        <id>7181920</id>
+      </contributor>
+      <comment>teehee</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37" xml:space="preserve">#REDIRECT [[Brest]] {{R from plural}}</text>
+      <sha1>hnk8m9gy6j4oc2b4a0bnfuh4u3z3bwg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cavan Football Team 1952</title>
+    <ns>10</ns>
+    <id>29823730</id>
+    <revision>
+      <id>967378254</id>
+      <parentid>922436139</parentid>
+      <timestamp>2020-07-12T22:33:17Z</timestamp>
+      <contributor>
+        <username>CorkMan</username>
+        <id>301739</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1005" xml:space="preserve">{{Navbox
+| name       = Cavan Football Team 1952
+| title      = [[Cavan GAA|{{white|Cavan – 1952 All-Ireland Senior Football Champions}}]] (5th title)
+| state      = {{{state|autocollapse}}}
+| listclass  = hlist
+| titlestyle = background:blue; color:white;
+
+| list1  = 
+* {{small|1}} [[S. Morris]]
+* {{small|2}} [[J. McCabe]]
+* {{small|3}} [[Phil Brady|P. Brady]]
+* {{small|4}} [[D. Maguire]]
+* {{small|5}} [[P. Carolan]] 
+* {{small|6}} [[L. Maguire]]
+* {{small|7}} [[B. O'Reilly]]
+* {{small|8}} [[T. Hardy]]
+* {{small|9}} [[Victor Sherlock|V. Sherlock]]
+* {{small|10}} [[Séamus Hetherton|S. Hetherton]]
+* {{small|11}} [[Mick Higgins|M. Higgins]]
+* {{small|12}} [[Edwin Carolan|E. Carolan]]
+* {{small|13}} [[John Joe Cassidy|J. J. Cassidy]]
+* {{small|14}} [[A. Tighe]]
+* {{small|15}} [[Johnny Cusack|J. Cusack]]
+
+}}&lt;noinclude&gt;
+{{collapsible option}}
+[[Category:All-Ireland Senior Football Championship winners navigational boxes]]
+[[Category:Cavan county football team navigational boxes]]
+&lt;/noinclude&gt;</text>
+      <sha1>32b07spsx6927ig0n6fvqpgvaxfhqft</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ariel-class gunboat</title>
+    <ns>0</ns>
+    <id>29823731</id>
+    <revision>
+      <id>827485989</id>
+      <parentid>778138901</parentid>
+      <timestamp>2018-02-25T00:13:54Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor />
+      <comment>Fix [[:Category:Pages using deprecated image syntax]] (default size specified); [[WP:GenFixes]] on, using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5079" xml:space="preserve">{{Use dmy dates|date=July 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=HMS Coquette (1871).jpg
+|Ship caption=HMS ''Coquette'', by [[William Frederick Mitchell]] (1873)
+}}
+{{Infobox ship class overview
+|Name=''Ariel''-class gunboats
+|Builders=*Pembroke Dockyard
+*Chatham Dockyard
+|Operators=*{{navy|UK}}
+*[[File:Civil Ensign of the United Kingdom.svg|24px|Merchant navy Ensign of the UK]] British Merchant Navy
+|Class before={{sclass-|Britomart|gunboat|4}}
+|Class after={{sclass-|Forester|gunboat|4}}
+|Subclasses=
+|Cost=Hull £10,600, machinery £3,900 (''Swinger'')&lt;ref name=RW&gt;Winfield (2004), p.297&lt;/ref&gt;
+|Built range=1871&amp;ndash;1873
+|In service range=
+|In commission range=1871&amp;ndash;1895
+|Total ships building=
+|Total ships planned=
+|Total ships completed=9
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=0
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=RW/&gt;
+|Ship class= Composite [[gunboat]]
+|Ship type= 
+|Ship displacement=*430 tons
+*(except ''Ariel'' &amp; ''Zephyr'' - 438&amp;nbsp;tons)
+|Ship tons burthen= 295 [[Builder's Old Measurement|bm]]
+|Ship length={{convert|125|ft|0|in|m|abbr=on|1}}
+|Ship beam=*{{convert|22|ft|6|in|m|abbr=on|1}}
+*(except ''Ariel'' &amp; ''Zephyr'' - 23&amp;nbsp;ft)
+|Ship height=
+|Ship draught={{convert|10|ft|3|in|m|abbr=on|1}} max
+|Ship depth=
+|Ship power=60 [[Horsepower#Nominal horsepower|nhp]]
+|Ship propulsion=*1 × 2-cylinder horizontal compound-expansion steam engine (except ''Swinger'' - single-expansion)
+*2 × boilers
+*1 × (hoisting) screw
+|Ship sail plan=Three-masted [[barquentine]] rig
+|Ship speed={{convert|9.5|kn|km/h|abbr=on}}
+|Ship range=
+|Ship endurance=
+|Ship complement=40 (later 60)
+|Ship armament=*2 × {{convert|6|in|mm|adj=on}} 64-pounder (56cwt) muzzle-loading rifles
+*2 × [[RBL 20 pounder Armstrong gun|{{convert|4|in|mm|adj=on}} 20-pounder Armstrong breech loaders]]
+|Ship armour=
+|Ship notes=
+}}
+|}
+
+The '''''Ariel''-class gunboat''' was a class of nine 4-gun composite gunboats built for the [[Royal Navy]] between 1871 and 1873.  Although most were sold by 1890, one of them survived into the 1920s as a salvage vessel in private ownership.  They were the first class of Royal Navy gunboat built of composite construction, that is, with iron keel, stem and stern posts, and iron framing, but planked with wood.
+
+==Design and construction==
+Designed by [[Edward James Reed|Sir Edward Reed]], [[Director of Naval Construction|Chief Constructor]] of the Royal Navy, the ''Ariel''-class gunboats were the first Royal Navy gunboats of composite construction.&lt;ref name=gunboat&gt;Preston (2007) p.160&lt;/ref&gt;  They were some of the first vessels to be fitted with compound-expansion engines, allowing the Royal Navy to experiment with new engine designs at little risk in small, cheap vessels.&lt;ref name=gunboat/&gt;&lt;ref group=Note&gt;''Swinger'', uniquely in the class, was engined by [[Humphrys, Tennant &amp; Co.]] with a horizontal single-expansion steam engine.&lt;/ref&gt; These engines were rated 60 [[Horsepower#Nominal horsepower|nominal horsepower]] (an [[Horsepower#Indicated horsepower|indicated horsepower]] of between {{convert|461|ihp|kW|lk=in|abbr=on}} and {{convert|534|ihp|kW|lk=in|abbr=on}}).  They were armed with two {{convert|6|in|mm|adj=on}} 64-pounder (56cwt) muzzle-loading rifles and two {{convert|4|in|mm|adj=on}} 20-pounder Armstrong breech loaders.  All 4 guns were mounted on traversing carriages.  Some of the class were re-armed in the 1880s with two [[BL 5 inch gun Mk I – V|5-inch]] and two [[BL 4 inch naval gun Mk I – VI|4-inch]] breech loaders.  All the ships of the class carried a three-masted [[barquentine]] rig.&lt;ref name=RW/&gt;
+
+[[File:HMS Swinger (1872) launch.jpg|thumb|none|The launch of HMS ''Swinger'']]
+
+==Ships==
+{| class=&quot;wikitable&quot; style=&quot;text-align:left&quot;
+!Name||Ship Builder|||Launched|||Fate
+|-
+|{{HMS|Coquette|1871|2}}||Pembroke Dockyard||5 April 1871||Sold in August 1889
+|-
+|{{HMS|Foam|1871|2}}||Pembroke Dockyard||29 August 1871||Sold in June 1887
+|-
+|{{HMS|Decoy|1871|2}}||Pembroke Dockyard||12 October 1871||Sold in October 1885
+|-
+|{{HMS|Merlin|1871|2}}||Pembroke Dockyard||24 November 1871||Sold on 27 February 1891
+|-
+|{{HMS|Mosquito|1871|2}}||Pembroke Dockyard||9 December 1871||Sold in December 1888
+|-
+|{{HMS|Goshawk|1872|2}}||Pembroke Dockyard||23 January 1872||Hulk in 1902. Sold c1906
+|-
+|{{HMS|Swinger|1872|2}}||Pembroke Dockyard||7 February 1872||Hulk 1895. Sold to Rogers &amp; Company in June 1924
+|-
+|{{HMS|Ariel|1873|2}}||Chatham Dockyard||11 February 1873||Coastguard 26 November 1877. Sold in August 1889
+|-
+|{{HMS|Zephyr|1873|2}}||Chatham Dockyard||11 February 1873||Sold to George Cohen as a salvage vessel in February 1889. Broken up at Briton Ferry in June 1929
+|}
+
+==Notes==
+{{reflist|group=Note}}
+
+==References==
+{{Reflist}}
+
+==Publications==
+*{{Colledge}}
+*{{winfield}}
+*{{gunboat}}
+
+{{Ariel class gunboats}}
+
+[[Category:Ariel-class gunboats| ]]
+[[Category:Victorian-era gunboats of the United Kingdom| Ariel]]
+[[Category:Gunboat classes]]</text>
+      <sha1>6hvt9pbxe0dj0v3z329hinkk2oxcq06</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Television Rules The Nation</title>
+    <ns>0</ns>
+    <id>29823733</id>
+    <redirect title="Human After All" />
+    <revision>
+      <id>399792911</id>
+      <timestamp>2010-11-30T20:57:35Z</timestamp>
+      <contributor>
+        <username>Welsh</username>
+        <id>310131</id>
+      </contributor>
+      <minor />
+      <comment>Link repair:  Redirecting page to Human After All  - [[Wikipedia:WikiProject Red Link Recovery|You can help!]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" xml:space="preserve">#REDIRECT [[Human After All]]</text>
+      <sha1>81rn9nmdm9dblhyhiar88a9ngh1ps21</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>That Splendid November</title>
+    <ns>0</ns>
+    <id>29823735</id>
+    <revision>
+      <id>958892126</id>
+      <parentid>938151371</parentid>
+      <timestamp>2020-05-26T05:46:40Z</timestamp>
+      <contributor>
+        <username>PrimeBOT</username>
+        <id>29463730</id>
+      </contributor>
+      <minor />
+      <comment>[[User:PrimeBOT/30|Task 30]] - replacing deprecated parameters in [[Template:Infobox film]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2212" xml:space="preserve">{{Infobox film
+| name           = That Splendid November
+| image          = Un bellissimo novembre.jpg
+| image_size     = 
+| caption        = Turkish [[film poster]]
+| director       = [[Mauro Bolognini]]
+| producer       = Attilio Ricco
+| screenplay     = Lucia Drudi Demby&lt;br&gt;Antonio Altoviti&lt;br&gt;Attilio Riccio&lt;br&gt;{{small|(as Henry Vaughn)}}
+| based_on       = {{based on|''That Splendid November''|[[Ercole Patti]]}}
+| starring       = [[Gina Lollobrigida]]&lt;br&gt;[[Gabriele Ferzetti]]&lt;br&gt;André Laurence&lt;br&gt;Paolo Turco
+| music          = [[Ennio Morricone]]
+| cinematography = [[Armando Nannuzzi]]
+| editing        = [[Roberto Perpignani]]
+| studio         = Adelphia Compagnia Cinematografica&lt;br&gt;[[United Artists|Les Productions Artistes Associés]]
+| distributor    = Dear Film {{small|(Italy)}}&lt;br&gt;[[United Artists]] {{small|(International)}}
+| released       = 1969
+| runtime        = 5 April 1969
+| country        = Italy&lt;br&gt;France
+| language       = Italian
+| budget         = 
+}}
+'''''That Splendid November''''' (Italian: '''''Un bellissimo novembre''''') is a [[Italian films of 1969|1969]] [[Italy|Italian]]  [[film]] directed by [[Mauro Bolognini]]. It stars actors [[Gabriele Ferzetti]]&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt; and [[Gina Lollobrigida]]. It is based on a novel with the same name written by [[Ercole Patti]].&lt;ref&gt;{{cite book|last=Roberto Poppi, Mario Pecorari|title=Dizionario del cinema italiano. I film|publisher=Gremese Editore, 2007}}&lt;/ref&gt;
+
+==Cast==
+* [[Gina Lollobrigida]]: Cettina
+* [[André Laurence]]: Sasà
+* [[Gabriele Ferzetti]]: Biagio
+* [[Paolo Turco]]: Nino
+* [[Danielle Godet]]: Elisa
+* [[Margarita Lozano]]: Amalia
+* [[Isabella Savona]]: Giulietta
+* [[Jean Maucorps]]: Mimì
+* [[Corrado Gaipa]]: Alfio
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|62722}}
+{{Mauro Bolognini}}
+
+{{DEFAULTSORT:That Splendid November}}
+[[Category:1969 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films set in Sicily]]
+[[Category:Films scored by Ennio Morricone]]
+[[Category:United Artists films]]
+
+
+{{1960s-Italy-film-stub}}</text>
+      <sha1>md8xs4r9toog4t93m43ike2yjfb4evj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>L'amica</title>
+    <ns>0</ns>
+    <id>29823739</id>
+    <revision>
+      <id>932443185</id>
+      <parentid>923709392</parentid>
+      <timestamp>2019-12-26T00:01:33Z</timestamp>
+      <contributor>
+        <username>Lord Cornwallis</username>
+        <id>5957417</id>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1542" xml:space="preserve">{{Infobox film
+| name           =L'amica
+| image          =L'amica.jpg
+
+| caption        =
+| director       =[[Alberto Lattuada]]
+| producer       =
+| writer         =Alberto Lattuada&lt;br /&gt; [[Mario Cecchi Gori]]&lt;br /&gt; Gianni Vernuccio
+| narrator       =
+| starring       =[[Lisa Gastoni]]&lt;br /&gt;[[Gabriele Ferzetti]]
+| music          =[[Luis Enríquez Bacalov]]
+| cinematography =
+| editing       = [[Sergio Montanari]]
+| distributor    =
+| released       = 1969
+| runtime        =
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =
+}}
+'''''L'amica''''' is a [[Italian films of 1969|1969]] [[Italy|Italian]]  [[film]]. It stars actor [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt;
+
+==Plot==
+{{expand section|date=October 2015}}
+
+==Cast==
+*[[Lisa Gastoni]]: Lisa Marchesi
+*[[Gabriele Ferzetti]]: Mario Marchesi
+*[[Elsa Martinelli]]: Carla Nervi
+*[[Jean Sorel]]: Franco Raimondi
+*[[Frank Wolff (actor)|Frank Wolff]]: Guido Nervi
+*[[Ray Lovelock (actor)|Ray Lovelock]]: Claudio Nervi
+*{{ill|Marina Coffa|it|}}: Giovanna
+*Sergio Serafini: assistant Dr. Nervi
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|64014}}
+
+{{Alberto Lattuada}}
+
+{{DEFAULTSORT:Amica}}
+[[Category:1969 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films scored by Luis Bacalov]]
+[[Category:Films directed by Alberto Lattuada]]
+
+
+{{1960s-Italy-film-stub}}</text>
+      <sha1>4c7zpv7xwt4hm2sebevt78rz3cmzrvu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>La confessione</title>
+    <ns>0</ns>
+    <id>29823740</id>
+    <redirect title="The Confession (1970 film)" />
+    <revision>
+      <id>435776324</id>
+      <parentid>406962867</parentid>
+      <timestamp>2011-06-23T07:57:17Z</timestamp>
+      <contributor>
+        <username>Ary29</username>
+        <id>64395</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[The Confession (1970 film)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" xml:space="preserve">#REDIRECT [[The Confession (1970 film)]]</text>
+      <sha1>ehi0wwdytdgf9mojbdy9omzuu85pc8n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ryan Flynn (ice hockey)</title>
+    <ns>0</ns>
+    <id>29823741</id>
+    <revision>
+      <id>926933456</id>
+      <parentid>926923551</parentid>
+      <timestamp>2019-11-19T09:42:50Z</timestamp>
+      <contributor>
+        <username>Triggerbit</username>
+        <id>7732916</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6600" xml:space="preserve">{{Use mdy dates|date=September 2013}}
+{{Infobox ice hockey player
+| name = Ryan Flynn
+| image = 
+| caption =
+| image_size = 230px
+| played_for = [[Milwaukee Admirals]]&lt;br&gt;[[HC Bolzano]]&lt;br&gt;[[Ilves]]
+| position = [[Winger (ice hockey)|Right Wing]]
+| birth_date = {{birth date and age|1988|03|22}}
+| birth_place = [[Saint Paul, Minnesota|Saint Paul]], [[Minnesota]], U.S.
+| height_ft = 6
+| height_in = 3
+| weight_lb = 209
+| shoots = Left
+| draft = 176th overall
+| draft_team = [[Nashville Predators]] 
+| draft_year = 2006
+| career_start = 2010
+| career_end = 2014
+}}
+'''Ryan Flynn''' (born March 22, 1988) is an [[United States|American]] former professional [[ice hockey]] player. He most notably played with [[Ilves]] of the Finnish [[Liiga]]. He was selected by the [[Nashville Predators]] in the 6th round (176th overall) of the [[2006 NHL Entry Draft]].
+
+==Playing career==
+Prior to turning professional, Flynn attended the [[University of Minnesota]] where he played four seasons with the [[Minnesota Golden Gophers men's ice hockey]] team which competes in [[National Collegiate Athletic Association|NCAA]]'s [[Division I (NCAA)|Division I]] in the [[Western Collegiate Hockey Association|WCHA]] conference.&lt;ref&gt;{{cite web|url=http://predators.nhl.com/club/news.htm?id=523720|title=Nashville Predators Team News|publisher=}}&lt;/ref&gt;
+
+Flynn began his professional career with the [[Milwaukee Admirals]] of the [[American Hockey League]].&lt;ref&gt;[http://www.clarksvilleonline.com/2011/09/25/nashville-predators-reduce-training-camp-roster-to-33/ Nashville Predators reduce Training Camp Roster to 33 » Clarksville, TN Online]&lt;/ref&gt;
+
+For the 2012–13 season he played in [[Elite.A|Italy]] with [[HC Bolzano]], scoring 28 goals and 20 assists for 48 points in 42 games played, and on September 7, 2013, it was announced that Flynn would be joining [[Ilves]] to play in the Finnish [[SM-liiga]].&lt;ref&gt;{{cite web|url=http://ilves.com/?p=15292|title=Voimahyökkaajä Ryan Flynn Ilvekseen|work=www.Ilves.com}}&lt;/ref&gt;
+
+==International play==
+Flynn competed at the [[2006 IIHF World U18 Championships]] where he won a gold medal as a member of Team USA.&lt;ref&gt;{{cite web|url=http://www.nahl.com/news/story.cfm?id=203|title=USA Hockey announces World Junior team|work=North American Hockey League (NAHL)}}&lt;/ref&gt;
+
+==Career statistics==
+===Regular season and playoffs===
+{| border=&quot;0&quot; cellpadding=&quot;1&quot; cellspacing=&quot;0&quot; style=&quot;text-align:center; width:60em&quot;
+|- bgcolor=&quot;#e0e0e0&quot;
+! colspan=&quot;3&quot; bgcolor=&quot;#ffffff&quot; |
+! rowspan=&quot;99&quot; bgcolor=&quot;#ffffff&quot; |
+! colspan=&quot;5&quot; | [[Regular season]]
+! rowspan=&quot;99&quot; bgcolor=&quot;#ffffff&quot; |
+! colspan=&quot;5&quot; | [[Playoffs]]
+|- bgcolor=&quot;#e0e0e0&quot;
+! [[Season (sports)|Season]]
+! Team
+! League
+! GP
+! [[Goal (ice hockey)|G]]
+! [[Assist (ice hockey)|A]]
+! [[Point (ice hockey)|Pts]]
+! [[Penalty (ice hockey)|PIM]]
+! GP
+! G
+! A
+! Pts
+! PIM
+|- ALIGN=&quot;center&quot;
+| 2004–05
+| [[USA Hockey National Team Development Program|U.S. National Development Team]]
+| [[North American Hockey League|NAHL]]
+| 41
+| 11
+| 8
+| 19
+| 31
+| 9
+| 2
+| 4
+| 6
+| 7
+|- ALIGN=&quot;center&quot; bgcolor=&quot;#f0f0f0&quot;
+| 2005–06
+| U.S. National Development Team
+| NAHL
+| 17
+| 6
+| 5
+| 11
+| 20
+| —
+| —
+| —
+| —
+| —
+|- ALIGN=&quot;center&quot;
+| [[2006–07 NCAA Division I men's ice hockey season|2006–07]]
+| [[Minnesota Golden Gophers men's ice hockey|U. of Minnesota]]
+| [[Western Collegiate Hockey Association|WCHA]]
+| 43
+| 5
+| 8
+| 13
+| 58
+| —
+| —
+| —
+| —
+| —
+|- ALIGN=&quot;center&quot; bgcolor=&quot;#f0f0f0&quot;
+| [[2007–08 NCAA Division I men's ice hockey season|2007–08]]
+| U. of Minnesota
+| WCHA
+| 38
+| 4
+| 11
+| 15
+| 51
+| —
+| —
+| —
+| —
+| — 
+|- ALIGN=&quot;center&quot;
+| [[2008–09 NCAA Division I men's ice hockey season|2008–09]]
+| U. of Minnesota
+| WCHA
+| 37
+| 6
+| 13
+| 19
+| 62
+| —
+| —
+| —
+| —
+| —
+|- ALIGN=&quot;center&quot; bgcolor=&quot;#f0f0f0&quot;
+| [[2009–10 NCAA Division I men's ice hockey season|2009–10]]
+| U. of Minnesota
+| WCHA
+| 38
+| 2
+| 8
+| 10
+| 36
+| —
+| —
+| —
+| —
+| — 
+|- ALIGN=&quot;center&quot;
+| [[2009-10 AHL season|2009–10]]
+| [[Milwaukee Admirals]]
+| [[American Hockey League|AHL]]
+| 2
+| 0
+| 0
+| 0
+| 0
+| 1
+| 0
+| 0
+| 0
+| 0
+|- ALIGN=&quot;center&quot; bgcolor=&quot;#f0f0f0&quot;
+| [[2010-11 AHL season|2010–11]]
+| Milwaukee Admirals
+| AHL
+| 65
+| 6
+| 6
+| 12
+| 41
+| 9
+| 0
+| 0
+| 0
+| 4
+|- ALIGN=&quot;center&quot;
+| [[2011-12 AHL season|2011–12]]
+| Milwaukee Admirals
+| AHL
+| 70
+| 9
+| 15
+| 24
+| 34
+| 3
+| 0
+| 0
+| 0
+| 6
+|- ALIGN=&quot;center&quot; bgcolor=&quot;#f0f0f0&quot;
+| [[2012-13 Serie A (ice hockey)|2012–13]]
+| [[HC Bolzano]]
+| [[Serie A (ice hockey)|ITL]]
+| 42
+| 28
+| 20
+| 48
+| 73
+| 6
+| 2
+| 2
+| 4
+| 10
+|- ALIGN=&quot;center&quot;
+| [[2013-14 Liiga season|2013–14]]
+| [[Ilves]]
+| [[Liiga]]
+| 13
+| 0
+| 1
+| 1
+| 20
+| —
+| —
+| —
+| —
+| —
+|- bgcolor=&quot;#e0e0e0&quot;
+! colspan=&quot;3&quot; | AHL totals
+! 137
+! 15
+! 21
+! 36
+! 75
+! 13
+! 0
+! 0
+! 0
+! 10
+|}
+
+===International===
+{| border=&quot;0&quot; cellpadding=&quot;1&quot; cellspacing=&quot;0&quot; ID=&quot;Table3&quot; style=&quot;text-align:center; width:40em&quot;
+|- ALIGN=&quot;center&quot; bgcolor=&quot;#e0e0e0&quot;
+! Year
+! Team
+! Event
+! Result
+! rowspan=&quot;99&quot; bgcolor=&quot;#ffffff&quot; | 
+! GP
+! G
+! A
+! Pts
+! PIM
+|-
+| [[2005 World U-17 Hockey Challenge|2005]]
+| [[United States men's national junior ice hockey team|United States]]
+| [[World U17 Hockey Challenge|U17]]
+| 5th
+| 5
+| 2
+| 3
+| 5
+| 4
+|- bgcolor=&quot;#f0f0f0&quot;
+| [[2006 IIHF World U18 Championships|2006]]
+| United States
+| [[IIHF World U18 Championships|WJC18]]
+| {{goca}}
+| 6
+| 2
+| 1
+| 3
+| 4
+|- 
+| [[2008 World Junior Ice Hockey Championships|2008]]
+| United States
+| [[World Junior Ice Hockey Championships|WJC]]
+| 4th
+| 6
+| 0
+| 0
+| 0
+| 16
+|- bgcolor=&quot;#e0e0e0&quot; 
+! colspan=&quot;4&quot; | Junior totals 
+! 17
+! 4
+! 4
+! 8
+! 24
+|}
+
+==Awards and honors==
+{| class=&quot;wikitable&quot;
+! Award
+! Year
+!
+|- ALIGN=&quot;center&quot; bgcolor=&quot;#e0e0e0&quot;
+| colspan=&quot;3&quot; | [[NCAA Men's Ice Hockey Championship|College]]
+|-
+| [[Western Collegiate Hockey Association|WCHA]] All-Academic Team 
+| [[2009–10 NCAA Division I men's ice hockey season|2009–10]]
+| &lt;ref&gt;{{cite web|url=http://www.eliteprospects.com/awards.php?award=NCAA%20%28WCHA%29%20All-ARyanmic%20Team|title=Elite Prospects - Hockey Awards|publisher=}}&lt;/ref&gt;
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{icehockeystats}}
+
+{{DEFAULTSORT:Flynn, Ryan}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:American men's ice hockey right wingers]]
+[[Category:Bolzano HC players]]
+[[Category:Ilves players]]
+[[Category:Milwaukee Admirals players]]
+[[Category:Minnesota Golden Gophers men's ice hockey players]]
+[[Category:Ice hockey people from Minnesota]]
+[[Category:Nashville Predators draft picks]]
+[[Category:USA Hockey National Team Development Program players]]
+
+{{US-icehockey-winger-stub}}</text>
+      <sha1>8p55ge884ant5y7rbr3a5qcteq4xe6e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cannabis (film)</title>
+    <ns>0</ns>
+    <id>29823743</id>
+    <revision>
+      <id>965981477</id>
+      <parentid>921462075</parentid>
+      <timestamp>2020-07-04T15:44:36Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <comment>Rescued 4 archive links; reformat 1 link. [[User:GreenC/WaybackMedic_2.5|Wayback Medic 2.5]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3997" xml:space="preserve">{{Infobox film
+| name           = Cannabis
+| image          = Cannabis-film-poster.jpg
+| image_size     =
+| caption        = theatrical release poster
+| director       =[[Pierre Koralnik]]&lt;ref name=&quot;bfi-credits&quot;&gt;{{cite web|url=http://ftvdb.bfi.org.uk/sift/title/160922?view=credit|archive-url=https://web.archive.org/web/20120802183328/http://ftvdb.bfi.org.uk/sift/title/160922?view=credit|url-status=dead|archive-date=August 2, 2012|work=BFI Film &amp; TV Database|publisher=[[British Film Institute]]|accessdate=September 22, 2013|title=Credits}}&lt;/ref&gt;
+| producer       ={{plainlist|
+*[[Roger Duchet]]
+*Nat Wachsberger&lt;ref name=&quot;bfi-credits&quot; /&gt;}}
+| writer         =
+| narrator       =
+| starring       ={{plainlist|
+*[[Serge Gainsbourg]]
+*[[Jane Birkin]]
+*[[Paul Nicholas]]
+*[[Curd Jurgens]]&lt;ref name=&quot;bfi-cast&quot;&gt;{{cite web|url=http://ftvdb.bfi.org.uk/sift/title/160922?view=cast|archive-url=https://web.archive.org/web/20120802183321/http://ftvdb.bfi.org.uk/sift/title/160922?view=cast|url-status=dead|archive-date=August 2, 2012|work=BFI Film &amp; TV Database|publisher=[[British Film Institute]]|accessdate=September 22, 2013|title=Cast}}&lt;/ref&gt;}}
+| music          =Serge Gainsbourg&lt;ref name=&quot;bfi-credits&quot; /&gt;
+| cinematography =[[Willy Kurant]]&lt;ref name=&quot;bfi-credits&quot; /&gt;
+| editing       = Françoise Collin&lt;ref name=&quot;bfi-credits&quot; /&gt;	
+| studio    = {{plainlist|
+*Euro-Images
+*Capitole Films
+*[[Roxy-Film]]
+*P.C.E. - Produzioni Cinematografiche Europee&lt;ref name=&quot;bfi-credits&quot; /&gt;}}
+| released       = September 2, 1970&lt;ref name=&quot;bfi-release&quot;&gt;{{cite web|url=http://ftvdb.bfi.org.uk/sift/title/160922?view=release|archive-url=https://web.archive.org/web/20120802183331/http://ftvdb.bfi.org.uk/sift/title/160922?view=release|url-status=dead|archive-date=August 2, 2012|work=BFI Film &amp; TV Database|publisher=[[British Film Institute]]|accessdate=September 22, 2013|title=Release}}&lt;/ref&gt;
+| runtime        =
+| country        = {{plainlist|
+*France
+*West Germany
+*Italy&lt;ref name=&quot;bfi-main&quot;&gt;{{cite web|url=http://ftvdb.bfi.org.uk/sift/title/160922|archive-url=https://web.archive.org/web/20090205182630/http://ftvdb.bfi.org.uk/sift/title/160922|url-status=dead|archive-date=February 5, 2009|work=BFI Film &amp; TV Database|publisher=[[British Film Institute]]|accessdate=September 22, 2013|title=Cannabis}}&lt;/ref&gt;}}
+| language       = French&lt;ref name=&quot;bfi-release&quot; /&gt;
+| budget         =
+}}
+
+'''''Cannabis''''' is a 1970 [[crime film]] directed by [[Pierre Koralnik]]. It is a co-production between France, West Germany and Italy. It stars [[Serge Gainsbourg]], [[Jane Birkin]], [[Paul Nicholas]] and [[Curd Jürgens]].
+
+==Cast==
+* [[Serge Gainsbourg]] as Serge Morgan
+* [[Jane Birkin]] as Jane
+* [[Paul Nicholas]] as Paul
+* [[Curd Jürgens]] as Henri Emery
+* [[Gabriele Ferzetti]] as Inspector Bardeche
+* {{ill|Paul Albert Krumm|de|Paul Albert Krumm}} as Lancan
+* [[Yvette Lebon]] as Emerys Mätresse 
+* [[Laurence Badie]] as Madame Carbona
+* [[Rita Renoir]]
+* [[Mario Brega]]
+
+==Release==
+''Cannabis'' was released in France on September 2, 1970.&lt;ref name=&quot;bfi-release&quot; /&gt;&lt;ref name=&quot;allmovie&quot;&gt;{{cite web|url=http://www.allrovi.com/movies/movie/cannabis-v86563|work=Allmovie|publisher=[[Rovi Corporation]]|title=Cannabis|author=Pavlides, Dan|accessdate=September 22, 2013|archive-url=https://archive.today/20130922160917/http://www.allrovi.com/movies/movie/cannabis-v86563|archive-date=September 22, 2013|url-status=dead}}&lt;/ref&gt; It was released in Italy on February 2, 1973.&lt;ref name=&quot;allmovie&quot; /&gt;
+
+==See also==
+*[[Cannabis (film score)]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|id=0064126|title=Cannabis}}
+
+[[Category:1970 films]]
+[[Category:1970s crime films]]
+[[Category:French crime films]]
+[[Category:French films]]
+[[Category:Italian films]]
+[[Category:West German films]]
+[[Category:Films based on crime novels]]
+[[Category:Films based on French novels]]
+[[Category:Police detective films]]
+[[Category:Films scored by Serge Gainsbourg]]
+
+{{1970s-Italy-film-stub}}
+{{1970s-crime-film-stub}}</text>
+      <sha1>gej3uxwt41awcvhllpn263r39zzirxd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>L'uomo dalle due ombre</title>
+    <ns>0</ns>
+    <id>29823745</id>
+    <redirect title="Cold Sweat (1970 film)" />
+    <revision>
+      <id>435776460</id>
+      <parentid>406962290</parentid>
+      <timestamp>2011-06-23T07:58:51Z</timestamp>
+      <contributor>
+        <username>Ary29</username>
+        <id>64395</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Cold Sweat (1970 film)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" xml:space="preserve">#REDIRECT [[Cold Sweat (1970 film)]]</text>
+      <sha1>lrovrdu4f8tb990xy8xd0xfc2jfdolm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mendiants et orgueilleux</title>
+    <ns>0</ns>
+    <id>29823748</id>
+    <revision>
+      <id>684889201</id>
+      <parentid>649366594</parentid>
+      <timestamp>2015-10-09T11:51:53Z</timestamp>
+      <contributor>
+        <username>Cavarrone</username>
+        <id>7701499</id>
+      </contributor>
+      <comment>added [[Category:Films directed by Jacques Poitrenaud]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" xml:space="preserve">{{Infobox film
+| name           =Mendiants et orgueilleux
+| image          =
+| image_size     =
+| caption        =
+| director       =[[Jacques Poitrenaud]]
+| producer       =
+| writer         =
+| narrator       =
+| starring       =[[Georges Moustaki]]
+| music          =
+| cinematography =
+| editor       =
+| distributor    =
+| released       = 1971
+| runtime        =
+| country        = [[France]]
+| language       =
+| budget         =
+}}
+'''''Mendiants et orgueilleux''''' is a [[French films of 1971|1971]] [[France|French]]  [[film]]. It stars actor [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|id=|title=Mendiants et orgueilleux}}
+
+[[Category:1971 films]]
+[[Category:French films]]
+[[Category:French-language films]]
+[[Category:Films directed by Jacques Poitrenaud]]
+
+{{1970s-France-film-stub}}</text>
+      <sha1>5q8iu7mf4vpfkr2yhxfiwws2h6ezqnt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Ministers of Justice of Guinea</title>
+    <ns>10</ns>
+    <id>29823751</id>
+    <revision>
+      <id>659356796</id>
+      <parentid>641892716</parentid>
+      <timestamp>2015-04-26T21:31:48Z</timestamp>
+      <contributor>
+        <username>Funandtrvl</username>
+        <id>2966869</id>
+      </contributor>
+      <comment>add cat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="825" xml:space="preserve">{{Navbox
+|name  = Ministers of Justice of Guinea
+|state = 
+|title = [[Ministers of Justice of Guinea]]
+|listclass = hlist
+|list1 =
+* [[Damantang Camara]] 
+* [[Barry III]] 
+* [[Paul Louis Faber]] 
+* [[Elhadj Saïfoulaye Diallo]] 
+* [[Moussa Diakité]] 
+* [[Toumani Sangare]] 
+* [[Doctor Saïdou Conte]] 
+* [[Fodé Mamoudou Touré]] 
+* [[Damantang Camara]] 
+* [[Mohamed Kassory Bangoura]] 
+* [[Saliou Coumbassa]] 
+* [[Sikhé Camara]] 
+* [[Diallo Telli|Telli Diallo]] 
+* [[Lansana Diané]] 
+* [[Sikhé Camara]] 
+* [[Jean Kolipé Lamah]] 
+* [[Bassirou Barry]] 
+* [[Faciné Touré]] 
+* [[Dafilou Sylla]] 
+* [[Maurice Togba Zogbelemou]] 
+* [[Abou Camara]] 
+* [[Mamadou Sylla]] 
+* [[Alsény Rene Gomez]] 
+* [[Paulette Kourouma]] 
+* [[Bachir Touré]] 
+
+}}&lt;noinclude&gt;
+[[Category:Guinea politics and government templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>4pab0gc4v799sn9szs5v9lgjyr7ngw7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Artcell</title>
+    <ns>0</ns>
+    <id>29823754</id>
+    <revision>
+      <id>970188784</id>
+      <parentid>968472855</parentid>
+      <timestamp>2020-07-29T20:04:21Z</timestamp>
+      <contributor>
+        <ip>103.195.1.128</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12126" xml:space="preserve">{{short description|Bangladeshi metal band}}
+{{more citations needed|date=August 2017}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox musical artist
+| name = Artcell
+| background = group_or_band
+| image = Artcell (57).jpg
+| image_size = 250px
+| caption = Artcell at a live concert 
+| origin          = [[Dhaka]], [[Bangladesh]]
+| genre           = {{hlist|[[Progressive metal]]|[[progressive rock]]}}
+| years_active    = 1999–present
+| associated_acts = {{hlist|[[Aurthohin]]|[[Warfaze]]|[[Cryptic Fate]]|[[Rockstrata]]|[[Nemesis (Bangladeshi band)|Nemesis]]|[[Arbovirus (band)|Arbovirus]]|Powersurge|AvoidRafa|Bay of Bengal}}
+| label           = {{hlist|[[G-Series (record label)|G-Series]]}}
+| website         = 
+| current_members = 
+* George Lincoln D'costa
+* Kazi Faisal Ahmed
+* Saef Al Nazi Cezanne
+* Kazi Shazzadul Asheqeen Shaju
+| past_members    = 
+* Ershad Zaman
+
+}}
+'''Artcell''' is a Bangladeshi [[progressive metal]] band formed in October 1999 by vocalist and riff guitarist George Lincoln D'Costa, lead guitarist Ershad Zaman, bassist Saef Al Nazi Cezanne and drummer Kazi Sazzadul Asheqeen Shaju. Since 1999, they have released only two studio albums and also have appeared in some mixed albums. The four original members of the band remained together until Ershad Zaman left the band in 2017 due to his personal disagreement. They pronounced Kazi Faisal Ahmed as their permanent lead guitarist on 11 November 2018.&lt;ref name=bracrev&gt;{{cite web
+ |url=http://www.bracnet.net/default.aspx?si=default&amp;debug=&amp;xid=749&amp;m=web
+ |title=Band Review – Artcell
+ |publisher=www.bracnet.net
+ |accessdate=30 November 2010
+ |url-status=dead
+ |archiveurl=https://web.archive.org/web/20111004152710/http://www.bracnet.net/default.aspx?si=default&amp;debug=&amp;xid=749&amp;m=web
+ |archivedate=4 October 2011
+}}&lt;/ref&gt; According to [[The Daily Star (Bangladesh)|The Daily Star]], Artcell is one of the leading bands of the country.&lt;ref name=DS&gt;{{cite news
+|last=Mahmud
+|first=Jamil
+|date=24 October 2009
+|title=A decade of Rock 'n' Roll
+|url=http://www.thedailystar.net/newDesign/news-details.php?nid=111139
+|newspaper=[[The Daily Star (Bangladesh)]]
+|accessdate=30 November 2010
+}}&lt;/ref&gt;
+
+==History==
+===Formation and Early Days (1999-2000)===
+Prior to forming the band, the four founding members were school friends from [[Dhaka]], and used to get together to play [[Metallica]] songs. Eventually, Ershad came up with compositions of his own and the group began to play them at shows. The positive response they received led them to the formation of a band. What started off as an [[underground band]] is now one of the most recognised mainstream bands in the [[Bengali people|Bengali]] metal music scene.&lt;ref name=bracrev/&gt;
+
+The name &quot;Artcell&quot; was decided upon because it was softer sounding than a typical heavy metal name. In Cézanne and Shaju's words:
+
+{{Blockquote|Even though we were a heavy metal band when we started, we didn't want a heavy metal name. We wanted a softer or an artistic touch to the heavy metal side. 'Cells where art is produced' – that was pretty much the basic idea behind the name 'Artcell.' Ershad came up with it and we all opted for it.}}
+
+=== &quot;অন্য সময় (Onno Somoy)&quot; (2000–2002) ===
+Artcell released their first studio album ''[[Onno Shomoy|অন্য সময় (Other Time)]]'' in 2002 by [[G-Series (record label)|G-Series]]. It was both critically and commercially successful.&lt;ref name=&quot;tartareandesire&quot;&gt;{{cite web
+|url=http://www.tartareandesire.com/bands/Artcell/10794/
+|title= – Artcell – Heavy metal band from Bangladesh
+|website=Tartarean Desire
+|access-date=30 November 2010}}&lt;/ref&gt; The band lost its main songwriter Rupok to [[Malaria|cerebral malaria]] while working on this album. The album was dedicated to him. One of the songs was titled &quot;রুপক একটি গান (Rupok A Song)&quot; in his memory.
+
+=== &quot;অনিকেত প্রান্তর (Oniket Prantor)&quot; (2002–2006) ===
+After the success of ''[[Onno Shomoy|অন্য সময়]]'', Artcell spent four years carrying out experiments with their music without releasing an album. They did, however, release singles scattered in various albums by other bands or [[compilation albums]]. Their second studio album &quot;Aniket Prantor (No man's land)&quot; was released in April 2006. The album was one of the top sellers of the year.&lt;ref name=&quot;tartareandesire&quot; /&gt;
+
+&quot;Aniket Prantor (No man's land)&quot;, the album's namesake, is Artcell's longest song to date, at 16 minutes and 21 seconds.&lt;ref&gt;{{cite news
+|last=Karim
+|first=Elita
+|date=21 April 2006
+|title=Music to my ears...
+|url=http://www.thedailystar.net/magazine/2006/04/03/music.htm
+|work=Star Weekend Magazine
+|publisher=The Daily Star
+|accessdate=30 November 2010
+}}&lt;/ref&gt;
+
+In May the band performed their second solo concert at Dhaka's Bashundhara Convention Centre.&lt;ref&gt;{{cite news
+|last=Rahman
+|first=Zeeshan B.
+|date=18 May 2006
+|title=The week in re(ar)view: Artcell live in concert
+|url=http://www.thedailystar.net/rising/2006/05/03/switch.htm
+|work=Rising Stars
+|publisher=The Daily Star
+|accessdate=30 November 2010
+}}&lt;/ref&gt;
+
+===2007-2016===
+[[File:Sheraton Hotel.JPG|right|thumb|The Dhaka Sheraton, where the &quot;10 Years of Artcell Insanity&quot; concert took place]]
+[[Image:Artcell (59).jpg|right|thumb|Ershad with Jewel (Miles) at 10 Years of Artcell Insanity concert]]
+
+Artcell celebrated its 10th anniversary tour on 23 October 2009 with a live concert entitled &quot;10 Years of Artcell Insanity&quot; at the Winter Garden, Dhaka Sheraton Hotel.&lt;ref name=DS/&gt;&lt;ref&gt;{{cite news
+ |last=Alamgir
+ |first=Mohiuddin
+ |date=23 October 2009
+ |title=Artcell celebrates its tenth year
+ |url=http://www.weeklyholiday.net/2009/231009/cul.html
+ |url-status=dead
+ |newspaper=Holiday
+ |archive-url=https://web.archive.org/web/20110720024338/http://www.weeklyholiday.net/2009/231009/cul.html
+ |archive-date=20 July 2011
+ |access-date=30 November 2010
+}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+|title=Artcell tribute concert held
+|url=http://www.dhakamirror.com/?p=9764#more-9764
+|newspaper=Dhaka Mirror
+|date=25 October 2009
+|archive-url=https://archive.is/20130121125443/http://www.dhakamirror.com/art-culture/artcell-tribute-concert-held/
+|archive-date=21 January 2013
+|access-date=30 November 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite magazine
+|title=Culture News: Artcell celebrates through concert
+|url=http://www.dhakacourier.net/issue15/report/doc2.html
+|magazine=Dhaka Courier Online
+|archive-url=https://web.archive.org/web/20110723091920/http://www.dhakacourier.net/issue15/report/doc2.html
+|archive-date=23 July 2011
+|access-date=30 November 2010}}&lt;/ref&gt;
+
+Artcell continue to regularly perform live shows and have also made many tours of [[Dhaka]], [[Chittagong]], [[Khulna]], [[Rajshahi]] and [[Sylhet]], with some tours in [[India]] and [[Sydney|Sydney, Australia]].
+
+In 2009 the band took part in the &quot;International Coastal Cleanup 2009&quot;, a day-long beach clean-up movement, at the [[Cox's Bazar]] sea beach.&lt;ref&gt;{{cite web
+|url=http://www.thefinancialexpress-bd.com/search_index.php?news_id=76218&amp;page=detail_news
+|archive-url=https://web.archive.org/web/20120305061233/http://www.thefinancialexpress-bd.com/search_index.php?news_id=76218&amp;page=detail_news
+|url-status=dead
+|archive-date=5 March 2012
+|title=AB Bank celebrates 'Int'l Coastal Cleanup-'09'
+|date=16 August 2009
+|newspaper=The Financial Express
+|location=Dhaka
+|accessdate=30 November 2010}}&lt;/ref&gt;
+
+In early 2010, the band travelled to Australia and performed at [[Belmore Sports Ground]] in Sydney on 3 January.&lt;ref&gt;{{cite web
+|url=http://banglamusic.com/articles/artcell-goes-places-3612.html#more-3612
+|title=Artcell goes places
+|publisher=Bangla Music
+|archive-url= https://web.archive.org/web/20101101135023/http://banglamusic.com/articles/artcell-goes-places-3612.html
+|archive-date= 1 November 2010
+|access-date=30 November 2010
+}}&lt;/ref&gt; The band was due to be one of the country's leading bands to perform at a concert against violence to women in the Banani Army Stadium, Dhaka, in December 2010.&lt;ref&gt;{{cite news
+|title=UNFPA, BAMBA to host concert
+|url=http://www.thefinancialexpress-bd.com/more.php?page=detail_news&amp;news_id=118683&amp;date=2010-11-29
+|newspaper=The Financial Express
+|location=Dhaka
+|date=29 November 2010
+|archive-url=https://web.archive.org/web/20120305061411/http://www.thefinancialexpress-bd.com/more.php?page=detail_news&amp;news_id=118683&amp;date=2010-11-29
+|archive-date=5 March 2012
+|access-date=30 November 2010
+}}&lt;/ref&gt;
+
+On 9 January 2012, Artcell announced the release of their third album and confirmed that it would be released by the end of the year. They posted on their Facebook page: &quot;This is to inform all Artcell fans and friends who have been waiting for our 3rd album, wait just for a few more months and Hopefully you won't be disappointed. In addition Artcell is also getting ready with some special releases...Music, videos and communication contents. So, look forward to a year full of activities. Thank you all again for your love and support. You guys are our true strength. Thank you&quot;.
+
+Artcell worked on their third album in 2013.
+
+They played in &quot;Rocknation Overload&quot; on 19 April 2014 after a break of around two years.
+
+Cézanne and Shaju, two of the founding members, have not been active with the band for a long time. They only work with the band when they come to Bangladesh. The official Artcell website says that both of them have settled in Sydney, Australia, for family reasons. Ershad And Lincoln are presently running the band themselves with guest members.
+
+In 2016, Artcell released their new music video &quot;Obimrishshota&quot; from their third album ''Otriteeyo'' with the original band lineup. After almost 10 years their new song had been released, written by their new lyricist Ishtiak. Both Cézanne and Shaju remain in Sydney, but they participated in the album work. Cézanne recently said in an interview that he is planning to be back in the country soon.
+
+In the 17 years since its inception, the band has released two albums. Their third album was scheduled to be released in December 2016. Initially scheduled for a 2012 release, it is widely speculated that the delay is due to Cézanne and Shaju's inactivity, and to Ershad and Lincoln's busy schedule.
+
+== Members ==
+
+=== Present members ===
+* Lincoln De Costa – [[vocals]], [[guitars]] {{small|(1999-present)}}
+* Kazi Faisal Ahmed – [[lead guitars]] {{small|(2018-present)}}
+* Saef Al Nazi Cezanne – [[bass guitar|bass]] {{small|(1999-present)}}
+* Kazi Shazzadul Asheqeen Shaju – [[drums]] {{small|(1999-present)}}
+
+=== Touring members ===
+* Sheikh Reaz – [[Drums]] {{small|(2010–present)}}
+* Niaz Kamran Abir - [[Drums]] {{small|(2014-2015)}}
+* Titas Baha – [[Bass guitar]]s {{small|(2018-present)}}
+
+==Discography==
+
+===Studio albums===
+* ''[[Onno Shomoy|অন্য সময়]]''  (2002)
+* ''অনিকেত প্রান্তর'' (2006)&lt;ref&gt;{{cite news |last=Alamgir |first=Rohini |date=28 July 2005 |title=Aguntok-3: Third time lucky or unlucky?  |url=http://archive.thedailystar.net/rising/2005/07/04/scr01.htm |newspaper=The Daily Star}}&lt;/ref&gt;
+
+==Videography==
+Artcell has done music videos of some of their greatest hit song. They have eight music videos.
+* &quot;অলস সময়ের পাড়ে (Lazy Time Shifts)&quot;
+* &quot;বাংলাদেশ...স্মৃতি ও আমরা (Bangladesh...Memories and Us)&quot; 
+* &quot;লীন (Leen)&quot;
+* &quot;পাথর  বাগান (Stone Garden)&quot;
+* &quot;অন্য সময় (Other Time)&quot;
+* &quot;ধুসর সময় (Gray Time)&quot;
+* &quot;অবিমৃষ্যতা (Ingenuity)&quot;
+* &quot;অদেখা স্বর্গ (Unseen Heaven)&quot; &lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=SngCypnmLx0 |title=Odekha Shorgo Music Video by Artcell |website=YouTube}}&lt;/ref&gt;
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commons category|Artcell}}
+* {{Facebook|id=Artcellism|name=}}
+
+{{Bengali bands}}
+{{Authority control}}
+
+[[Category:Bengali music]]
+[[Category:Bangladeshi rock music groups]]
+[[Category:Musical groups established in 1999]]
+[[Category:Bangladeshi progressive rock groups]]</text>
+      <sha1>fdddkmjrtybhlosrzfrab3bvb6lu18b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Saks-34th Street</title>
+    <ns>0</ns>
+    <id>29823755</id>
+    <redirect title="Saks Fifth Avenue" />
+    <revision>
+      <id>957792933</id>
+      <parentid>951008773</parentid>
+      <timestamp>2020-05-20T15:57:20Z</timestamp>
+      <contributor>
+        <username>WikiRedactor</username>
+        <id>6291587</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Saks Fifth Avenue#Saks–34th Street]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" xml:space="preserve">#REDIRECT [[Saks Fifth Avenue#Saks&amp;ndash;34th Street]]</text>
+      <sha1>jj07j166kfm9wehkhea0l6pwsmx6g12</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IPrEx</title>
+    <ns>0</ns>
+    <id>29823760</id>
+    <revision>
+      <id>930970897</id>
+      <parentid>902121220</parentid>
+      <timestamp>2019-12-16T04:14:20Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor />
+      <comment>/* FDA approval of Truvada for PrEP */HTTP → HTTPS for [[Food and Drug Administration]], replaced: http://www.fda.gov/ → https://www.fda.gov/</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10510" xml:space="preserve">[[File:IPrEx logo.png|thumb|alt=iPrEx logo |iPrEx logo]]
+'''{{lowercase}}iPrEx''' (from {{lang-es|Iniciativa Profilaxis Pre-Exposición}}, &quot;[[pre-exposure prophylaxis]] initiative&quot;) was a phase III [[clinical trial]] to determine whether the [[antiretroviral]] medication [[emtricitabine/tenofovir]] (as [[tenofovir disoproxil|tenofovir disoproxil fumarate]]) could safely and effectively prevent [[HIV]] acquisition through sex in men who have sex with men and transgender women.  iPrEx was the first human study of an HIV prevention strategy known as pre-exposure prophylaxis, or PrEP.&lt;ref&gt;{{cite web |publisher=iPrEx OLE |url=http://www.iprexole.com/1pages/prep/prep-whatistheiprexstudy.php |title=What is the iPrEx study? |accessdate=1 July 2013 }}&lt;/ref&gt;
+
+The study began in 2007 at four study sites in [[Peru]] and [[Ecuador]], following three years of extensive community and stakeholder consultation. In 2008 the study expanded to seven additional sites in [[Brazil]], [[South Africa]], [[Thailand]] and the [[United States]].
+
+==Study sponsors==
+iPrEx was sponsored by the US [[National Institutes of Health]] (NIH) through a grant to the Gladstone Institutes, a non-profit independent research organization affiliated to the [[University of California at San Francisco]]. Additional support for the conduct of the study was provided by the [[Bill &amp; Melinda Gates Foundation]].&lt;ref&gt;ClinicalTrials.gov (http://clinicaltrials.gov/ct2/show/NCT00458393?term=iprex&amp;rank=2). Retrieved 1 July 2013.&lt;/ref&gt; Study medication was donated by [[Gilead Sciences]] Inc.
+
+==Study design==
+iPrEx was an interventional double-blind, placebo controlled trial of the safety and efficacy of the once-daily antiretroviral medication emtricitabine/tenofovir disoproxil fumarate (FTC/TDF) as pre-exposure prophylaxis for the prevention of HIV acquisition in sexually active gay and bisexual men and transgender women who have sex with men.
+
+The study enrolled 2,499 HIV uninfected participants at 11 study sites in six countries on four continents. These participants attended monthly visits to receive a bottle of study medication with supply for 30 days.  Half of the study participants received an experimental PrEP pill (Truvada) and the other half received [[placebo]].
+
+Participants also received additional HIV prevention services to help reduce their risk of contracting HIV.  These included [[Diagnosis of HIV/AIDS|HIV testing]], [[safer sex]] counseling, treatment of [[sexually transmitted infections]] and provision of [[condoms]].
+
+===Demographics===
+The distribution of study participation by site and country is as follows:&lt;ref&gt;Grant, RM et al. Preexposure Chemoprophylaxis for HIV Prevention in Men WhoHave Sex with Men (23 November 2010) (http://www.nejm.org/doi/full/10.1056/NEJMoa1011205)  Retrieved 1 July 2013.&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot;
+|-
+! colspan=&quot;5&quot; style=&quot;background-color: #CCEEEE;&quot; | Geographical Demographics of IPrEx Recruitment
+|-
+! country
+! study sites
+! percentage of participants
+! notes
+|-
+| [[United States]]
+| [[Fenway Health]] ([[Boston]])&lt;br&gt;[[San Francisco Department of Public Health]] ([[San Francisco]])
+| 9%
+|
+|-
+| [[Ecuador]]
+| [[Fundación Ecuatoriana Equidad]] ([[Guayaquil]])
+| 12%
+|
+|-
+| [[Peru]]
+| [[Asociacion Civil Selva Amazonica]] ([[Iquitos]]) &lt;br&gt; [[Asociación Civil Impacta Salud y Educación]] ([[Lima]]) &lt;br&gt;
+[[Investigaciones Medicas en Salud]] (Lima)
+| 55%
+|
+|-
+| [[Brazil]]
+| [[Evandro Chagas Institute]]&lt;br&gt;[[Oswaldo Cruz Foundation]] ([[Rio de Janeiro]])&lt;br&gt;[[Projecto Praca Onze]] (Rio de Janeiro) &lt;br&gt; [[University of São Paulo]] ([[São Paulo]])
+| 15%
+|
+|-
+| [[Thailand]]
+| [[Research Institute for Health Sciences]] ([[Chiang Mai]])
+| 5%
+|
+|-
+| [[South Africa]]
+| [[Desmond Tutu HIV Foundation]] ([[Cape Town]])
+| 4%
+|
+|-
+|total
+|
+|100%
+|
+|}
+
+==Study results==
+The iPrEx study started in June 2007 and concluded in February 2011.  Preliminary study results were published in the ''[[New England Journal of Medicine]]'' on 23 November 2010.  Participants were followed for a median of 21 months.  The average age of study participants was 24.
+
+Of the 2,499 participants, 1,251 were randomly assigned to Truvada and 1,248 were assigned to take the placebo tablet (sugar pill).  There were 36 HIV infections among the participants who were offered Truvada and 64 among those offered placebo, meaning that Truvada PrEP provided 44% additional protection against HIV in this group.  This efficacy analysis (a modified [[intention-to-treat analysis]]) includes those study participants who received active study drug but who did not take it regularly enough for the drug to have any protective effect.
+
+Protection against HIV infection was significantly higher among iPrEx study participants who took the drug regularly enough to have detectable drug concentrations in their systems, as measured through [[blood analysis]].  Among participants whose blood analyses indicated that they took PrEP 7 days a week, HIV acquisition risk was reduced by 99%. Among those who took the drug 4 days a week, the risk of HIV acquisition was reduced by 96%.&lt;ref&gt;Anderson, PL, Emtricitabine-Tenofovir Concentrations and Pre-Exposrue Prophylaxis Efficacy in Men Who Have Sex with Men (12 September 2012) (http://stm.sciencemag.org/content/4/151/151ra125.full.html) Retrieved 1 July 2013.&lt;/ref&gt;
+
+Due to the positive results, the study expanded to follow up participants for 72 weeks in an open label extension phase (see iPrEx OLE, below).
+
+==Response to results==
+
+===Popular media===
+On the day of announcement of iPrEx study results, the [[President of the United States]], [[Barack Obama]], welcomed the outcomes of the study.&lt;ref&gt;White House, NIH-Funded Study Finds Daily Dose of Antiretroviral Drug Reduces Risk of HIV (23 November 2010) (http://www.whitehouse.gov/blog/2010/11/23/nih-funded-study-finds-daily-dose-antiretroviral-drug-reduces-risk-hiv) Retrieved 1 July 2013.&lt;/ref&gt;  The U.S. news magazine ''[[Time (magazine)|Time]]'' called the iPrEx results the most significant medical breakthrough of 2010.&lt;ref&gt;Park, Alice (9 December 2010) (http://www.time.com/time/specials/packages/article/0,28804,2035319_2034529,00.html) Retrieved 1 July. 2013.&lt;/ref&gt;
+
+===CDC interim guidance===
+In January 2011, the US [[Centers for Disease Control]] and Prevention issued interim guidance for the provision of PrEP to prevent sexual acquisition of HIV among men who have sex with men.&lt;ref&gt;CDC Interim Guidance on HIV PrEP for Men Who Have Sex with Men (https://www.cdc.gov/nchhstp/newsroom/2011/PrEPMSMGuidanceGraphic.html) Retrieved 30 December 2016.&lt;/ref&gt;  
+*Truvada is the only PrEP to have been tested
+* PrEP is only for the HIV-negative
+* PrEP is an additional defense against HIV alongside other options including the following:
+**Use condoms
+**Get HIV tested regularly
+**Get tested for other [[sexually transmitted infections]]
+**Get [[harm reduction]] education
+**Reduce one's number of sexual partners
+* PrEP has been shown to be effective for those taking it daily and ineffective for people who forget or skip doses
+
+===International Partnership for Microbicides===
+The [[International Partnership for Microbicides]] issued a statement by founder [[Zeda Rosenberg]] saying that &quot;The hard work and dedication of the iPrEx team and trial participants has led to a second successful proof-of-concept this year for an ARV-based HIV-prevention product. We must not falter at this important time in history when science shows us that, with sufficient resolve, we can begin to control and potentially reverse the HIV epidemic.&quot;&lt;ref&gt;{{cite web |url=http://www.ipmglobal.org/publications-media/iprex-clinical-trial-demonstrates-44-protection-against-hiv |title=iPrEx Clinical Trial Demonstrates 44 Percent Protection Against HIV - Mounting Evidence of the Power of ARVs to Prevent HIV Transmission |author=Zeda Rosenberg |date=23 Nov 2011 |website= |publisher=[[International Partnership for Microbicides]] |accessdate=6 February 2011}}&lt;/ref&gt;
+
+===FDA approval of Truvada for PrEP===
+On 27 August 2012, the US Food and Drug Administration approved the use of Truvada as PrEP for sexually active adults, based on the results of two clinical trials: iPrEx and PartnersPrEP.&lt;ref&gt;FDA, FDA Approves firstdrug for reduction the risk of sexually acquired HIV infection (16 July 2012)(https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm312210.htm) Retrieved 1 July 2013.&lt;/ref&gt;
+
+==iPrEx OLE==
+{{unreferenced|section|date=June 2019}}
+[[File:IPrEx OLE logo.jpg|right|thumb|183x183px|iPrEx OLE logo]]
+iPrEx OLE (OLE stands for [[Open-label trial|Open Label Extension]]) is a continuation of the iPrEx study designed to provide additional information about the safety of PrEP and the behavior of people taking PrEP over a longer term, including information on:
+*Long-term efficacy
+*Long-term safety
+*Pill taking and adherence
+*Any changes in participants’ sexual behavior
+*Drug resistance
+*Bone mineral density and fat distribution
+*Impact on hepatitis infection 
+It is hoped that participants’ knowledge that Truvada PrEP is safe and effective for HIV infection, and that no placebo is used in the study, will lead to increased use of the study drug and increased protection against HIV infection among in iPrEx OLE participants.
+
+iPrEx OLE started enrollment on 13 June 2011 at the San Francisco Department of Public Health in California, USA and closed enrollment in July 2012 at Investigaciones Medicas en Salud in Lima, Peru.
+
+All participants enrolled in the first phase of the iPrEx study were invited to continue in the Open Label Extension.  Through iPrEx OLE, all HIV-negative study participants who choose to take it receive daily oral PrEP with Truvada. HIV-positive study participants receive regular medical monitoring and other services through iPrEx OLE, but do not receive the study drug, which is designed to prevent HIV infection.
+
+iPrEx OLE enrolled 1770 participants at 11 sites in six countries. Of all participants enrolled in iPrEx OLE, 1,129 (63.8%) chose the &quot;on-PrEP&quot; track and 473 (26.7%) elected to be &quot;off-PrEP&quot;. There are 168 (9.5%) seropositive participants enrolled in the open label extension. Results from this open label extension phase of the study are expected by the first quarter of 2014.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://clinicaltrials.gov/show/NCT00458393 clinicaltrials.gov entry]
+
+{{Use dmy dates|date=July 2011}}
+[[Category:Clinical trials related to HIV]]
+[[Category:Clinical trials sponsored by NIAID]]</text>
+      <sha1>cluta2f5wtpjwebw6raqgepsoz7pnfh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Million Dollar Eel</title>
+    <ns>0</ns>
+    <id>29823761</id>
+    <revision>
+      <id>872907058</id>
+      <parentid>666720617</parentid>
+      <timestamp>2018-12-10T00:09:06Z</timestamp>
+      <contributor>
+        <username>Gonnym</username>
+        <id>14984434</id>
+      </contributor>
+      <comment>Removing unsupported parameters in infobox</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1461" xml:space="preserve">{{Infobox film
+| name           =Million Dollar Eel
+| image          =Un'anguilla da 300 milioni.JPG
+
+| caption        =
+| director       =[[Salvatore Samperi]]
+| producer       =
+| writer         =[[Aldo Lado]] &lt;br /&gt; Salvatore Samperi
+| narrator       =
+| starring       =
+| music          =[[Fiorenzo Carpi]]
+| cinematography =[[Franco Di Giacomo]]
+| editing       =[[Franco Arcalli]]
+| distributor    =
+| released       = 1971
+| runtime        =
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =
+}}
+'''''Million Dollar Eel''''' ({{lang-it|Un&amp;#39;anguilla da 300 milioni}}) is a [[Italian films of 1971|1971]] [[Italy|Italian]] comedy [[film]]. It stars actor [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt;
+
+==Cast==
+* [[Ottavia Piccolo]]	as 	Margherita 'Tina' Tellini
+* [[Lino Toffolo]]		as 	Giovanni Boscolo 'Bissa'
+* [[Mario Adorf]]		as 	Nane Mora 
+* [[Rodolfo Baldini]]		as 	Lino
+* [[Gabriele Ferzetti]]		as 	Vasco
+* [[Senta Berger]]		as 	Countess Spodani
+* [[Daniele Dublino]]	as 	Priest
+* [[Ricky Gianco]]		as 	Barman
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|id=0065406|title=Million Dollar Eel}}
+
+[[Category:1971 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films directed by Salvatore Samperi]]
+
+
+{{1970s-Italy-film-stub}}</text>
+      <sha1>37eq3tagrb715ykznd7lec69910kp7n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Un uomo dalla pelle dura</title>
+    <ns>0</ns>
+    <id>29823767</id>
+    <redirect title="Ripped Off" />
+    <revision>
+      <id>589441197</id>
+      <parentid>491961305</parentid>
+      <timestamp>2014-01-06T13:37:22Z</timestamp>
+      <contributor>
+        <username>Gorobay</username>
+        <id>15371737</id>
+      </contributor>
+      <comment>it</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" xml:space="preserve">#REDIRECT [[Ripped Off]]
+
+{{R from alternative language|it}}</text>
+      <sha1>blf9rhu1ewdd5ly86wt2ody6s7wk2i8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Doppia coppia con Regina</title>
+    <ns>0</ns>
+    <id>29823770</id>
+    <revision>
+      <id>876064132</id>
+      <parentid>781074206</parentid>
+      <timestamp>2018-12-30T23:05:11Z</timestamp>
+      <contributor>
+        <username>Tajotep</username>
+        <id>29695403</id>
+      </contributor>
+      <comment>added [[Category:Films scored by Gianni Ferrio]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1317" xml:space="preserve">{{Infobox film
+| name           =Doppia coppia con Regina
+| image          =Doppia coppia con Regina.jpg
+| image_size     =
+| caption        =
+| director       =[[Julio Buchs]]
+| producer       =
+| writer         =
+| narrator       =
+| starring       =[[Marisa Mell]]
+| music          =[[Gianni Ferrio]]
+| cinematography =[[Mario Montuori]]
+| editor       =
+| distributor    =
+| released       = 1972
+| runtime        =
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =
+}}
+'''''Doppia coppia con Regina''''' (Spanish title: '''''Alta tensión''''') is a [[Italian films of 1972|1972]] Spanish-Italian film directed by Julio Buchs. It stars [[Marisa Mell]] and [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt;
+
+==Cast==
+* [[Marisa Mell]] as Laura Moncada
+* [[Gabriele Ferzetti]]	 as Pablo Moncada
+* [[Juan Luis Galiardo]] as José
+* [[Helga Liné]] as Choni
+* Patrizia Adiutori as Elisa Folbert
+* Eduardo Calvo	as Il cieco
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|66756}}
+
+[[Category:1972 films]]
+[[Category:Italian films]]
+[[Category:Italian-language films]]
+[[Category:Films scored by Gianni Ferrio]]
+
+{{1970s-Italy-film-stub}}</text>
+      <sha1>mqrtnyu11a3qivgp7a8n20bt93zz229</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sts. Peter and Paul Church (St. Paul Island, Alaska)</title>
+    <ns>0</ns>
+    <id>29823772</id>
+    <revision>
+      <id>953794996</id>
+      <parentid>941448208</parentid>
+      <timestamp>2020-04-29T02:30:43Z</timestamp>
+      <contributor>
+        <ip>2604:3D08:9B7C:6AF0:3CAB:20A1:9C4E:845B</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3990" xml:space="preserve">{{Infobox NRHP
+  | name = Sts. Peter and Paul Church
+  | nrhp_type = 
+  | image = Sts Peter and Paul Church Saint Paul Island, Alaska.jpg
+  | caption = Church in November, 2010
+  | location= [[St. Paul Island, Alaska]]
+  | coordinates = {{coord|57.1209|-170.2809|region:US-AK_type:landmark|format=dms|display=inline,title}}
+| locmapin = Alaska
+  | built = 1907
+  | architecture = 
+  | added = June 6, 1980
+  | area = less than one acre
+  | governing_body = Private
+  | mpsub = {{NRHP url|id=64000002|title=Russian Orthodox Church Buildings and Sites TR}}
+  | refnum = 80000744&lt;ref name=&quot;nris&quot;&gt;{{NRISref|2009a}}&lt;/ref&gt;
+  | nrhp_type2 = nhldcp | nocat = yes
+  | designated_nrhp_type2 = June 13, 1962
+  | partof = [[Seal Island Historic District]]
+  | partof_refnum = 66000156
+  | designated_other1 = Alaska Heritage Resources Survey
+  | designated_other1_name = Alaska Heritage Resources Survey
+  | designated_other1_color = #A8EDEF
+  | designated_other1_abbr = AHRS
+  | designated_other1_date = May 18, 1973
+  | designated_other1_number = XPI-003
+  | designated_other1_num_position = bottom
+}}
+'''Sts. Peter and Paul Church''' ({{lang-ru|Св. Петр и Пол Черч}}) is a [[Russian Orthodox church]]  on [[St. Paul Island, Alaska]].  The current church, built in 1907, was listed on the [[National Register of Historic Places]] in 1980.&lt;ref name=nris/&gt; Now it is under [[Orthodox Church in America Diocese of Alaska|Diocese of Alaska]] of the [[Orthodox Church in America]]&lt;ref&gt;https://oca.org/parishes/oca-ak-stpspp&lt;/ref&gt;.
+
+A first church was built in 1779 &quot;according to legend&quot;;  a second church was built in 1819 atop the island's tallest hill.  The current church was built in 1907, and was then &quot;one of the most ambitiously designed and effectively executed small churches of the Byzantine tradition in Alaska.&quot;  Its onion domes, however, were repeatedly damaged in storms, and have been replaced.&lt;ref name=nrhptr&gt;{{cite web |url={{NRHP url|id=64000002}} |title=National Register of Historic Places Inventory/Nomination: Russian Orthodox Church Buildings and Sites Thematic Resources |author=Alfred Mongin and Father Joseph P. Kreta |date=June 14, 1979 |publisher=National Park Service}}&lt;/ref&gt;&lt;ref name=nrhpdoc&gt;{{cite web|url={{NRHP url|id=80000744}} |title=Saints Peter and Paul Church (AHRS SITE NO. XPI-003) |author=Alfred Mongin and Father Joseph P. Kreta |date=June 14, 1979 |publisher=National Park Service}} (continuation sheet from thematic resources document) and {{NRHP url|id=80000744|title=accompanying three photos from 1961, c.1973, and undated|photos=y}}&lt;/ref&gt;
+
+==See also==
+*[[National Register of Historic Places listings in Aleutians West Census Area, Alaska]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat-inline|Saints Peter and Paul Russian Orthodox church (Saint Paul Island)}}
+*{{Official website|http://oca.org/parishes/OCA-AK-STPSPP}} with service schedules and brief history
+*{{HABS |survey=AK-51 |id=ak0258 |title=Saints Peter &amp; Paul Russian Orthodox Church, Church Street, Saint Paul, Aleutians West Census Area, AK}}
+
+{{NRHP in Alaska by borough and census area}}
+{{National Register of Historic Places}}
+
+{{DEFAULTSORT:Saints Peter and Paul Church, St. Paul Island, Alaska}}
+[[Category:20th-century Eastern Orthodox church buildings]]
+[[Category:Buildings and structures in Aleutians West Census Area, Alaska]]
+[[Category:Churches on the National Register of Historic Places in Alaska]]
+[[Category:Churches completed in 1907]]
+[[Category:Russian Orthodox church buildings in Alaska]]
+[[Category:Tourist attractions in Aleutians West Census Area, Alaska]]
+[[Category:Historic American Buildings Survey in Alaska]]
+[[Category:Buildings and structures on the National Register of Historic Places in Aleutians West Census Area, Alaska]]
+[[Category:Historic district contributing properties in Alaska]]
+[[Category:Saint Paul Island (Alaska)]]
+
+
+{{US-EO-church-stub}}
+{{Alaska-NRHP-stub}}
+{{AleutiansWestAK-geo-stub}}
+{{Alaska-church-stub}}</text>
+      <sha1>mmxpnlp1c97xr8sb8lk06jqkejb60w3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Trois milliards sans ascenseur</title>
+    <ns>0</ns>
+    <id>29823773</id>
+    <revision>
+      <id>948961747</id>
+      <parentid>948961601</parentid>
+      <timestamp>2020-04-03T23:16:45Z</timestamp>
+      <contributor>
+        <ip>69.114.123.212</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2628" xml:space="preserve">{{Infobox film
+| name           =Sette cervelli per un colpo perfetto
+| image          =Sette cervelli per un colpo perfetto.jpg
+| image_size     =
+| caption        =
+| director       = [[Roger Pigaut]]
+| producer       = Andre Cohen
+| writer         = André G. Brunelin&lt;br&gt;Roger Pigaut&lt;br&gt;[[Lucio Fulci]]&lt;ref&gt;Thrower, Stephen (1999). Beyond Terror, the films of Lucio Fulci. FAB Press. page 282.&lt;/ref&gt;
+| narrator       =
+| starring       = Michel Bouquet&lt;br&gt;Marcel Bozzufi&lt;br&gt;Dany Carrel&lt;br&gt;Gabriele Ferzetti
+| music          = Teo Usuelli
+| cinematography = [[Jean Tournier]]
+| editor         = Gilbert Natot
+| distributor    =
+| released       = 1972
+| runtime        =
+| country        = [[France]]&lt;br&gt;[[Italy]]
+| language       = [[French language|French]]
+| budget         =
+| gross          = $4.6 million&lt;ref&gt;http://www.jpbox-office.com/fichfilm.php?id=8711&lt;/ref&gt;
+}}
+'''''Trois milliards sans ascenseur''''' (Translation: ''Three Billions Without an Elevator'') ({{lang-it|'''Sette cervelli per un colpo perfetto'''}}/ ''Seven Brains for a Perfect Shot'') is a [[Italian films of 1972|1972]] [[France|French]]-[[Italy|Italian]]  [[film]], directed by [[Roger Pigaut]]. It stars actor [[Gabriele Ferzetti]].&lt;ref&gt;{{cite web|url=http://www.mymovies.it/filmografia/?a=73|title=Gabriele Ferzetti |publisher=[[Mymovies.it]]|accessdate=November 30, 2010}}&lt;/ref&gt; The script was co-written by [[Lucio Fulci]].&lt;ref&gt;Thrower, Stephen (1999). Beyond Terror, the Films of Lucio Fulci. FAB Press. pag 282.&lt;/ref&gt;
+
+== Plot ==
+A group of likeable slackers with little talent attempts to steal a prestigious jewellery collection exhibited at the highest floor of a tower. What they lack in experience, they make up for with street smarts. They think the stakes are too high for them, so they subcontract the heist, but swindle the subcontractor. They try to blackmail the exhibition's insurance agency, but end up tricked.
+
+== Cast ==
+* [[Michel Bouquet]] as Albert
+* [[Serge Reggiani]] as Pierrot 
+* [[Marcel Bozzuffi]] as Gus
+* [[Dany Carrel]] as Lulu
+* [[Victor Lanoux]] as Gino
+* [[Gabriele Ferzetti]] as Raphaël
+* [[Françoise Rosay]] as Mme Dubreuil
+* [[Bernard Fresson]] as Julien
+* [[Amidou]] as José
+* [[Nike Arrighi]] as Minouche 
+* [[Pierre Rousseau]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|id=|title=Sette cervelli per un colpo perfetto}}
+
+[[Category:1972 films]]
+[[Category:Italian films]]
+[[Category:French-language films]]
+[[Category:French films]]
+[[Category:French heist films]]
+[[Category:Italian heist films]]
+[[Category:1970s heist films]]
+
+{{1970s-France-film-stub}}
+{{1970s-Italy-film-stub}}</text>
+      <sha1>3ntblc3fdg8bce022wp4vsa093drldi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Divorzia lui, divorzia lei</title>
+    <ns>0</ns>
+    <id>29823778</id>
+    <redirect title="Divorce His, Divorce Hers" />
+    <revision>
+      <id>501788917</id>
+      <parentid>399793784</parentid>
+      <timestamp>2012-07-11T21:55:47Z</timestamp>
+      <contributor>
+        <username>Cavarrone</username>
+        <id>7701499</id>
+      </contributor>
+      <comment>double, redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" xml:space="preserve">#REDIRECT [[Divorce His, Divorce Hers]]</text>
+      <sha1>9dx5e22au3z6ovd9kc68doptzs5mnow</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Gypsum Rangers Gaelic footballers</title>
+    <ns>14</ns>
+    <id>29823782</id>
+    <revision>
+      <id>551098354</id>
+      <parentid>399793859</parentid>
+      <timestamp>2013-04-19T07:12:45Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <comment>removed [[Category:Cavan Gaelic footballers]]; added [[Category:Cavan Gaelic footballers by club]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" xml:space="preserve">[[Category:Cavan Gaelic footballers by club]]</text>
+      <sha1>aw18lb51qkvgx4ti5qu9duhnw419gdm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gli ultimi 10 giorni di Hitler</title>
+    <ns>0</ns>
+    <id>29823785</id>
+    <redirect title="Hitler: The Last Ten Days" />
+    <revision>
+      <id>399793929</id>
+      <timestamp>2010-11-30T21:03:12Z</timestamp>
+      <contributor>
+        <username>Encyclopædius</username>
+        <id>1616157</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Hitler: The Last Ten Days]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" xml:space="preserve">#redirect [[Hitler: The Last Ten Days]]</text>
+      <sha1>6puxcw0oibzlz18maa38mf69hm1dqen</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Kingscourt Stars Gaelic footballers</title>
+    <ns>14</ns>
+    <id>29823786</id>
+    <revision>
+      <id>551104158</id>
+      <parentid>399793961</parentid>
+      <timestamp>2013-04-19T08:28:47Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <comment>removed [[Category:Meath Gaelic footballers]]; added [[Category:Meath Gaelic footballers by club]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" xml:space="preserve">[[Category:Meath Gaelic footballers by club]]</text>
+      <sha1>n1ysm2tv08y7p4cw046ccbbno1dzx5z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ole Carlson House</title>
+    <ns>0</ns>
+    <id>29823789</id>
+    <revision>
+      <id>751889463</id>
+      <parentid>740932249</parentid>
+      <timestamp>2016-11-28T10:00:04Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>Migrate {{Infobox NRHP}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4958" xml:space="preserve">{{Infobox NRHP
+  | name = Ole Carlson House
+  | nrhp_type = 
+  | image = 2010-1025-OleCarlsonHouse.jpg
+  | caption = 
+  | nearest_city= [[Kasson, Minnesota]]
+  | coordinates = {{coord|43|57|16|N|92|41|52|W|display=inline,title}}
+| locmapin = Minnesota#USA
+  | built = 1880
+  | architect = Aasved, Ole Anderson
+  | architecture = 
+  | added = April 16, 1982
+  | area = less than one acre
+  | governing_body = Private
+  | mpsub = {{NRHP url|id=64000351|title=Dodge County MRA}}
+  | refnum = 82002944&lt;ref name=&quot;nris&quot;&gt;{{NRISref|2009a}}&lt;/ref&gt;
+}}
+
+The '''Ole Carlson House''' is a historic [[farmhouse]] in [[Dodge County, Minnesota]]. Located in [[Canisteo Township, Dodge County, Minnesota|Canisteo Township]], it is  on County Road 15, approximately {{convert|8|mi}} south of  [[Kasson, Minnesota]].   In 1981, the home remained in the ownership of the grandson and great-grandson of Ole Carlson. The private home was placed on the [[National Register of Historic Places]] (NRHP) on April 16, 1982.&lt;ref name=MHPIF/&gt;&lt;ref&gt;{{cite web|url=http://landmarkhunter.com/155564-ole-carlson-house/|title=Ole Carlson House|publisher =LandmarkHunter.com|accessdate= February 20, 2016}}&lt;/ref&gt;
+
+==Structure==
+[[File:Olecarlsonslide.jpg|thumb|left|The Ole Carlson House, not long after its construction.  Note the existence of [[balustrade]] and lack of plantings.]]
+
+The Ole Carlson House was both designed and built by Ole Anderson Aasved for his neighbor Ole Carlson, a fellow [[Norwegian people|Norwegian]] immigrant farmer.  Its location on a slight elevation makes the structure very visible.  The house is a large, two-story, almost square brick structure, symmetrical in arrangement with a [[hip roof]] and roof deck, with a projecting central [[gable]]d pavilion.  At the time the home was completed, it had a [[balustrade]] along the edge of the roof deck, however it is no longer present.  In addition to the main house, a small one-story brick addition on the eastern side (rear) houses a [[Kitchen#Colonial American kitchens|summer kitchen]]. The south foundation includes a [[datestone]] with the name &quot;O. A. Aasved&quot; and the date &quot;1880&quot;.&lt;ref name=MHPIF&gt;Robert M. Frame III, Minnesota Historic Properties Inventory Form, June 5, 1981.&lt;/ref&gt;
+
+The design includes elements reminiscent of the [[Italianate architecture|Italianate style]], which are often found in rural Minnesota farmhouses of the era and used to emphasize verticality.  These elements include two-over-two double-hung [[sash windows]] in tall rectangular openings with [[Keystone (architecture)|keystone]] segmental-arch hoods, and hooded double front entrance.  Unlike similar houses, conventional [[eave]] [[Bracket (architecture)|brackets]] were never applied to the house.&lt;ref name=MHPIF/&gt;
+
+==History==
+The builder, Ole Anderson Aasved, was born in March 1826 near [[Trondheim]], [[Norway]].  Raised on a farm, he had almost no formal education, but he sought to educate himself.  Aasved was married several times.  He married Christiana Anderson in 1849, and the couple had one child, Christiana (later Mrs. Martin Peterson), before his wife died in 1854.  Aasved moved to the United States in 1857, and in 1860 he married fellow Norwegian native Ingred Alexson; they had one daughter, Anna, before Alexson died in 1869.  He worked in logging Michigan before settling in Minnesota. In 1865 he enlisted in the [[2nd Minnesota Volunteer Cavalry Regiment]] of the [[Union Army]], but saw no active service and was discharged in the same year.&lt;ref name=CtyHistory1884&gt;H.A. Smith, ''[https://books.google.com/books?id=41FKAAAAYAAJ&amp;pg=PA1104&amp;lpg=PA1104 The History of Winona, Olmsted and Dodge County]'', H.H. Hill and Company, p. 1104.&lt;/ref&gt;
+
+[[File:OleCarlsonPlatt.jpg|thumb|right|The 1905 [[plat]] map of the &quot;Ole Karlson&quot; properties and their acreage in the township.  The small black box shows the location of the house.]]
+
+In Minnesota, Aasved accumulated {{convert|220|acres}} of land in adjacent {{convert|140|acres}} and {{convert|80|acres}} parcels.  Aasved finished his own residence in 1882 at a cost of $3,000.  In 1883 he married a third time, to fellow Norwegian immigrant Benedicka Hanson.&lt;ref name=CtyHistory1884/&gt;
+
+==Significance==
+The Ole Carlson House was selected for placement on the NRHP based on its significance to the agricultural history of the Upper Midwest, its own unique architecture, and as an example of the ethnic settlements of early [[Norwegian American]]s.  A county history of 1884 declared that the house was &quot;the best farm house in the county.&quot;&lt;ref name=MHPIF/&gt;
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places}}
+
+{{DEFAULTSORT:Carlson, Ole, House}}
+[[Category:Houses on the National Register of Historic Places in Minnesota]]
+[[Category:Houses completed in 1880]]
+[[Category:Houses in Dodge County, Minnesota]]
+[[Category:Norwegian-American culture in Minnesota]]
+[[Category:National Register of Historic Places in Dodge County, Minnesota]]</text>
+      <sha1>r7tkrqv1mnk4h2u216m6nj4msb62gqk</sha1>
+    </revision>
+  </page>
+</mediawiki>

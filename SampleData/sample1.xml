@@ -1,0 +1,2870 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.36.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Template:User WikiProject infoboxes</title>
+    <ns>10</ns>
+    <id>9244802</id>
+    <revision>
+      <id>407079677</id>
+      <parentid>407079604</parentid>
+      <timestamp>2011-01-10T15:07:50Z</timestamp>
+      <contributor>
+        <username>Mhiji</username>
+        <id>13262827</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Template:User WikiProjectinfoboxes]] to [[Template:User WikiProject infoboxes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="370" xml:space="preserve">{{userbox
+| border-c = MidnightBlue
+| info-c   = #ddf
+| id-c     = white
+| id       = [[Image:Messagebox info.svg|42x42px]]
+| info     = This user is a member of '''[[Wikipedia:WikiProject Infoboxes|The Infobox Watch]]'''.
+| usercategory = WikiProject Infoboxes participants
+| nocat = {{{nocat|}}}
+}}&lt;noinclude&gt;[[Category:WikiProject user templates|Infobox]]&lt;/noinclude&gt;</text>
+      <sha1>08utvb380vpttuztiiidgpthe1sty17</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>York Railway Institute F.C.</title>
+    <ns>0</ns>
+    <id>9244804</id>
+    <redirect title="York Railway Institute A.F.C." />
+    <revision>
+      <id>125541326</id>
+      <parentid>104792287</parentid>
+      <timestamp>2007-04-24T15:45:27Z</timestamp>
+      <contributor>
+        <username>RussBot</username>
+        <id>279219</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -&quot;York Railway Institute&quot; +&quot;York Railway Institute A.F.C.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" xml:space="preserve">#REDIRECT [[York Railway Institute A.F.C.]]</text>
+      <sha1>ohz69reke87nne34jq114m2473nwhwv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Portal:Hong Kong/Selected picture/2007</title>
+    <ns>100</ns>
+    <id>9244809</id>
+    <revision>
+      <id>500344958</id>
+      <parentid>262857538</parentid>
+      <timestamp>2012-07-02T15:48:48Z</timestamp>
+      <contributor>
+        <username>Northamerica1000</username>
+        <id>14730724</id>
+      </contributor>
+      <comment>added [[Category:Hong Kong portal]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="747" xml:space="preserve">__NOEDITSECTION__
+{{Portal:Hong Kong/Selected picture/Navyear}}
+
+These pictures have appeared on the [[Portal:Hong Kong]] page in 2007 since the creation of the portal. They are (or were at the time of listing) [[WP:FP|Featured Pictures]] or from the [[Portal:Hong Kong/Selected picture|list of selected pictures]].
+
+==January==
+{{/January}}
+{{clear}}
+==February==
+{{/February}}
+{{clear}}
+==March==
+{{/March}}
+{{clear}}
+==April==
+{{/April}}
+{{clear}}
+==May==
+{{/May}}
+{{clear}}
+==June==
+{{/June}}
+{{clear}}
+==July==
+{{/July}}
+{{clear}}
+==August==
+{{/August}}
+{{clear}}
+==September==
+{{/September}}
+{{clear}}
+==October==
+{{/October}}
+{{clear}}
+==November==
+{{/November}}
+{{clear}}
+==December==
+{{/December}}
+{{clear}}
+
+[[Category:Hong Kong portal]]</text>
+      <sha1>l9gmiq5b5prjkolaj0wpllkq6fif4iv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>York R.I.</title>
+    <ns>0</ns>
+    <id>9244810</id>
+    <redirect title="York Railway Institute A.F.C." />
+    <revision>
+      <id>125541357</id>
+      <parentid>104792332</parentid>
+      <timestamp>2007-04-24T15:45:33Z</timestamp>
+      <contributor>
+        <username>RussBot</username>
+        <id>279219</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -&quot;York Railway Institute&quot; +&quot;York Railway Institute A.F.C.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" xml:space="preserve">#REDIRECT [[York Railway Institute A.F.C.]]</text>
+      <sha1>ohz69reke87nne34jq114m2473nwhwv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cold Spring Canyon Arch Bridge</title>
+    <ns>0</ns>
+    <id>9244813</id>
+    <revision>
+      <id>963881807</id>
+      <parentid>961515180</parentid>
+      <timestamp>2020-06-22T10:06:43Z</timestamp>
+      <contributor>
+        <username>WikiCleanerBot</username>
+        <id>18872885</id>
+      </contributor>
+      <minor />
+      <comment>v2.02b - [[User:WikiCleanerBot#T18|Bot T18]] - [[WP:WCW]] project (&lt;nowiki&gt; tags)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6960" xml:space="preserve">{{Infobox Bridge
+|bridge_name= Cold Spring Canyon Arch Bridge
+|image= Cold Spring Canyon Arch Bridge.jpg
+|caption= 
+|official_name= 
+|also_known_as= 
+|carries= 2 lanes of {{jct|state=CA|CA|154}}
+|crosses= Cold Spring Canyon
+|locale= [[Santa Ynez Mountains]],&lt;br&gt;[[Santa Barbara County, California]]
+|maint= [[California Department of Transportation|Caltrans]]
+|id= 
+|design= steel arch
+|mainspan= {{convert|700|ft|m|0|abbr=on}}&lt;ref name=SYVN&gt;{{citation | url = http://syvnews.com/news/opinion/commentary/community-matters/a-historic-view-of-the-steel-shortcut-bridge/article_d61db27c-5a7d-11e0-9fba-001cc4c03286.html | title = A historic view of the 'Steel Shortcut' bridge | publisher = Santa Ynez Valley News | author = Lansing Duncan | date = March 31, 2011 | accessdate = December 20, 2016 |archiveurl=https://web.archive.org/web/20161220223851/http://syvnews.com/news/opinion/commentary/community-matters/a-historic-view-of-the-steel-shortcut-bridge/article_d61db27c-5a7d-11e0-9fba-001cc4c03286.html |archivedate=December 20, 2016 |url-status = live}}&lt;/ref&gt;&lt;ref name=hb&gt;{{cite web|url=http://www.highestbridges.com/wiki/index.php?title=Cold_Spring_Canyon_Bridge |title=Cold Spring Canyon Bridge |last=Sakowski |first=Eric |website=highestbridges.com |date=June 3, 2016 |accessdate=December 20, 2016 |archiveurl=https://web.archive.org/web/20161220222533/http://www.highestbridges.com/wiki/index.php?title=Cold_Spring_Canyon_Bridge |archivedate=December 20, 2016 |url-status = live}}&lt;/ref&gt;
+|length= {{convert|1217|ft|m|0|abbr=on}}&lt;ref name=SYVN/&gt;
+|width= 
+|clearance= 
+|below= {{convert|400|ft|m|0|abbr=on}}&lt;ref name=SYVN/&gt;&lt;ref name=hb/&gt;
+|traffic= 
+|cost=Over $2,000,000&lt;ref name=SYVN/&gt;
+|open= 1964
+|map_cue= 
+|map_image= 
+|map_text= 
+|map_width= 
+|lat= 
+|long= 
+|coordinates= {{coord|34|31|33.81|N|119|50|4.53|W|display=inline,title}}
+}}
+
+The '''Cold Spring Canyon Arch Bridge''' in the [[Santa Ynez Mountains]] links [[Santa Barbara, California]] with [[Santa Ynez, California]]. The bridge is signed as part of [[California State Route 154|State Route 154]].
+
+It is currently the highest arch bridge in the U.S. state of California and among the [[List of bridges in the United States by height|highest bridges in the United States]]. At its highest point, the bridge deck is {{convert|400|ft|m|0|abbr=on}} above the canyon floor.&lt;ref name=SYVN/&gt;&lt;ref name=hb/&gt; The bridge is also the largest steel arch bridge in the state.&lt;ref name=&quot;:1&quot;&gt;{{Cite web|last=Noozhawk|title=Cold Spring Canyon Bridge: By the Engineering Numbers|url=https://www.noozhawk.com/article/050210_cold_spring_canyon_bridge_numbers|access-date=2020-06-08|website=www.noozhawk.com|language=en}}&lt;/ref&gt;  It was determined to be eligible for the National Register of Historic Places with exceptional significance.&lt;ref name=&quot;:1&quot; /&gt; 
+
+==History==
+The current bridge was completed and opened to traffic in February 1964.&lt;ref&gt;{{Cite web|title=Cold Spring Canyon Bridge, State Route (SR) 154 from Post Mile (PM) 22.95 to 23.19, just north of the San Marcos Pass, Santa Barbara, Santa Barbara County, CA|url=https://www.loc.gov/item/ca3902/|access-date=2020-06-08|website=Library of Congress, Washington, D.C. 20540 USA}}&lt;/ref&gt;  It was constructed by [[U.S. Steel|U.S Steel Corp's]] American Bridge division and Massman Construction Co.&lt;ref name=&quot;:1&quot; /&gt;  The structure won awards for engineering, design, and beauty. It was in the top 5 longest span [[arch bridge]]s of this [[Timeline of three longest supported deck arch bridge spans|&quot;supported deck&quot;]] type in the world until the 1990s.
+
+[[Cold Spring Tavern]], originally a [[stagecoach]] stop, is approximately 600m south of the bridge's west base in the canyon below, on a stub of Old [[San Marcos Pass]] Road (now named Stagecoach Rd.) connecting with SR 154 at Camino Cielo and Paradise Roads.
+
+Seismic retrofitting was completed in 1998 by [[American Bridge Company|American Bridge]], one of the companies involved in the original construction.&lt;ref name=&quot;:1&quot; /&gt;
+
+===Barriers===
+{{As of |2012|March}}, the bridge had been the site of 55 suicides [needs citation] since its completion, which is about one per year on average; however, some years have several more suicides, such as the eight deaths recorded in 2009. In an effort to prevent future incidents, [[California Department of Transportation]] installed a {{convert|9.5|ft|m|abbr=on}} tall barrier in the form of an inwardly-curved, finely-gridded mesh fence in March 2012.&lt;ref&gt;[http://www.noozhawk.com/article/030112_cold_spring_bridge_suicide_barrier_complete Caltrans Completes Suicide Barrier on Cold Spring Canyon Bridge]&lt;/ref&gt; The fence cost $3.2 million.&lt;ref name=&quot;:0&quot; /&gt; A [[Santa Monica, California|Santa Monica]] man committed suicide from the bridge six months later in September 2012.&lt;ref name=&quot;:0&quot;&gt;{{Cite news|url=https://www.noozhawk.com/article/090712_despite_barrier_cold_spring_bridge_claims_new_victim|title=Despite Barrier, Cold Spring Bridge Claims New Victim|last=Bolton|first=Tom|date=2012-09-08|work=Noozhawk|language=en|access-date=2017-01-22|via=}}&lt;/ref&gt;
+
+==Gallery==
+&lt;gallery&gt;
+File:Aerial-ColdSpringCynBridge.jpg|Aerial view of western end. [[Cold Spring Tavern]] is on Stagecoach Road beneath the bridge, just off the top of photo.
+File:Cold Spring Canyon Arch Bridge ASCE Plaque.jpg|Plaque for [[American Society of Civil Engineers]] designated [[Historic Civil Engineering Landmark]], on Stagecoach Road.
+File:Cold Spring Canyon Arch Bridge (2).jpg|Cold Spring Canyon Bridge
+&lt;/gallery&gt;
+
+==See also==
+*{{C|Santa Ynez Mountains}}
+*{{C|Santa Ynez Valley}}
+*[[Suicide bridge]]
+*[[Gaviota Pass]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.dot.ca.gov/dist05/projects/sb_cold_springs/index.html Cold Spring Bridge], ''dot.ca.gov'', retrieved on 2007-01-31.
+*[http://www.dot.ca.gov/ser/downloads/cultural/CalHwyIndex.pdf List of Awards] ''&quot;Highways and Roads&quot;'' (CA DOT CalHwyIndex.pdf), pg. 28
+*{{Structurae|id=20005916}}
+*[http://www.edhat.com/site/tidbit.cfm?id=2780 &quot;Fatal Attraction - Cold Spring Toll Hits 47&quot;], ''EdHat.com'', November 28, 2008
+*[https://web.archive.org/web/20090217073341/http://www.b-t.com/projects/cldsprg.htm Buckland &amp; Taylor Ltd..com: Seismic retrofit in 1999] 
+*[https://www.flickr.com/photos/jw4pix/3142052793/ 2008 Flickr.com: Aerial photo] 
+*{{HAER |survey=CA-2298 |id=ca3902 |title=Cold Spring Canyon Bridge, State Route (SR) 154, Santa Barbara County, CA |photos=17 |data=41 |cap=2}}
+
+{{Santa Ynez River}}
+
+[[Category:Road bridges in California]]
+[[Category:Transportation buildings and structures in Santa Barbara County, California]]
+[[Category:Open-spandrel deck arch bridges in the United States]]
+[[Category:Steel bridges in the United States]]
+[[Category:Santa Ynez Mountains]]
+[[Category:Bridges completed in 1963]]
+[[Category:1963 establishments in California]]
+[[Category:Historic American Engineering Record in California]]
+[[Category:Historic Civil Engineering Landmarks]]</text>
+      <sha1>juufth43zpbdijbu9ws9dzelzuk0v30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ft. Holabird</title>
+    <ns>0</ns>
+    <id>9244814</id>
+    <redirect title="Fort Holabird" />
+    <revision>
+      <id>104792358</id>
+      <timestamp>2007-02-01T07:17:46Z</timestamp>
+      <contributor>
+        <username>Nobunaga24</username>
+        <id>830002</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Fort Holabird]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" xml:space="preserve">#REDIRECT [[Fort Holabird]]</text>
+      <sha1>l28bys0yzighs4w9l6oq5xypqisbwc4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>York Railway Institute AFC</title>
+    <ns>0</ns>
+    <id>9244816</id>
+    <redirect title="York Railway Institute A.F.C." />
+    <revision>
+      <id>349174285</id>
+      <parentid>125541382</parentid>
+      <timestamp>2010-03-11T07:23:15Z</timestamp>
+      <contributor>
+        <username>RjwilmsiBot</username>
+        <id>10996774</id>
+      </contributor>
+      <minor />
+      <comment>redirect tagging using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="67" xml:space="preserve">#REDIRECT [[York Railway Institute A.F.C.]]
+{{R from modification}}</text>
+      <sha1>q6mjvzr3t8z7taw7gjfw2ic8syx0ys7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>York Railway Institute FC</title>
+    <ns>0</ns>
+    <id>9244822</id>
+    <redirect title="York Railway Institute A.F.C." />
+    <revision>
+      <id>125541406</id>
+      <parentid>104792427</parentid>
+      <timestamp>2007-04-24T15:45:42Z</timestamp>
+      <contributor>
+        <username>RussBot</username>
+        <id>279219</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Fixing [[Special:DoubleRedirects|double-redirect]] -&quot;York Railway Institute&quot; +&quot;York Railway Institute A.F.C.&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" xml:space="preserve">#REDIRECT [[York Railway Institute A.F.C.]]</text>
+      <sha1>ohz69reke87nne34jq114m2473nwhwv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Graveyard of Honor (2002 film)</title>
+    <ns>0</ns>
+    <id>9244831</id>
+    <revision>
+      <id>889115781</id>
+      <parentid>845709926</parentid>
+      <timestamp>2019-03-23T16:02:27Z</timestamp>
+      <contributor>
+        <username>Wgolf</username>
+        <id>13821812</id>
+      </contributor>
+      <comment>Added {{[[:Template:more citations needed|more citations needed]]}} tag to article ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2931" xml:space="preserve">{{for|the original [[Kinji Fukasaku]] film|Graveyard of Honor (1975 film)}}
+{{more citations needed|date=March 2019}}
+{{Infobox film
+| name           = Graveyard of Honor
+| image          = GraveyardOfHonor2002Film.jpg
+| caption        =
+| director       = [[Takashi Miike]]
+| producer       =
+| writer         = [[Goro Fujita]] (novel)&lt;br&gt;[[Shigenori Takechi]] (screenplay)
+| narrator       =
+| starring       = [[Goro Kishitani]]
+| music          = [[Kōji Endō]]
+| cinematography = [[Hideo Yamamoto (cinematographer)|Hideo Yamamoto]]
+| editing        = [[Yasushi Shimamura]]
+| distributor    =
+| released       = June 22, 2002
+| runtime        = 131 minutes
+| country        = Japan
+| language       = Japanese
+| budget         =
+| preceded_by    =
+| followed_by    =
+}}
+
+{{nihongo|'''''Graveyard of Honor'''''|新・仁義の墓場|Shin Jingi no Hakaba|lit. &quot;New Graveyard of Honor&quot;}} is a [[yakuza film]] directed by [[Takashi Miike]]. It is a remake of [[Kinji Fukasaku]]'s [[Graveyard of Honor (1975 film)|1975 film of the same name]], which is based on the life of a real-life [[yakuza]] member.
+
+==Plot==
+A barkeeper saves a yakuza boss's life and thus makes his way up in the organization. However, his fear of nothing soon causes problems.
+
+==Cast==
+*[[Narimi Arimori]] as Chieko Kikuta
+*[[Yoshiyuki Daichi]] as Yoshiyuki Ooshita
+*[[Hirotaro Honda]] as Correctional officer
+*[[Harumi Inoue]] as Yōko Imamura
+*[[Renji Ishibashi]] as Denji Yukawa
+*[[Goro Kishitani]] as Rikuo Ishimatsu
+*[[Takashi Miike]] as Restaurant gunman
+*[[Ryōsuke Miki]] as Kōzō Imamura
+*[[Yasukaze Motomiya]] as Kanemoto
+*[[Mikio Ōsawa]] as Masato Yoshikawa
+*[[Daisuke Ryu]] as Tadaaki Kuze
+*[[Harumi Sone]] as Ryuuzō Fukui
+*[[Shun Sugata]] as Toshi Nishizaki
+*[[Tetsurō Tamba]] as Tetsuji Tokura
+*[[Yoshiyuki Yamaguchi]] as Shigeru Hashida
+*[[Shingo Yamashiro]] as Shinobu Sawada
+*[[Shinji Yamashita]] as Masaru Narimura
+*[[Rikiya Yasuoka]] as Aoyama
+
+==Other credits==
+*Production
+**Michinao Kai: assistant producer
+**Mitsuru Kurosawa: executive producer: Toei Video
+**Shigeji Maeda: producer
+**Fujio Matsushima: planner
+**Fujio Matsushima: supervising producer
+**Hitoki Ookoshi: line producer
+**Tsuneo Seto: supervising planner
+**Shigenori Takechi: planner
+**Ken Takeuchi: supervising planner
+**Tsutomu Tsuchikawa: executive producer: Daiei
+**Kazuyuki Yokoyama: producer
+*Production design: Tatsuo Ozeki
+*Production manager: Hirofumi Yamabe
+*Assistant Director: Bunmei Katō
+*Sound Department
+**Yukiya Sato: sound
+**Kenji Shibazaki: sound effects
+
+== External links ==
+* {{IMDb title|0316599|Graveyard of Honor}}
+
+{{Takashi Miike}}
+
+{{DEFAULTSORT:Graveyard Of Horror (2002 Film)}}
+[[Category:2002 films]]
+[[Category:2000s crime thriller films]]
+[[Category:Yakuza films]]
+[[Category:Japanese films]]
+[[Category:Japanese-language films]]
+[[Category:Films directed by Takashi Miike]]
+
+
+{{crime-thriller-film-stub}}
+{{2000s-Japan-film-stub}}</text>
+      <sha1>2lgwuz9csd8xr4fc3m9qywzuiywe4oe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lucid</title>
+    <ns>0</ns>
+    <id>9244832</id>
+    <revision>
+      <id>954478096</id>
+      <parentid>942085428</parentid>
+      <timestamp>2020-05-02T16:40:00Z</timestamp>
+      <contributor>
+        <username>Versace1608</username>
+        <id>15213913</id>
+      </contributor>
+      <comment>/* Arts and entertainment */ added a notable; minor tweak</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1358" xml:space="preserve">{{wiktionary|lucid}}
+'''Lucid''' may refer to:
+{{toc right}}
+==Arts and entertainment==
+* [[Lucid (film)|''Lucid'' (film)]], a 2005 Canadian film
+* [[Lucid (Lyfe Jennings album)|''Lucid'' (Lyfe Jennings album)]], 2013 
+* [[Lucid (Aṣa album)|''Lucid'' (Aṣa album)]], 2019
+* [[Lucid EP|''Lucid'' EP]], a 2006 EP by Art of Chaos
+* ''Lucid'', a 2015 novel by [[Jay Bonansinga]]
+
+==Businesses==
+* [[Lucid Inc.]], a software development company 
+* [[Lucid Games]], a British videogame company
+* [[Lucid Records]], an American independent record label
+* [[Lucid Motors]], an electric car company formerly called Atieva
+
+==People==
+* [[Con Lucid]] (1874–1931), an American baseball player
+* [[Shannon Lucid]] (born 1943), an American astronaut
+
+==Science and technology==
+* [[Lucid (programming language)]], a dataflow programming language
+* [[LucidDB]], an open-source database package
+* [[Lucid Lynx]], a version of Ubuntu Linux released in April 2010
+* [[LUCID]] (Langton Ultimate Cosmic ray Intensity Detector), a cosmic ray detector
+
+==Other uses==
+* [[Lucid Absinthe]], a distilled beverage made from grande wormwood
+* [[Operation Lucid]], British military plan to use fireships to attack France in World War II
+* {{ship|USS|Lucid}}, the name of two U.S. Navy ships
+
+== See also ==
+*{{intitle}}
+* [[Lucidity (disambiguation)]]
+
+{{disambiguation|surname}}</text>
+      <sha1>4wtelc30wkzc3zfzdbd4419stqx9tem</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ethical Purchasing Policy</title>
+    <ns>0</ns>
+    <id>9244834</id>
+    <redirect title="Ethical consumerism" />
+    <revision>
+      <id>170999318</id>
+      <parentid>146952147</parentid>
+      <timestamp>2007-11-12T17:58:45Z</timestamp>
+      <contributor>
+        <username>Montchav</username>
+        <id>2988969</id>
+      </contributor>
+      <comment>redirect to [[Ethical consumerism]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" xml:space="preserve">#REDIRECT [[Ethical consumerism]]</text>
+      <sha1>f6fcrgvrlbfq388nx35mk0q98au5mnu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Requests for mediation/Stryker (disc jockey)</title>
+    <ns>4</ns>
+    <id>9244836</id>
+    <revision>
+      <id>112965177</id>
+      <parentid>112548561</parentid>
+      <timestamp>2007-03-06T02:15:41Z</timestamp>
+      <contributor>
+        <username>😂</username>
+        <id>169932</id>
+      </contributor>
+      <minor />
+      <comment>rm current case category</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3777" xml:space="preserve">==Stryker (disc jockey)==
+{{Closed case|12:24, 4 March 2007 (UTC)|Dispute seems to have resolved itself.}}
+&lt;div class=&quot;plainlinks&quot; style=&quot;text-align: right; font-size: 75%; width: 21%; background: #f9f9f9; border: 1px solid #aaaaaa; float: right; padding: 10px;&quot;&gt; 
+[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_mediation/Stryker_(disc_jockey) view]
+[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_mediation/Stryker_(disc_jockey)&amp;action=edit edit]
+[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_mediation/Stryker_(disc_jockey)&amp;action=delete delete]
+[http://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_mediation/Stryker_(disc_jockey)&amp;action=watch watch]&lt;/br&gt;
+Filed: 07:20, [[February 1]] [[2007]] ([[UTC]])
+&lt;/div&gt;
+===Involved parties===
+*{{user|Craigtalbert}}
+*{{user|jimmycracker}}
+
+===Articles involved===
+*[[Stryker (disc jockey)]]
+
+===Other steps in [[Wikipedia:Resolving disputes|dispute resolution]] that have been attempted:===
+*[[WP:RFC]] [[Talk:Stryker (disc jockey)#Request_for_Comment:_Online_petitions]]
+*[[WP:3]] [[Talk:Stryker (disc jockey)#Third_Opinion]]
+*See also initial discussion in the talk page of the article [[Talk:Stryker_(disc_jockey)#Wow]].
+
+===Issues to be mediated===
+*Should [[Stryker (disc jockey)]] include a link to an online petition? (the purpose of which is to get Stryker off the air, 'cause the signers don't like him)
+*Potential Conflicts of interest in the article [[Stryker (disc jockey)]] per edits made from [[User:170.20.96.116|170.20.96.116]] (an IP address known to be associated with CBS) [http://en.wikipedia.org/w/index.php?title=Stryker_%28disc_jockey%29&amp;curid=6646438&amp;diff=93961772&amp;oldid=93950578] [http://en.wikipedia.org/w/index.php?title=Stryker_%28disc_jockey%29&amp;diff=prev&amp;oldid=93950488] [http://en.wikipedia.org/w/index.php?title=Stryker_%28disc_jockey%29&amp;diff=prev&amp;oldid=90844525] [http://en.wikipedia.org/w/index.php?title=Stryker_%28disc_jockey%29&amp;curid=6646438&amp;diff=94187267&amp;oldid=94187106] [http://en.wikipedia.org/w/index.php?title=Stryker_%28disc_jockey%29&amp;diff=prev&amp;oldid=94182424] [http://en.wikipedia.org/w/index.php?title=Stryker_%28disc_jockey%29&amp;diff=next&amp;oldid=94005707] [http://en.wikipedia.org/w/index.php?title=Stryker_%28disc_jockey%29&amp;curid=6646438&amp;diff=94195846&amp;oldid=94188487], similar non-anonymous edits continued. [[CBS Radio]] owns [[Westwood One]], the company that produces the radio show [[Loveline]] on which [[Stryker (disc jockey)|Stryker]] is the co-host.   
+*Lack of civility displayed by [[User:Jimmycracker]] in discussion of the article making it difficult to productively collaborate with him.
+
+===Parties' agreement to mediate===
+:''All parties should sign below, indicating that they agree to mediate the issue. If any party fails to sign, or if a party indicates they do not agree, then the mediation will be rejected. '''Only signatures and &quot;agree&quot; or &quot;disagree&quot; should appear here; any comments will be removed.'''''
+#Agree. [[User:Jimmycracker|Jimmycracker]] 07:35, 1 February 2007 (UTC)
+#Agree. [[User:Craigtalbert|Craigtalbert]] 08:02, 1 February 2007 (UTC)
+
+===Decision of the Mediation Committee===
+*'''Accept''':
+::''For the Mediation Committee'', [[User:Shyam Bihari| &lt;font color=&quot;black&quot;&gt;'''Shyam'''&lt;/font&gt;]] &lt;sup&gt;([[User talk:Shyam Bihari|&lt;font color=&quot;orange&quot;&gt;'''T'''&lt;/font&gt;]]/[[Special:Contributions/Shyam Bihari|&lt;font color=&quot;red&quot;&gt;'''C'''&lt;/font&gt;]])&lt;/sup&gt; 15:16, 1 February 2007 (UTC)
+
+::I'm taking this case. I'll be contacting parties shortly. &amp;mdash;[[User:Xyrael|Xyrael]] / 12:57, 11 February 2007 (UTC)
+
+:::This case is now being mediated over e-mail. &amp;mdash;[[User:Xyrael|Xyrael]] / 13:56, 18 February 2007 (UTC)
+
+&lt;!-- Do not remove this category. It is essential to the case management bot. --&gt;</text>
+      <sha1>7v3sdmwnaexsprw83r4vu8fjsh978s4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Jude Cole (album)</title>
+    <ns>0</ns>
+    <id>9244844</id>
+    <revision>
+      <id>965785564</id>
+      <parentid>965476098</parentid>
+      <timestamp>2020-07-03T11:59:53Z</timestamp>
+      <contributor>
+        <username>GünniX</username>
+        <id>237572</id>
+      </contributor>
+      <minor />
+      <comment>Reflist</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1838" xml:space="preserve">{{Infobox album
+| name       = Jude Cole
+| type       = studio
+| artist     = [[Jude Cole]]
+| cover      = Jude_Cole_(album).jpg
+| alt        =
+| released   = 1987
+| recorded   =
+| venue      =
+| studio     = [[Unique Recording Studios]], New York City&lt;ref&gt;https://www.allmusic.com/album/jude-cole-mw0000189537
+&lt;/ref&gt;
+| genre      = [[Rock music|Rock]]
+| length     = 45:38
+| label      = [[Reprise Records|Reprise]]
+| producer   = [[Russ Titelman]]
+| prev_title =
+| prev_year  =
+| next_title = [[A View from 3rd Street]]
+| next_year  = 1990
+}}
+{{Album ratings
+| rev1 = [[Allmusic]]
+| rev1Score = {{Rating|3.5|5}} [{{Allmusic|class=album|id=r59088|pure_url=yes}} link]
+| noprose = yes
+}}
+'''''Jude Cole''''' is the debut album by American singer-songwriter [[Jude Cole]].
+
+==Track listing==
+All songs written or co-written by Jude Cole.  Co-writers, where noted, in [[parenthesis]].
+# &quot;Like Lovers Do&quot; (4:42)
+# &quot;Walls That Bend&quot; (3:45) (Cole, John Corey)
+# &quot;You Were In My Heart&quot; (5:00)
+# &quot;Something That You Want&quot; (4:21) (Cole, [[Alan Pasqua]])
+# &quot;Life of Luxury&quot; (4:36) (Cole, Corey, Deborah Neal)
+# &quot;The Hurt&quot; (4:36)
+# &quot;Everyone's In Love&quot; (4:23) (Cole, Sara Allen)
+# &quot;Better Days&quot; (3:58) (Cole, [[John Bettis]])
+# &quot;Walk On Water&quot; (4:05)
+# &quot;Crying Mary&quot; (6:12)
+
+==Musicians==
+
+*[[Jude Cole]]: lead and backing vocals, guitars, bass
+*[[Rob Mounsey]]: keyboards
+*[[Mickey Curry]]: drums
+*Jimmy Bralower: drum programming
+*[[Jeff Bova]]: keyboards
+*[[Jimmy Maelen|Jimmy Maelin (sic)]]: percussion
+*[[Kenny G]]: tenor saxophone
+*Ron Skies: synth string programming
+*[[Russ Titelman]]: synth string arrangement
+*[[Robby Kilgore]]: keyboards
+
+==References==
+{{Reflist}}
+
+[[Category:1987 debut albums]]
+[[Category:Jude Cole albums]]
+[[Category:Albums produced by Russ Titelman]]
+[[Category:Reprise Records albums]]
+
+
+{{1980s-rock-album-stub}}</text>
+      <sha1>s09eg23vdbgfrgmivrq8qp8oy8kru7c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>How to Play Golf</title>
+    <ns>0</ns>
+    <id>9244846</id>
+    <revision>
+      <id>961739227</id>
+      <parentid>960300203</parentid>
+      <timestamp>2020-06-10T04:21:51Z</timestamp>
+      <contributor>
+        <username>Toughpigs</username>
+        <id>578047</id>
+      </contributor>
+      <comment>add reference</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2775" xml:space="preserve">{{DISPLAYTITLE: ''How to Play Golf''}}
+{{Infobox film
+| name = How to Play Golf
+| image = 
+| caption = 
+| director = [[Jack Kinney]]
+| animator = 
+| story = 
+| starring = [[Pinto Colvig]] 
+| music = 
+| layout_artist =
+| background_artist = 
+| producer = [[Walt Disney]]
+| studio = [[Walt Disney Animation Studios|Walt Disney Productions]]
+| distributor = [[RKO]]
+| released = 1944 (USA)
+| color_process = [[Technicolor]]
+| runtime = 7 min (one reel)
+| language = [[English language|English]]
+}}
+'''''How to Play Golf''''' is a 1944 [[short film|short]] animated [[Walt Disney Animation Studios|Walt Disney Productions]] film directed by [[Jack Kinney]].&lt;ref&gt;{{cite book |last1=Lenburg |first1=Jeff |title=The Encyclopedia of Animated Cartoons |date=1999 |publisher=Checkmark Books |isbn=0-8160-3831-7 |accessdate=6 June 2020 |url=https://archive.org/details/isbn_9780816038312/page/86/mode/2up |pages=86-87}}&lt;/ref&gt; Eight minutes long, it was distributed by [[RKO]], and was a part of a series where [[Goofy]] learned to play various sports.
+
+==Reception==
+Upon release, ''[[The Film Daily]]'' called it &quot;highly hilarious&quot;, and gave the following review:
+
+{{quote|&quot;This, another of Walt Disney's [[Technicolor]] cartoons featuring the Goof, is a howl. While the narrator explains how properly to play golf, the Goof attempts to demonstrate. Naturally he does everything wrong, with superb results from a comedy point of view. The technique and animation are noteworthy indeed. Mark this down as a topflight booking of its kind.&quot;&lt;ref&gt;{{cite news |title=Reviews of the New Films| publisher=The Film Daily |date=May 10, 1944 |page=13}}&lt;/ref&gt;}}
+
+==Voice cast==
+* Goofy: [[Pinto Colvig]]
+* Narrator: Fred Shields&lt;ref&gt;{{cite book |last1=Hischak |first1=Thomas S. |title=Disney Voice Actors: A Biographical Dictionary |date=2011 |publisher=McFarland &amp; Company |isbn=978-0786462711 |page=254 |url=https://www.google.com/books/edition/Disney_Voice_Actors/e1RTP8thtR0C?hl=en&amp;gbpv=1&amp;dq=traffic+troubles+mickey+mouse&amp;pg=PA254&amp;printsec=frontcover |accessdate=15 February 2020}}&lt;/ref&gt;
+
+==See also==
+*[[List of American films of 1944]]
+
+==References==
+&lt;references/&gt;
+
+==External links==
+* {{IMDb title|0036934}}
+{{Goofy in animation}}
+
+[[Category:Disney animated short films, 1940s]]
+[[Category:1944 films]]
+[[Category:1944 animated films]]
+[[Category:American films]]
+[[Category:American sports comedy films]]
+[[Category:English-language films]]
+[[Category:Golf animation]]
+[[Category:Goofy (Disney) short films]]
+[[Category:Films directed by Jack Kinney]]
+[[Category:Films produced by Walt Disney]]
+[[Category:1944 short films]]
+[[Category:Comedy short films]]
+[[Category:1940s sports comedy films]]
+[[Category:1944 comedy films]]
+
+
+{{Disney-animation-film-stub}}
+{{short-comedy-film-stub}}</text>
+      <sha1>cytr7l6ev72nywixylq36eve9ii5dh2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>William Wedge Darke</title>
+    <ns>0</ns>
+    <id>9244848</id>
+    <revision>
+      <id>905562243</id>
+      <parentid>710262159</parentid>
+      <timestamp>2019-07-09T22:32:28Z</timestamp>
+      <contributor>
+        <username>Rich Farmbrough</username>
+        <id>82835</id>
+      </contributor>
+      <minor />
+      <comment>/* top */Date formats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4119" xml:space="preserve">{{Use dmy dates|date=July 2019}}
+{{Refimprove|date=September 2014}}
+
+'''William Wedge Darke''' (1810–1890) was an Australian colonist and surveyor, the son of John Darke of Hereford and Elizabeth Darke, née Wedge, and younger brother of [[John Charles Darke]] and a nephew of [[John Helder Wedge]] from whom he learnt his profession. He arrived in [[Van Diemen's Land]] in 1827 with his parents, younger brother Henry and sister Elizabeth.
+
+In the early 1830s he was in private practice in Van Diemen's Land as a surveyor, then moved to [[New South Wales]] where he joined the survey department.  In 1836 he was sent as an Assistant Surveyor under [[Robert Russell (architect)|Robert Russell]] to survey the new settlement at [[Port Phillip]].
+
+At [[Port Phillip]] Darke carried out some of the first surveys of the new town of Melbourne and was instrumental in laying out the streets of the new town for sale at the first land auctions.&lt;ref name=&quot;grieg&quot;/&gt;
+
+He had numerous disputes with [[Robert Hoddle]] and was eventually engaged on a contract basis.
+
+Darke brought a wooden caravan from Sydney and set up camp with his family near [[Robert Russell (architect)|Robert Russell]]'s wood and daub hut on the south side of the [[Yarra River]] in what is now central Melbourne.&lt;ref name=&quot;grieg&quot;&gt;{{cite news |url=http://nla.gov.au/nla.news-article7259101 |title=MELBOURNE IN INFANCY. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=13 September 1913 |accessdate=18 September 2013 |page=7 |publisher=National Library of Australia}}&lt;/ref&gt;&lt;ref name=&quot;daulett&quot;&gt;{{cite news |url=http://nla.gov.au/nla.news-article7232890 |title=&quot;MELBOURNE IN INFANCY.&quot;. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=16 September 1913 |accessdate=18 September 2013 |page=5 |publisher=National Library of Australia}}&lt;/ref&gt; The caravan, dubbed 'Darke's Ark', had two rooms and a piano, and was drawn by bullocks to locations convenient to his surveying duties around Port Phillip. The caravan was eventually left at the beach as a [[Bathing machine|bathing house]].&lt;ref name=&quot;grieg&quot;/&gt;&lt;ref name=&quot;daulett&quot;/&gt;
+
+For a time Darke located his caravan at the seaside in what is now the inner city suburb of [[Port Melbourne]] after cutting the first track through the tea tree scrub.&lt;ref name=&quot;grieg&quot;/&gt; He hoisted a barrel on a pole, on high ground to point the way back to the Melbourne settlement and this led to the area's early name of 'Sandridge'.&lt;ref name=&quot;grieg&quot;/&gt; The earliest permanent white settler of [[Port Melbourne]] and talented amateur artist, [[Wilbraham Liardet]] was working on an illustrated history of Melbourne before his death and in a 1913 news article, drawn from Liardet's work, an early impression of Darke's 1837 camp – with 'Darke's Ark and 'barrel on a pole' – was published.&lt;ref&gt;{{cite news |url=http://nla.gov.au/nla.news-article7259101 |title=MELBOURNE IN INFANCY. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Melbourne |date=13 September 1913 |accessdate=19 September 2013 |page=7 |publisher=National Library of Australia}}&lt;/ref&gt;
+
+In 1843 he returned to [[New South Wales]]. In 1846 he was an Assistant Colonial Surveyor and lived with his wife and family in Pitt Street, Sydney.&lt;ref&gt;{{cite news |url=http://nla.gov.au/nla.news-article4759744 |title=Family Notices. |newspaper=[[The Argus (Melbourne)|The Argus]] |location=Vic. |date=4 August 1846 |accessdate=18 September 2013 |page=2 |publisher=National Library of Australia}}&lt;/ref&gt;
+
+In April 1860, notice was given that Darke had been appointed a licensed surveyor.&lt;ref&gt;{{cite news |url=http://nla.gov.au/nla.news-article18675917 |title=LICENSED SURVEYOR. |newspaper=[[The Maitland Mercury &amp; Hunter River General Advertiser]] |location=NSW |date=10 April 1860 |accessdate=18 September 2013 |page=3 |publisher=National Library of Australia}}&lt;/ref&gt;
+
+Many of his field notebooks are held in the [[Mitchell Library]] in Sydney.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Darke, William Wedge}}
+[[Category:Australian surveyors]]
+[[Category:1810 births]]
+[[Category:1890 deaths]]
+
+
+{{Australia-bio-stub}}</text>
+      <sha1>8q7pvza18ab47p36a1xu5tqzvb3jvhw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Jude Cole (album).jpg</title>
+    <ns>6</ns>
+    <id>9244856</id>
+    <revision>
+      <id>518589238</id>
+      <parentid>233807248</parentid>
+      <timestamp>2012-10-18T21:38:52Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Updating license tag(s) with image has rationale=yes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1060" xml:space="preserve">==Summary==
+The Debut solo album cover for Jude Cole, Self titled 1987 release
+
+==Fair use rationale==
+{{Non-free use rationale|Description=The cover of the [[Jude Cole]]'s [[Jude Cole (album)|self titled album]].
+
+|Source= Derived from a scan of the album cover (creator of this digital version is irrelevant as the copyright in all equivalent images is still held by the same party). Copyright held by the record company or the artist. Claimed as fair use regardless.
+
+|Article=Jude Cole (album)
+
+|Portion=Image of the front cover of the audio recording. Portion reproduced is a small chunk of the entire copyrighted recording, which includes other cover art and the singles themselves. The use here of the front cover image does not preclude the copyright holder from profiting on or marketing the album.
+
+|Purpose=For informational purposes - to illustrate the article [[Jude Cole (album)]], which describes the album. 
+
+|Resolution=Yes
+
+|Replaceability=Not possible; unique piece of art.
+
+}}
+
+==Licensing==
+{{Non-free album cover|image has rationale=yes}}</text>
+      <sha1>9k5pb5cfapxo7wogg2pds3j7a1uu4f4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Articles for deletion/Eugene Debbs Phillips, III</title>
+    <ns>4</ns>
+    <id>9244857</id>
+    <revision>
+      <id>106294610</id>
+      <parentid>105032870</parentid>
+      <timestamp>2007-02-07T12:22:53Z</timestamp>
+      <contributor>
+        <username>Mailer diablo</username>
+        <id>131286</id>
+      </contributor>
+      <comment>Closing debate; result was delete</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3810" xml:space="preserve">&lt;div class=&quot;boilerplate metadata vfd xfd-closed&quot; style=&quot;background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+:''The following discussion is an archived debate of the proposed deletion of the article below. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt;  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+&lt;!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. --&gt;
+
+The result was '''&lt;font color=red&gt;d&lt;/font&gt;elete'''. - [[User:Mailer diablo|Mailer Diablo]] 12:22, 7 February 2007 (UTC)
+
+===[[Eugene Debbs Phillips, III]]===
+:{{la|Eugene Debbs Phillips, III}} – &lt;includeonly&gt;([[Wikipedia:Articles for deletion/Eugene Debbs Phillips, III|View AfD]])&lt;/includeonly&gt;&lt;noinclude&gt;([[Wikipedia:Articles for deletion/Log/2007 February 1#{{anchorencode:Eugene Debbs Phillips, III}}|View log]])&lt;/noinclude&gt;
+From speedy. Not clear if the subject is notable [[User:Alex Bakharev|Alex Bakharev]] 07:23, 1 February 2007 (UTC)
+*'''Delete''' [http://www.google.com/search?hl=en&amp;q=%22eugene+debbs+phillips%22 2 Ghits]. [[User:JuJube|JuJube]] 08:06, 1 February 2007 (UTC)
+**'''Comment''' Presumably &quot;Debbs&quot; is the guys middle name, which is less likely to appear in a Google search.  When doing a Google search with just [http://www.google.com.au/search?sourceid=navclient-ff&amp;ie=UTF-8&amp;rls=GGGL,GGGL:2006-27,GGGL:en&amp;q=%22Eugene+Phillips%22 first and last] names, you get 11,400 hits - How many are actually for this dude, and not someone else, I don't know. --[[User:DWZ|DWZ]] ([[User talk:DWZ|talk]] • [[Special:Emailuser/DWZ|email]] • [[Special:Contributions/DWZ|contribs]]) 09:57, 1 February 2007 (UTC)
+***'''Comment''' Since he makes a point of how he's named for [[Eugene Debs]], I think the full name Google search is more relevant.  Eugene Phillips is not exactly a unique name. ^_^ [[User:JuJube|JuJube]] 10:41, 1 February 2007 (UTC)
+*'''Delete''', nn.  [[User:Edeans|Edeans]] 08:29, 1 February 2007 (UTC)
+*&lt;s&gt;'''Speedy Delete'''&lt;/s&gt; - Possible hoax. After some search, I wouldn't even be sure that the person or his institute exist. Not to mention small inconsistencies: If he is named after Eugene Debs, how would his middle name be Debbs and how come is the third one... [[User:Tikiwont|Tikiwont]] 14:23, 1 February 2007 (UTC)
+: '''Delete''' - Sorry, I have to correct myself as I now found the institute directly over its website peacethrougheconomics.com as mentioned in the articles edit comments. Still it has just been founded and not yet notable as there are no third part references. [[User:Tikiwont|Tikiwont]] 14:35, 1 February 2007 (UTC)
+*'''Delete''' unless properly sourced by end of this AfD [[User:Alf photoman|Alf photoman]] 15:33, 1 February 2007 (UTC)
+*'''delete''' I doubt that   sources will be found &quot; enrolled in the Ph.D. traveling dissertation program&quot; which is NN. Almost everything else is puffery.  '''[[User:DGG|DGG]]''' 06:14, 2 February 2007 (UTC)
+
+:''The above discussion is preserved as an archive of the debate.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. &lt;!--Template:Afd bottom--&gt;&lt;/div&gt;</text>
+      <sha1>0lneapf8lq9kkw6yr4prygl3n1a8r7t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>E-6B</title>
+    <ns>0</ns>
+    <id>9244859</id>
+    <redirect title="Boeing E-6 Mercury" />
+    <revision>
+      <id>367092991</id>
+      <parentid>104792978</parentid>
+      <timestamp>2010-06-10T00:01:37Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor />
+      <comment>Robot: Fixing double redirect to [[Boeing E-6 Mercury]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" xml:space="preserve">#REDIRECT [[Boeing E-6 Mercury]]</text>
+      <sha1>9uaxs3p4myfnumzvq3v4blqe5mqkz32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Colinroobie</title>
+    <ns>0</ns>
+    <id>9244874</id>
+    <revision>
+      <id>964594045</id>
+      <parentid>955108045</parentid>
+      <timestamp>2020-06-26T12:13:07Z</timestamp>
+      <contributor>
+        <username>Graham87</username>
+        <id>194203</id>
+      </contributor>
+      <comment>not a dead link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2044" xml:space="preserve">{{Use Australian English|date=February 2018}}
+{{Use dmy dates|date=February 2018}}
+{{Infobox Australian place | type = town
+| name     = Colinroobie
+| state    = nsw
+| image    = Colinroobie Rural Fire Service Shed.JPG
+| caption  = Rural Fire Service shed
+| lga      = Narrandera Shire
+| postcode = 2700
+| coordinates = {{coord|34|32|19|S|146|35|36|E|display=inline,title}}
+| pop      = 
+| est      = 
+| elevation= 291
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| county   = [[Cooper County, New South Wales|Cooper]]
+| fedgov   = [[Division of Riverina|Riverina]]
+| stategov = [[Electoral district of Cootamundra|Cootamundra]]
+| dist1    = 579
+| location1= Sydney
+| dist2    = 79
+| location2= [[Griffith, New South Wales|Griffith]]
+| dist3    = 28
+| location3= Barellan
+| dist4    = 24
+| location4= [[Narrandera]] &lt;ref&gt;[http://www.travelmate.com.au/MapMaker/MapMaker.asp Travelmate] {{webarchive |url=https://web.archive.org/web/20070324192800/http://www.travelmate.com.au/MapMaker/Mapmaker.asp |date=24 March 2007 }}&lt;/ref&gt;
+}}
+'''Colinroobie''' is a rural community in the central part of the [[Riverina]] in southern New South Wales, Australia.  Previously referred to as ''Bents&amp;nbsp;Hill'' its name was changed in January 2005.&lt;ref&gt;{{NSW GNR|id=JPIOlMrXMa|title=Colinroobie|accessdate=}}&lt;/ref&gt;
+
+It is situated by road, about {{convert|24|km|mi}} north of [[Narrandera, New South Wales|Narrandera]] and {{convert|28|km|mi}} south of [[Barellan, New South Wales|Barellan]].
+
+Colinroobie Post Office opened on 5&amp;nbsp;November 1895 and closed in 1952.&lt;ref name = &quot;PostOffice&quot;&gt;{{Citation| last = Premier Postal History  | title = Post Office List | url = https://www.premierpostal.com/cgi-bin/wsProd.sh/Viewpocdwrapper.p?SortBy=NSW&amp;country= | accessdate = 2009-06-11}}&lt;/ref&gt;
+
+==Notes and references==
+{{reflist}}
+
+==External links==
+{{commons category-inline}}
+
+{{Narrandera Shire}}
+{{Riverina}}
+
+
+{{authority control}}
+
+[[Category:Towns in the Riverina]]
+[[Category:Towns in New South Wales]]
+[[Category:Narrandera Shire]]
+
+
+{{Riverina-geo-stub}}</text>
+      <sha1>6fb7xvmlj39sxb9si76m1dfoke2f817</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Greedo Shoots First</title>
+    <ns>0</ns>
+    <id>9244876</id>
+    <redirect title="Han shot first" />
+    <revision>
+      <id>462892870</id>
+      <parentid>268443779</parentid>
+      <timestamp>2011-11-28T13:07:49Z</timestamp>
+      <contributor>
+        <ip>74.169.45.249</ip>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Han shot first]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" xml:space="preserve">#REDIRECT [[Han shot first]]</text>
+      <sha1>pzgiy8tyi8csaq0fiofw7fwrt1wmegh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Articles for deletion/Evil Empire (band)</title>
+    <ns>4</ns>
+    <id>9244879</id>
+    <revision>
+      <id>106401674</id>
+      <parentid>106360398</parentid>
+      <timestamp>2007-02-07T21:02:53Z</timestamp>
+      <contributor>
+        <username>Retired username</username>
+        <id>319357</id>
+      </contributor>
+      <comment>Closing debate; result was delete</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6389" xml:space="preserve">&lt;div class=&quot;boilerplate metadata vfd xfd-closed&quot; style=&quot;background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+:''The following discussion is an archived debate of the proposed deletion of the article below. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt;  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+&lt;!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. --&gt;
+
+The result was '''delete'''. [[User:W.marsh|W.marsh]] 21:02, 7 February 2007 (UTC)
+
+=== [[Evil Empire (band)]] ===
+
+
+As I've made clear elsewhere, I'm fine with the concept of self-published.  However, has this band had any radio play or significant club appearances or press?  Sales over a small number of privately sold copies?  They're on Amazon with a sales rank of ZERO.  Their site isn't even a direct URL--it's a free hosting.  If not, they're not notable enough to have an entry.  It would fall under the category of &quot;Self promotion.&quot;[[User:Mzmadmike|Mzmadmike]] 13:24, 1 February 2007 (UTC)mzmadmike
+
+I agree, obvious self-promoting &quot;vanity article&quot;. --[[User:PhoenixVTam|PhoenixVTam]] 19:05, 1 February 2007 (UTC)
+*'''Delete''' per apparent failure of [[WP:BAND]]; it also appears to be [[WP:COI#Self-promotion|self-promoting in a way]] as well. [[User:KyraVixen|Kyra]]&lt;sub&gt;[[User_talk:KyraVixen|~(talk)]]&lt;/sub&gt; 22:09, 1 February 2007 (UTC)
+
+I don't believe anyone from the band created this entry, but it may be (as mentioned above) a form of promotion. On the contrary, the band has founded a mind-blowing style, almost a genre, that is just in it's beginning stages. This may of interest to someone. Whether or not they're approved of by the Wikipedia staff makes no difference to their uprising. No, they don't usually play at overpriced 21 and up venues or clubs, rather in basements or bars. They play for mainly underground, all-ages audiences that are the Chicago suburbs area punk scene. Their popularity is gaining across the US, the UK, Japan, Austria, and probably some other countries- just in a very underground way, and they cannot play in these areas. Delete this entry if you so desire, but only if it is breaking some sort of Wikipedia law, do not discriminate. It is a guarantee that this article will re-appear in the near or distant future, due to the band's (and the scene's) rising underground reputation. (This was unsigned)
+
+++++++++
+Without rancor, let me point out that EVERY band believes this to be the case.  Can you list some articles in zines of some kind, industry commentary, sales numbers, anything?  If they're so underground they don't have notice, they are, by definition, not something to be listed in an encyclopedia.  I get less than 400 Ghits once I remove &quot;Rage Against the Machine&quot; who had an album of that name, Wiki's references and duplicates.  Everything I see is myspace and blog references.  A Wiki article needs references to support it.[[User:Mzmadmike|Mzmadmike]] 03:31, 2 February 2007 (UTC)
+*'''Delete''' This article fails [[WP:MUSIC]].  When their &quot;rising underground reputation&quot; results in actual sources that meet guidelines, then the article can be recreated. [[User:Janejellyroll|janejellyroll]] 03:33, 2 February 2007 (UTC)
+
+I think the problem is that most of the articles or pages put up that are promoting Evil Empire are by the band themselves, and they haven't had anyone make a page or article for them, until now (unless this wiki entry is made by the band as well). I found one page, but it's in Japanese, and it doesn't translate well. But, if self-promotion is how the band wants to do it, it's all their choice, I know for a fact that they are ok with people promoting them, and PEOPLE have, just not many online writers that are in some authoritative position to write about them. They have most-likely been in their local newspaper as high-schoolers. I'm not really trying to keep this article from being deleted, I'm just stating some facts and trying to point out that they are very popular to punk scenes around the country, despite their lack of corporate sponsorship or online reviews. And, I would really appreciate it if I was talked to as a normal person, rather than mocked and talked down to, thanks. Sorry I'm not educated on how to sign things or use Wikipedia code.
+:Nobody is saying that there is a problem with self-promotion.  However, Wikipedia has policies that all subjects must be notable.  Bands that lack any reputable sources attesting to notability do not meet article guidelines.  For more information, please see [[WP:N]] and [[WP:MUSIC]].  While there are many outlets for self-promotion, Wikipedia isn't one of them.  It isn't appropriate to use a Wikipedia page to help establish notability.  I'm sorry you feel as if people are talking down to you.  If you have any questions, please feel free to ask. [[User:Janejellyroll|janejellyroll]] 05:08, 2 February 2007 (UTC)
+
+I noted the &quot;unsigned&quot; merely to separate it from my response. I'm rough with the code myself.  No offense was intended.[[User:Mzmadmike|Mzmadmike]] 06:47, 2 February 2007 (UTC)
+
+*'''Delete''' per [[WP:N]] and [[WP:BAND]] Nothing to do with personal feelings of Wikians as to the genre. &quot;Notability&quot; is not subjective. [[User:Arakunem|Arakunem]] 20:18, 2 February 2007 (UTC)
+
+DELETE! As a member of the band I feel it should be deleted. No one in the band wrote it and I agree it is not a subject for an encyclopedia.
+
+*'''Delete''' unless sourced. [[User:Addhoc|Addhoc]] 18:05, 7 February 2007 (UTC)
+
+:''The above discussion is preserved as an archive of the debate.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. &lt;!--Template:Afd bottom--&gt;&lt;/div&gt;</text>
+      <sha1>88hwnt5phmgaxzcuthk33msxye3zpc7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aggressor pilot</title>
+    <ns>0</ns>
+    <id>9244898</id>
+    <redirect title="Aggressor squadron" />
+    <revision>
+      <id>104793488</id>
+      <timestamp>2007-02-01T07:27:32Z</timestamp>
+      <contributor>
+        <username>Nobunaga24</username>
+        <id>830002</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Aggressor squadron]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" xml:space="preserve">#REDIRECT [[Aggressor squadron]]</text>
+      <sha1>nexn05j2nmf201fhr07nlv1px324nwg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>City of Cairns Council</title>
+    <ns>0</ns>
+    <id>9244901</id>
+    <redirect title="City of Cairns" />
+    <revision>
+      <id>284115723</id>
+      <parentid>202396110</parentid>
+      <timestamp>2009-04-16T01:16:01Z</timestamp>
+      <contributor>
+        <username>Orderinchaos</username>
+        <id>1123985</id>
+      </contributor>
+      <comment>+</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" xml:space="preserve">#REDIRECT [[City of Cairns]]</text>
+      <sha1>5k25swssb5de99v3myduxnvfeo31wc2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>RecRec Music</title>
+    <ns>0</ns>
+    <id>9244902</id>
+    <revision>
+      <id>957356148</id>
+      <parentid>933454530</parentid>
+      <timestamp>2020-05-18T12:44:53Z</timestamp>
+      <contributor>
+        <username>Bruce1ee</username>
+        <id>211905</id>
+      </contributor>
+      <comment>added cats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3024" xml:space="preserve">{{Short description|Swiss independent record label}}
+{{Infobox record label
+| name        = RecRec Music
+| image       = RecRec Music logo.png
+| image_size  = 100
+| caption     = 
+| parent      = 
+| founded     = {{Start date|1983}}
+| founder     = [[Daniel Waldner]]
+| defunct     = {{End date|1997}}
+| distributor = 
+| genre       = [[Rock in Opposition]],&lt;br&gt;[[avant-rock]],&lt;br&gt;[[experimental music]]
+| country     = [[Switzerland]]
+| location    = 
+| website     = 
+}}
+
+'''RecRec Music''' was a [[Switzerland|Swiss]] [[independent record label]] created in [[1983 in music|1983]] by [[Daniel Waldner]]. The label was modeled on, and affiliated to, the [[United Kingdom|British]] independent record label [[Recommended Records]], but remained financially independent. The label went [[Bankruptcy|bankrupt]] in [[1997 in music|1997]] after the death of Waldner in 1995.
+
+==History==
+In 1979 [[Veit Stauffer]] and Daniel Waldner founded RecRec Zürich in [[Switzerland]], after suggestions from [[Chris Cutler]] that they establish a record distribution company similar to the [[United Kingdom|British]] [[independent record label]] [[Recommended Records]] that Cutler had created the previous year. RecRec Music, RecRec's record label, was created by Waldner in 1983, and built up a roster of over 30 bands and musicians.
+
+On 3 September 1995, Waldner and his son, Valentin died in an accident in the [[Swiss Alps]]. RecRec Music continued to operate, but began making losses and was declared bankrupt in May 1997. The label was split into two companies, RecRec-Shop, the record shop, and RecRec Medien AG, the distributor, with two new labels, Make-Up and Make-Up Your World. The companies continue to operate today, although with a different musical emphasis to that of RecRec Music.
+
+==RecRec Music roster==
+[[Image:ChrisCutler+Daniel Waldner(1986).jpg|thumb|200px|right|Chris Cutler (left) of Recommended Records and Daniel Waldner of RecRec Music, July 1986.]]
+RecRec Music released music by over 30 bands and groups, including:
+*[[After Dinner]]
+*[[Bob Ostertag]]
+*[[Camberwell Now]]
+*[[Etron Fou Leloublan]]
+*[[Ferdinand Richard]]
+*[[Fred Frith]]
+*[[Goz of Kermeur]]
+*[[Massacre (experimental band)|Massacre]]
+*[[Negativland]]
+*[[Nimal (band)|Nimal]]
+*[[Pale Nudes]]
+*[[Skeleton Crew (band)|Skeleton Crew]]
+*[[Tenko (musician)|Tenko]]
+*[[The Ex (band)|The Ex]]
+*[[The Hat Shoes]]
+
+==See also==
+*[[Recommended Records]]
+*[[Fred Records]]
+*[[List of record labels]]
+
+==External links==
+*[http://www.recrec-shop.ch/ueber%20uns_1.html RecRec Store]. ''RecRec history''. {{in lang|de}}
+*[http://www.discogs.com/label/RecRec+Music Discogs]. ''RecRec Music''.
+*[http://www.squidco.com/rer/RecRec.discog.html Squidco]. ''RecRec discography''.
+
+[[Category:Swiss independent record labels]]
+[[Category:Record labels established in 1983]]
+[[Category:Record labels disestablished in 1997]]
+[[Category:1983 establishments in Switzerland]]
+[[Category:Alternative rock record labels]]
+[[Category:Experimental music record labels]]</text>
+      <sha1>o3bpf4vqhnxqpd66u6oux8ip97u36yy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>NAS Key West</title>
+    <ns>0</ns>
+    <id>9244907</id>
+    <redirect title="Naval Air Station Key West" />
+    <revision>
+      <id>104793620</id>
+      <timestamp>2007-02-01T07:28:35Z</timestamp>
+      <contributor>
+        <username>Nobunaga24</username>
+        <id>830002</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Naval Air Station Key West]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" xml:space="preserve">#REDIRECT [[Naval Air Station Key West]]</text>
+      <sha1>grznk5yeqhexws6fxil53y5paqs8hbr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>F-16A</title>
+    <ns>0</ns>
+    <id>9244914</id>
+    <redirect title="General Dynamics F-16 Fighting Falcon" />
+    <revision>
+      <id>819243745</id>
+      <parentid>769936077</parentid>
+      <timestamp>2018-01-08T07:52:33Z</timestamp>
+      <contributor>
+        <username>PeerBaba</username>
+        <id>17101626</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" xml:space="preserve">#REDIRECT [[General Dynamics F-16 Fighting Falcon]]
+
+{{Redirect category shell|
+{{R from US military aircraft designator}}
+{{R from variant military designation}}
+}}
+[[Category:Pakistan Aeronautical Complex aircraft]]</text>
+      <sha1>kjl7tlhxxjq92s9s9f3vb3mrp3kcns8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:MerzbowSolonoise1Cover.jpg</title>
+    <ns>6</ns>
+    <id>9244921</id>
+    <revision>
+      <id>518828812</id>
+      <parentid>166429762</parentid>
+      <timestamp>2012-10-20T05:17:43Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Updating license tag(s) with image has rationale=yes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="736" xml:space="preserve">{{Non-free album cover|image has rationale=yes}}
+{{Non-free use rationale album cover| Article           = Solonoise 1
+| Use               = Infobox
+&lt;!-- ADDITIONAL INFORMATION --&gt;
+| Name              = Solonoise 1
+| Artist            = [[Merzbow]]
+| Label             = [[Lowest Music &amp; Arts]]
+| Graphic Artist    = 
+| Item              = 
+| Type              = album
+| Website           = 
+| Owner             = 
+| Commentary        = 
+&lt;!--OVERRIDE FIELDS --&gt;
+| Description       = 
+| Source            = http://www.discogs.com/release/433702
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = &lt;!--Must be specified if Use is not Infobox / Header / Section / Artist--&gt;
+| Replaceability    = 
+| other_information = 
+}}</text>
+      <sha1>t0gnnmid0sl6vfnvevw2vf53y519472</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solonoise 1</title>
+    <ns>0</ns>
+    <id>9244925</id>
+    <revision>
+      <id>866071209</id>
+      <parentid>832078717</parentid>
+      <timestamp>2018-10-28T02:08:25Z</timestamp>
+      <contributor>
+        <username>DeprecatedFixerBot</username>
+        <id>33330201</id>
+      </contributor>
+      <minor />
+      <comment>Resolved deprecated parameter(s) from [[Template:Infobox album]]/[[Template:Extra chronology]]/[[Template:Extra album cover]]/[[Template:Extra track listing]] using [[User:DeprecatedFixerBot| DeprecatedFixerBot]]. Questions? [[User talk:TheSandDoctor|msg TSD!]] (please mention that this is task #3! [[Wikipedia:Bots/Requests for approval/DeprecatedFixerBot 3|approved BRFA]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1699" xml:space="preserve">{{Infobox album
+| name       = Solonoise 1
+| type       = studio
+| artist     = [[Merzbow]]
+| cover      = MerzbowSolonoise1Cover.jpg
+| alt        =
+| released   = {{Start date|1982}}
+| recorded   = 1982 at home studio
+| venue      =
+| studio     =
+| genre      = [[Noise music|Noise]]
+| length     = {{Duration|m=47|s=37}}
+| label      = Lowest Music &amp; Arts
+| producer   = Masami Akita
+| prev_title = [[Paradoxa Paradoxa]]
+| prev_year  = 1982
+| next_title = Solonoise 2
+| next_year  = 1982
+}}
+'''''Solonoise 1''''' is an album by the Japanese noise artist [[Merzbow]].&lt;ref&gt;{{cite web |url=http://www.discogs.com/release/962960 |title=Merzbow - Solonoise 1 (Cassette) |work=[[Discogs]] |accessdate=June 1, 2012}}&lt;/ref&gt; The name means &quot;Solar-Noise&quot;, and was inspired by the book [[The Solar Anus]] by [[Georges Bataille]].&lt;ref&gt;{{cite book |title=Merzbook: The Pleasuredome of Noise |last=Woodward |first=Brett |year=1999 |publisher=[[Extreme Records|Extreme]] |page=91 |isbn=0-646-38326-4}}&lt;/ref&gt; It was originally released on [[Compact Cassette|cassette]] in 1982 and reissued in 1989 as a remixed version. It was included in the ''[[Merzbox#Solonoise |Merzbox]]'' and ''[[Lowest Music &amp; Arts 1980–1983]]''.
+
+==Track listing==
+{{track listing
+| headline        = Side one
+| title1          = 
+| length1         = 23:55
+}}
+{{track listing
+| headline        = Side two
+| title1          = 
+| length1         = 23:42
+}}
+
+==Personnel==
+*Masami Akita&amp;nbsp;– loops, tapes, violin, microphone, home junks, electronics, snare drum
+*Kiyoshi Mizutani&amp;nbsp;– piano, violin, home junks, microphone, guitar, pipe
+
+==References==
+{{Reflist}}
+
+{{Merzbow}}
+[[Category:1982 albums]]
+[[Category:Merzbow albums]]</text>
+      <sha1>el6zwkikdz2owmotzgyhs5m53lfeew7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Articles for deletion/Apple drops</title>
+    <ns>4</ns>
+    <id>9244927</id>
+    <revision>
+      <id>106516985</id>
+      <parentid>106367593</parentid>
+      <timestamp>2007-02-08T06:54:38Z</timestamp>
+      <contributor>
+        <username>Can't sleep, clown will eat me</username>
+        <id>603177</id>
+      </contributor>
+      <comment>kept</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3722" xml:space="preserve">&lt;div class=&quot;boilerplate metadata vfd xfd-closed&quot; style=&quot;background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+:''The following discussion is an archived debate of the proposed deletion of the article below. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt;  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+&lt;!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. --&gt;
+
+The result was '''keep'''. [[User:Can't sleep, clown will eat me|Can&amp;#39;t sleep, clown will eat me]] 06:54, 8 February 2007 (UTC)
+
+===[[Apple drops]]===
+:{{la|Apple drops}} – &lt;includeonly&gt;([[Wikipedia:Articles for deletion/Apple drops|View AfD]])&lt;/includeonly&gt;&lt;noinclude&gt;([[Wikipedia:Articles for deletion/Log/2007 February 1#{{anchorencode:Apple drops}}|View log]])&lt;/noinclude&gt;
+Nonnotable candy.  I found 1500 ghits for &lt;&quot;apple drops&quot; candy -wikipedia&gt;, and at least half of those were unrelated to the subject.  Admittedly, the candy was popular before the Internet age and has ceased to be significant.  But isn't that the whole point?  Those of you who vote &quot;keep&quot; should defend that vote by cleaning up the unverified parts of the article.  I'm not sure it's worth the effort. [[User:YechielMan|YechielMan]] 07:30, 1 February 2007 (UTC)
+:*This AfD nomination was [[:Template:AfD in 3 steps|incomplete]]. It is listed now. [[User:DumbBOT|DumbBOT]] 14:46, 1 February 2007 (UTC)
+*Your search would fare better if you remember that in the U.K. they are called &quot;sweets&quot;, specifically in this case &quot;boiled sweets&quot;, not &quot;candies&quot;.  [http://enjoyment.independent.co.uk/food_and_drink/features/article313858.ece Have a newspaper article]. [[User:Uncle G|Uncle G]] 16:12, 1 February 2007 (UTC)
+*'''Keep''' and improve; as per Uncle G, [http://www.google.com/search?hl=en&amp;safe=off&amp;client=firefox-a&amp;rls=org.mozilla%3Aen-US%3Aofficial&amp;hs=a5J&amp;q=%22apple+drops%22+sweets&amp;btnG=Search googling &quot;apple drops sweets&quot;] holds up. [[User:Krimpet|Krimpet]] 16:45, 1 February 2007 (UTC)
+*'''Keep and improve''' --[[User:Lee Vonce|Lee Vonce]] 21:08, 1 February 2007 (UTC)
+*'''Delete as unreferenced''' Article is entirely unreferenced.  Per above, there might be valid published references available, but they need to appear in the article, so delete unless suitable references are added. If that is cleaned up, I'll reconsider my recommendation. [[User:Dugwiki|Dugwiki]] 23:04, 1 February 2007 (UTC)
+*'''Keep''' but shouldn't the title be ''apple drop'' per [[WP:MOS]]- [[User:Gilliam|Gilliam]] 23:09, 1 February 2007 (UTC)
+*'''Keep''' per Uncle G. [[User:1ne|1ne]] 20:56, 6 February 2007 (UTC)
+*'''Keep''' per Uncle G, this was a question of unverifiable versus unverified and apparently it is just the latter, which has been resolved through the course of this discussion.  [[User:(jarbarf)|(jarbarf)]] 18:35, 7 February 2007 (UTC)
+
+:''The above discussion is preserved as an archive of the debate.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. &lt;!--Template:Afd bottom--&gt;&lt;/div&gt;</text>
+      <sha1>7th6e48kv793oqm51ftb47vif6fj5ea</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>All's Fair at the Fair</title>
+    <ns>0</ns>
+    <id>9244930</id>
+    <revision>
+      <id>961386209</id>
+      <parentid>919496461</parentid>
+      <timestamp>2020-06-08T05:16:50Z</timestamp>
+      <contributor>
+        <username>Toughpigs</username>
+        <id>578047</id>
+      </contributor>
+      <comment>add reference</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2580" xml:space="preserve">{{short description|1938 film by Dave Fleischer}}
+{{Infobox Hollywood cartoon
+| name   = All's Fair at the Fair
+| image          =
+| caption        =
+| director       = [[Dave Fleischer]] 
+| producer       = [[Max Fleischer]]
+| writer         =
+| narrator       =
+| starring    = [[Jack Mercer]] (uncredited)&lt;br&gt;[[Margie Hines]] (uncredited)
+| music          = [[Edward Heyman]]&lt;br&gt;[[Sammy Timberg]]
+| cinematography =
+| editing        =
+| studio         = [[Fleischer Studios]]
+| distributor    = [[Paramount Pictures]]
+| released       = {{Film date|1938|08|26}}
+| runtime        =
+| country        = United States
+| language       = English
+| budget         =
+}}
+
+'''''All's Fair at the Fair''''' is a seven-minute cartoon released in 1938. A [[Color Classic]] produced by [[Max Fleischer]], it was distributed by [[Paramount Pictures|Paramount]].&lt;ref&gt;{{cite book |last1=Lenburg |first1=Jeff |title=The Encyclopedia of Animated Cartoons |date=1999 |publisher=Checkmark Books |isbn=0-8160-3831-7 |accessdate=6 June 2020 |url=https://archive.org/details/isbn_9780816038312/page/66/mode/2up |pages=66-67}}&lt;/ref&gt;
+
+==Plot==
+''[[The Film Daily]]'' called the short a &quot;novelty cartoon&quot; and gave the following review:
+
+&lt;blockquote&gt;
+&quot;A couple of sticks visit the fair grounds where the [[World's Fair]] is being held, and find themselves participating in a series of adventures with the ultra-modern mechanism operated by robots. Finally, they reach the dance pavilion, and the wife and husband each are taken in hand by robots and whirled around the floor. Other mechanical gags give them a marvelous meal, beauty and barber treatments, and clinical attention to restore their youth. Very clever and novel. A Max Fleischer cartoon in [[Technicolor]].&quot;
+&lt;/blockquote&gt;
+
+==References==
+{{reflist}}
+
+&quot;Reviews of the New Films,&quot; The Film Daily. 9/2/38. Vol. 74, No. 54, p8.
+
+==External links==
+* {{IMDb title|0029856}}
+*[http://www.mspaintnerd.com/AllsF/AllsF.html Video of All's Fair At The Fair]
+
+{{DEFAULTSORT:All's Fair At The Fair}}
+[[Category:1938 films]]
+[[Category:American animated short films]]
+[[Category:American films]]
+[[Category:English-language films]]
+[[Category:Paramount Pictures short films]]
+[[Category:1930s animated short films]]
+[[Category:Color Classics cartoons]]
+[[Category:Fleischer Studios short films]]
+[[Category:1930s American animated films]]
+[[Category:1938 animated films]]
+[[Category:Short films directed by Dave Fleischer]]
+[[Category:American buddy films]]
+[[Category:Animated buddy films]]
+[[Category:1930s buddy films]]
+
+
+{{short-animation-film-stub}}</text>
+      <sha1>sad1q3t9l1g9uglbh9zzd3nkf6qnnh1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Articles for deletion/Alela Diane</title>
+    <ns>4</ns>
+    <id>9244934</id>
+    <revision>
+      <id>106294674</id>
+      <parentid>104973080</parentid>
+      <timestamp>2007-02-07T12:23:27Z</timestamp>
+      <contributor>
+        <username>Mailer diablo</username>
+        <id>131286</id>
+      </contributor>
+      <comment>Closing debate; result was keep</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3641" xml:space="preserve">&lt;div class=&quot;boilerplate metadata vfd xfd-closed&quot; style=&quot;background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+:''The following discussion is an archived debate of the proposed deletion of the article below. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt;  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+&lt;!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. --&gt;
+
+The result was '''&lt;font color=green&gt;k&lt;/font&gt;eep'''. - [[User:Mailer diablo|Mailer Diablo]] 12:23, 7 February 2007 (UTC)
+
+===[[Alela Diane]]===
+:{{la|Alela Diane}} – &lt;includeonly&gt;([[Wikipedia:Articles for deletion/Alela Diane|View AfD]])&lt;/includeonly&gt;&lt;noinclude&gt;([[Wikipedia:Articles for deletion/Log/2007 February 1#{{anchorencode:Alela Diane}}|View log]])&lt;/noinclude&gt;
+Up-and-coming singer, speedy deletion was overturned at [[Wikipedia:Deletion review/Log/2007 January 25|deletion review]]. An extended version of the article is [[User_talk:Ghmyrtle#Alela Diane - revised article|here]]. Procedural nomination, '''no opinion''', etc., etc. ~ [[User:Trialsanderrors|trialsanderrors]] 07:32, 1 February 2007 (UTC)
+*'''Keep''' - seems to have good rotation around the country [http://radiok.cce.umn.edu/playlists/] [http://www.eugeneweekly.com/2007/01/04/clubs.html] [http://kbcs.fm/site/PageServer?pagename=americanachart] [http://72.14.253.104/search?q=cache:8TBVsgch2I4J:ktuh.hawaii.edu/music.php%3Fcurrent+%22Alela+Diane%22+chart] [http://www.ndsu.nodak.edu/webradio/charts/2006/121906TOP.htm] (#1 listing (!)), satisfying [[WP:MUSIC]] criteria. Had a charted hit (granted, #91, but it is charted: [http://www.mattwrightpr.com/one-sheets/alela_diane-onesheet.pdf]]). However, the international tour part is the most important: cited [http://www.myspace.com/alelamusic], which seems to be verified: [http://localcut.wweek.com/?p=887]. Definitely not the top artist in the country, but does seem to squeak by [[WP:MUSIC]] and have enough notability for WP. [[User:Part Deux|Part Deux]] 07:54, 1 February 2007 (UTC)
+* '''Weak keep''' somebody should work on those sources to merit a unconditional keep [[User:Alf photoman|Alf photoman]] 15:24, 1 February 2007 (UTC)
+*'''Clear Delete''' Fails [[WP:MUSIC]] w/a bunch of self-released albums. [[User:Eusebeus|Eusebeus]] 16:54, 1 February 2007 (UTC)
+*'''Keep''' Meets [[WP:MUSIC]], and just scrapes through the notability criteria. --[[User:SunStar Net|SunStar Net]]&lt;sup&gt;[[User talk:SunStar Net|talk]]&lt;/sup&gt; 17:56, 1 February 2007 (UTC)
+*'''Keep''' This singer is associated with a notable musical movement ([[New Weird America]]) and is shown to be in cooperation of many notable musicians. But this article need to be cleaned-up somehow. [[User:Wooyi|Wooyi]] 00:39, 2 February 2007 (UTC)
+
+:''The above discussion is preserved as an archive of the debate.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. &lt;!--Template:Afd bottom--&gt;&lt;/div&gt;</text>
+      <sha1>fon4frpji19qnuv4mzz4219rvm4r1h2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Larry E. Smith</title>
+    <ns>0</ns>
+    <id>9244935</id>
+    <revision>
+      <id>870572921</id>
+      <parentid>860203270</parentid>
+      <timestamp>2018-11-25T18:37:11Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor />
+      <comment>Copying from [[Category:Canadian composers]] to [[Category:Canadian male composers]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2134" xml:space="preserve">{{BLP sources|date=September 2018}}
+{{Use Canadian English|date=August 2013}}
+{{Use dmy dates|date=August 2013}}
+{{Like resume|date=August 2010}}
+{{Infobox person
+ |image=File:LarrySmith.jpg
+ |birth_date={{birth date and age|df=yes|1945|10|27}}
+ |birth_place=[[Toronto|Toronto, Ontario]], Canada
+ |occupation=musician, composer, recording artist, businessman
+}}
+'''Larry Edward Smith''', (born 27 October 1945) is a [[Canadians|Canadian]] musician, composer, recording artist, and computer programming expert. He studied Engineering Science at the [[University of Toronto]] where he graduated in 1968 with a Bachelor of Applied Science degree specializing in Aerospace Engineering. In 1970 the 24-year-old Smith decided he preferred music to engineering and joined the Canadian rock band [[Lighthouse (band)|Lighthouse]], a rock group that sold millions of records and earned three [[Juno Award]]s as one of Canada’s leading pop bands. Smith composed, arranged and sang Old Man from the [[Lighthouse (band)|One Fine Morning]] gold album, as well as composing and co-composing various other songs for the group. Starting out on valve trombone with Lighthouse, he later moved to trumpet, and then to keyboards when [[Paul Hoffert]] left the band. Smith also sang backup vocals on most of the recordings.
+
+For some recent solo recordings see &lt;ref&gt;{{cite web|title=Larry Smith on SoundCloud|url=https://soundcloud.com/larry-smith-319296295}}&lt;/ref&gt;
+
+In 1984, Smith moved to [[Israel]], where he started a computer software company, specializing in automatic language translation. He is married and has two children.
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, Larry E.}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:Jewish Canadian musicians]]
+[[Category:Musicians from Toronto]]
+[[Category:Canadian male singers]]
+[[Category:Canadian rock musicians]]
+[[Category:Canadian rock keyboardists]]
+[[Category:Canadian composers]]
+[[Category:Canadian male composers]]
+[[Category:University of Toronto alumni]]
+[[Category:Artificial intelligence researchers]]
+[[Category:Lighthouse (band) members]]</text>
+      <sha1>ptv18xzxkt5nyutc6aetdcam977kfpa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Baseline Road (Arizona)</title>
+    <ns>0</ns>
+    <id>9244936</id>
+    <redirect title="Phoenix metropolitan area arterial roads" />
+    <revision>
+      <id>458803546</id>
+      <parentid>339002071</parentid>
+      <timestamp>2011-11-03T13:32:29Z</timestamp>
+      <contributor>
+        <ip>208.81.184.4</ip>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Phoenix metropolitan area arterial roads#Baseline Road]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="85" xml:space="preserve">#REDIRECT [[Phoenix metropolitan area arterial roads#Baseline Road]] {{R from merge}}</text>
+      <sha1>5alcxbjbux6imqz4wzo6pkf8wzxyyj9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Ark&amp;MoRR.jpg</title>
+    <ns>6</ns>
+    <id>9244938</id>
+    <revision>
+      <id>808632530</id>
+      <parentid>807266168</parentid>
+      <timestamp>2017-11-04T03:06:33Z</timestamp>
+      <contributor>
+        <username>RonBot</username>
+        <id>30498975</id>
+      </contributor>
+      <comment>Orphaned non-free file(s) deleted per [[WP:F5|F5]] ([[User:RonBot/Run|disable]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1993" xml:space="preserve">== Summary ==
+Arkansas and Missouri Railroad logo
+== Fair use in [[Arkansas and Missouri Railroad]] ==
+
+{{Non-free use rationale
+| Description       = the logo for the Arkansas &amp; Missouri Railroad
+| Source            = the Arkansas &amp; Missouri Railroad company
+| Article           = Arkansas and Missouri Railroad
+| Portion           = The entire logo is used, to convey the meaning intended and avoid tarnishing or misrepresenting the intended
+image.
+| Low_resolution    = The logo is a size and resolution sufficient to maintain the quality intended by the company or organization,
+without being unnecessarily high resolution.
+| Purpose           = The image is placed in the infobox at the top of the article discussing [[Arkansas and Missouri Railroad]],
+a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the reader
+of having reached the correct article containing critical commentary about the organization, and illustrate the organization's
+intended branding message in a way that words alone could not convey.
+| Replaceability    = Because it is a logo there is almost certainly no free equivalent. Any substitute that is not a derivative
+work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of
+identification or commentary.
+| other_information = '''Heralds''' are &quot;logos&quot; or &quot;slogans&quot; used by railroad companies and displayed on their equipment.
+Copyright does not protect names, titles, slogans, or short phrases. In some cases, these things may be protected as
+trademarks.... However, copyright protection may be available for logo artwork that contains sufficient authorship.
+In some circumstances, an artistic logo may also be protected as a trademark.&quot;
+''Excerpt from http://www.copyright.gov/help/faq/faq-protect.html'' Use of such images on Wikipedia arguably meets '''[[Fair use|Fair Use]]''' requirements.
+}}
+{{Non-free logo|image has rationale=yes}}</text>
+      <sha1>85xbf8py2a6lf2cspi5qfmc6clzjkgg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Maiduguri International Airport</title>
+    <ns>0</ns>
+    <id>9244952</id>
+    <revision>
+      <id>944578506</id>
+      <parentid>911513655</parentid>
+      <timestamp>2020-03-08T18:04:27Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor />
+      <comment>add authority control</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2963" xml:space="preserve">{{Infobox airport
+| name         = Maiduguri International Airport
+| nativename   = 
+| image        = Dornier Aviation Nigeria Dornier 228 Makinde-2.jpg
+| image-width  = 250
+| IATA         = MIU
+| ICAO         = DNMA
+| type         = Public
+| owner-oper   = [[Federal Airports Authority of Nigeria]]
+| city-served  = [[Maiduguri]], [[Borno State|Borno]] Nigeria
+| location     = 
+| elevation-f  = 1099
+| elevation-m  = 
+| coordinates  = {{coord|11|51|20|N|13|04|55|E|type:airport_region:NG}}
+| pushpin_map            = Nigeria
+| pushpin_label_position = 
+| pushpin_label          = '''MIU'''
+| pushpin_map_alt        = 
+| pushpin_mapsize        = 
+| pushpin_image          = 
+| pushpin_map_caption    = Location of the airport in Nigeria
+| website      = 
+| metric-rwy   = y
+| r1-number    = 05/23
+| r1-length-f  = 
+| r1-length-m  = 3000
+| r1-surface   = Asphalt, concrete
+| footnotes    = Sources: WAD&lt;ref name=WAD&gt;{{WAD|DNMA|source=[[DAFIF]]}}&lt;/ref&gt; GCM&lt;ref name=GCM&gt;{{GCM|MIU}}&lt;/ref&gt; Google Maps&lt;ref&gt;[https://www.google.com/maps/@11.8545339,13.0808237,3764m/data=!3m1!1e3 Google Maps - Maiduguri]&lt;/ref&gt;
+}}
+
+'''Maiduguri International Airport''' {{airport codes|MIU|DNMA}} is an airport serving [[Maiduguri]], the capital of [[Borno State]] in [[Nigeria]].
+
+The runway length does not include a {{convert|120|m}} [[displaced threshold]] on each end.
+
+The Maiduguri [[VOR-DME]] (Ident: '''MIU''') is located {{convert|2.9|nmi|km}} northeast of the airport.&lt;ref&gt;{{Cite web|url=http://ourairports.com/navaids/MIU/Maiduguri_VOR-DME_NG/#lat=11.888199806213379,lon=13.116700172424316,zoom=10,type=Satellite|title=Maiduguri VOR-DME (MIU) @ OurAirports|website=ourairports.com|access-date=2018-08-21}}&lt;/ref&gt; The Maiduguri [[non-directional beacon]] (Ident: '''MA''') is located on the field.&lt;ref&gt;{{Cite web|url=http://ourairports.com/navaids/MA/Maiduguri_NDB_NG/#lat=11.838199615478516,lon=13.062899589538574,zoom=10,type=Satellite|title=Maiduguri NDB (MA) @ OurAirports|website=ourairports.com|access-date=2018-08-21}}&lt;/ref&gt;
+
+==Airlines and destinations==
+{{airport-dest-list
+| [[Azman Air]] |[[Nnamdi Azikiwe International Airport|Abuja]], [[Kaduna Airport|Kaduna]], [[Mallam Aminu Kano International Airport|Kano]], [[Murtala Muhammed International Airport|Lagos]], [[Yola Airport|Yola]]
+| [[Med-View Airline]] | [[Nnamdi Azikiwe International Airport|Abuja]]
+}}
+
+==See also==
+*[[Transport in Nigeria]]
+*[[List of airports in Nigeria]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{ASN|MIU}}
+*[https://www.openstreetmap.org/#map=13/11.8510/13.0862 OpenStreetMap - Maiduguri]
+*[https://skyvector.com/airport/DNMA/Maiduguri-Airport SkyVector Aeronautical Charts]
+*[http://ourairports.com/airports/DNMA/pilot-info.html#general OurAirports - Maiduguri]
+
+{{portalbar|Nigeria|Aviation}}
+{{Airports in Nigeria}}
+
+
+{{authority control}}
+
+[[Category:Airports in Nigeria]]
+[[Category:Borno State]]
+[[Category:Maiduguri]]
+
+
+{{Nigeria-struct-stub}}
+{{Nigeria-airport-stub}}</text>
+      <sha1>7slsxpwjqrtri8ajo6fdr2z59u9i7w7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The League of Frightened Men (film)</title>
+    <ns>0</ns>
+    <id>9244959</id>
+    <revision>
+      <id>968739116</id>
+      <parentid>958910989</parentid>
+      <timestamp>2020-07-21T06:24:29Z</timestamp>
+      <contributor>
+        <username>Sc2353</username>
+        <id>36112485</id>
+      </contributor>
+      <comment>removed [[Category:1930s mystery films]]; added [[Category:1937 mystery films]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8161" xml:space="preserve">{{short description|1937 film by Alfred E. Green}}
+{{Infobox film
+| name           = The League of Frightened Men
+| image          = League of frightened men.jpg
+| image_size     = 
+| caption        = Theatrical release poster
+| director       = [[Alfred E. Green]]
+| producer       = [[Edward Chodorov]]
+| writer         = [[Guy Endore]]&lt;br /&gt;Eugene Solow
+| narrator       = 
+| based_on       = {{Based on|''[[The League of Frightened Men]]''|[[Rex Stout]]}}
+| starring       = [[Walter Connolly]]&lt;br /&gt;[[Lionel Stander]]
+| music          = 
+| cinematography = [[Henry Freulich]]
+| editing        = [[Gene Milford]]
+| distributor    = 
+| studio         = [[Columbia Pictures]]
+| released       = {{Film date|1937|5|25}}
+| runtime        = 71 minutes
+| country        = United States
+| language       = English
+| budget         = 
+}}
+'''''The League of Frightened Men''''' is a 1937 mystery film based on the 1935 novel [[The League of Frightened Men|of the same name]], the second Nero Wolfe novel by [[Rex Stout]]. Directed by [[Alfred E. Green]], the Columbia Pictures film stars [[Walter Connolly]] as [[Nero Wolfe]], a role played by [[Edward Arnold (actor)|Edward Arnold]] in the previous year's ''[[Meet Nero Wolfe]]''. The role of Wolfe's assistant [[Archie Goodwin (character)|Archie Goodwin]] was reprised by [[Lionel Stander]].
+
+==Plot==
+Professor Hibbard ([[Leonard Mudie]]) requests detective Nero Wolfe's assistance in tracking down the sender of a few sinister letters, which killed two of Hibbard's acquaintances. Prominent author Paul Chapin ([[Eduardo Ciannelli]]), who is a cripple, is pinpointed by Wolfe as the culprit. Wolfe rationally deduces that Chapin is out to play payback — decades ago, a prank then-Harvard University scholar Hibbard and a group of chums played on Chapin went awry, causing him to be in his current state. Hibbard shares with Wolfe that his daughter ([[Irene Hervey]]) is romantically involved with Chapin's elder brother, Mark (Joseph Allen). With that, he quietly makes a move.
+
+Wolfe arranges for all of Hibbard's surviving Harvard pals to gather at his residence. All agree to, except for taxi driver Pitney Scott ([[Victor Kilian]]). Wolfe later learns that the two friends of Hibbard's were experiencing financial difficulties. Meanwhile, Wolfe's partner Archie Goodwin ([[Lionel Stander]]) is sent to guard Chapin's house. Chapin is also invited to join the meeting at Wolfe's house. Just as he arrives, Dr. Burton (Kenneth Hunter) is shot by a hidden assailant. Wolfe, seeing the direction the shot came from, vouches for Chapin's innocence. Some time later, both Goodwin and Wolfe are captured by Mark, who despises them for initially accusing Chapin of the wrongdoing.
+
+They manage to break free and Inspector Cramer ([[Edward McNamara]]) promptly arrests Mark for unlawful kidnapping. Wolfe suddenly cracks the case, after much thought into it. He concludes that Chapin had indeed sent those letters, but they were just meant to frighten the receivers. Instead, the actual murderer of the men is found to be one of Hibbard's friends, banker Ferdinand Bowen ([[Walter Kingsford]]). Bowen was the one who told Wolfe about the two men being in debt. In actuality, Bowen had stolen their money and made up the tale himself, as a spot-check on the men's backgrounds showed.
+
+==Cast==
+* [[Walter Connolly]] as Nero Wolfe
+* [[Lionel Stander]] as Archie Goodwin
+* [[Eduardo Ciannelli]] as Paul Chapin
+* [[Irene Hervey]] as Evelyn Hibbard
+* [[Victor Kilian]] as Pitney Scott
+* [[Nana Bryant]] as Agnes Burton
+* Joseph Allen (Allen Brook) as Mark Chapin
+* [[Walter Kingsford]] as Ferdinand Bowen
+* [[Leonard Mudie]] as Professor Hibbard
+* Kenneth Hunter as Dr. Burton
+* Charles Irwin as Augustus Farrell
+* [[Rafaela Ottiano]] as Dora Chapin
+* Edward McNamara as Inspector Cramer
+* Jameson Thomas as Michael Ayers
+* [[Ian Wolfe]] as Nicholas Cabot
+* [[Jonathan Hale]] as Alexander Drummond
+* Herbert Ashley as Fritz
+* [[James Flavin]] as Joe
+
+==Production==
+The novel ''[[The League of Frightened Men]]'' by Rex Stout was adapted into the film by script writers Eugene Solow and Guy Endore. The film was directed by [[Alfred E. Green]]. Edward Chodorov was in charge of production for Columbia Pictures. William Whitley signed on as cinematographer, while Gene Milford edited the film.{{Sfn|Pitts|2010|p=133}}
+
+Walter Connolly was eventually chosen to play the protagonist detective Nero Wolfe. Stout had personally wanted [[Charles Laughton]] to take up the role, but Laughton had other commitments at that time.{{Sfn|Townsend|2010|p=59}} Lionel Stander returned as Wolfe's right-hand man, Archie Goodwin; Stander previously portrayed the character in ''Meet Nero Wolfe'' (1936).{{Sfn|Pitts|2010|p=133}}
+
+==Reception==
+Rex Stout, the author of the original novel, was reportedly unsatisfied with the film, particularly criticising Stander's portrayal of Archie Goodwin. Thus, he objected to any more future adaptations of his works.{{Sfn|Brunsdale|2010|p=716}} Film critics generally found Connolly's depiction of Nero Wolfe to be bad.{{Sfn|McBride|2003|p=137}}
+
+A reviewer for ''[[The New York Times]]'' commented that the film was &quot;a well-knit mystery, and well played out.&quot;{{Sfn|Pitts|2010|p=133}} ''[[The Sydney Morning Herald]]'''s review of the film found that &quot;[t]here is a grim problem facing the desperate member[s] of ''The League of Frightened Men'', but somehow this Columbia story, which brings that amiable detective, Nero Wolfe, to the screen again, fails to be convincing&quot;.&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?id=to5VAAAAIBAJ&amp;sjid=pJYDAAAAIBAJ&amp;pg=6504,4116380 |title=Movie Reviews: &quot;The League of Frightened Men&quot; |date=September 27, 1933 |page=4 |newspaper=[[The Sydney Morning Herald]] }}&lt;/ref&gt;
+
+In his book ''The Detective in Hollywood'', Jon Tuska wrote, &quot;Unhappily, Lionel Stander's Archie in ''The League of Frightened Men'' is far too much of a bungler. The plot follows the novel, which ran initially in ''The Saturday Evening Post''. A group of ten men is threatened by one of their number, and murders begin. Eduardo Ciannelli is the logical suspect, since he was crippled in a hazing while the men were all in college. [...] The film was in no way the equal of its predecessor.&quot;{{Sfn|Tuska|1978|p=59}}
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+* {{cite book|author=Mitzi M. Brunsdale|title=Icons of Mystery and Crime Detection: From Sleuths to Superheroes|url=https://books.google.com/books?id=C4f0XQPSNkAC|date=July 2010|publisher=ABC-CLIO|isbn=978-0-313-34530-2|ref={{SfnRef|Brunsdale|2010}}}}
+* {{cite book|author=Michael R. Pitts|title=Columbia Pictures Horror, Science Fiction and Fantasy Films, 1928—1982|url=https://books.google.com/books?id=PKxN1as8XOMC|year=2010|publisher=McFarland|isbn=978-0-7864-5766-3|ref={{SfnRef|Pitts|2010}}}}
+* {{cite book |author=Jon Tuska |title=The Detective in Hollywood |year=1978 |publisher=Doubleday and Company |isbn=0-385-12093-1 |ref={{SfnRef|Tuska|1978}} |url-access=registration |url=https://archive.org/details/detectiveinholly00tusk }}
+* {{cite book|author=Guy M. Townsend|title=The Mystery Fancier (Vol. 2 No. 1) January 1978|url=https://books.google.com/books?id=EA2IRNsvVb0C|date=August 2010|publisher=Wildside Press LLC|isbn=978-1-4344-0382-7|ref={{SfnRef|Townsend|2010}}}}
+* {{cite book|author=O. E. McBride|title=Stout Fellow: A Guide Through Nero Wolfe's World|url=https://books.google.com/books?id=EtlbPjGtX64C|date=1 May 2003|publisher=iUniverse|isbn=978-0-595-27861-9|ref={{SfnRef|McBride|2003}}}}
+
+==External links==
+* {{IMDb title|0029127|The League of Frightened Men}}
+* {{Amg movie|99184|The League of Frightened Men}}
+
+{{Nero Wolfe}}
+{{Alfred E. Green}}
+
+{{DEFAULTSORT:League Of Frightened Men, The}}
+[[Category:1937 films]]
+[[Category:1937 mystery films]]
+[[Category:American films]]
+[[Category:Columbia Pictures films]]
+[[Category:English-language films]]
+[[Category:Films based on American novels]]
+[[Category:Films based on mystery novels]]
+[[Category:Films directed by Alfred E. Green]]
+[[Category:Nero Wolfe]]
+[[Category:American mystery films]]
+[[Category:American black-and-white films]]</text>
+      <sha1>h7lk0o6wjqpqw6789hyixojgq1k8lbi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>David Tang</title>
+    <ns>0</ns>
+    <id>9244976</id>
+    <revision>
+      <id>948265680</id>
+      <parentid>928128390</parentid>
+      <timestamp>2020-03-31T02:12:39Z</timestamp>
+      <contributor>
+        <username>Citation bot</username>
+        <id>7903804</id>
+      </contributor>
+      <comment>Alter: title. Removed URL that duplicated unique identifier. | You can [[WP:UCB|use this bot]] yourself. [[WP:DBUG|Report bugs here]]. | Activated by [[User:AManWithNoPlan]] | All pages linked from [[User:AManWithNoPlan/sandbox2]] | via #UCB_webform_linked</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11862" xml:space="preserve">{{EngvarB|date=February 2016}}
+{{Use dmy dates|date=February 2016}}
+{{Infobox person
+| honorific_prefix = [[Sir]]
+| name        = David Tang
+| honorific_suffix = {{post-nominals|country=GBR|size=100%|KBE}}
+| image       = Davidtang.jpg
+| caption     = Tang in 2009
+| birth_date  = {{birth date|df=yes|1954|08|02}}
+| birth_place = [[British Hong Kong]]
+| death_date  = {{death date and age|df=yes|2017|08|29|1954|08|02}}
+| death_place = [[The Royal Marsden Hospital]], [[Chelsea, London]], England
+| alma_mater  =  [[King's College, London]]
+| occupation  = Businessman
+}}
+
+'''Sir David Wing-cheung Tang''', {{post-nominals|country=GBR|size=100%|KBE}} ({{zh|t=鄧永鏘|sl=Dang&lt;sup&gt;6&lt;/sup&gt;Wing&lt;sup&gt;5&lt;/sup&gt;Cheung&lt;sup&gt;1&lt;/sup&gt;|p=Dèng Yǒngqiāng}}; 2 August 1954 – 29 August 2017), was a [[Hong Kong]] businessman, philanthropist and socialite. He was best known for founding the [[Shanghai Tang]] fashion chain in 1994, which he sold in 1998 to [[Richemont]].&lt;ref&gt;{{Cite web|url=https://www.ft.com/content/675ea6ce-c758-11df-aeb1-00144feab49a|title=2o Questions: Sir David Tang|last=Jacobs|first=Emma|date=23 September 2010|website=Financial Times|archive-url=|archive-date=|access-date=13 August 2017}}&lt;/ref&gt;
+
+==Early life and education==
+Tang was born into a prominent Hong Kong family. His grandfather, [[Tang Shiu Kin|Sir Shiu-Kin Tang]] (鄧肇堅), co-founded the [[Kowloon Motor Bus]] Company and was considered &quot;one of Hong Kong's greatest philanthropists&quot;.&lt;ref&gt;&quot;[http://women.timesonline.co.uk/tol/life_and_style/women/the_way_we_live/article1803225.ece A Life in the Day: David Tang]&quot; ''[[The Sunday Times]]'', 20 May 2007. Retrieved 9 July 2011.&lt;/ref&gt;
+At the age of 12, he moved with his parents to England. Following his primary education at [[La Salle Primary School]], Tang was sent to board at [[The Perse School]], [[Cambridge]] : he later claimed that he was then &quot;aged 13, hardly able to speak a word of English&quot; &lt;ref name=&quot;Tang 2013&quot;&gt;{{cite web | url=http://www.ft.com/intl/cms/s/0/675ea6ce-c758-11df-aeb1-00144feab49a.html | title=20 questions: Sir David Tang | work=Financial Times | date=23 September 2010 | accessdate=26 September 2013 | author=Jacobs, Emma}}&lt;/ref&gt; but confirmation of this is required (he does not appear on any Perse school photo until aged 15 and his previous school will have taught English). After leaving Perse in 1973 he went to [[King's College London]] to read Philosophy and then Law.
+
+==Career==
+Tang started his career at his grandfather's solicitor firm. He joined the London law firm [[Macfarlanes]] as a trainee solicitor, where he was described by the then senior partner [[Vanni Treves]] as being &quot;confident, quick witted and funny&quot;, as well as being &quot;charmingly undisciplined and unreliable&quot;.  By mutual agreement he left the firm after a couple of months without completing his training contract, and instead changed career path and joined [[Swire Pacific Limited]]. He was the founder of the [[China Club]] in Hong Kong, [[Beijing]], and Singapore&lt;ref name=&quot;Tang 2013&quot;/&gt; the [[Shanghai Tang]] stores,&lt;ref name=&quot;Reuter 2013&quot;/&gt;&lt;ref name=&quot;Times&quot;&gt;{{cite news|url=http://www.timesonline.co.uk/tol/news/politics/article3105760.ece|title=Kylie Minogue and Michael Parkinson lead list...|date=29 December 2007|work=[[The Times]]|accessdate=20 July 2010 | location=London | first=Philip | last=Webster}}&lt;/ref&gt; Havana House and [[Habanos S.A.|Pacific Cigar Company Ltd]] (the exclusive distributor for all Cuban cigars in Asia Pacific).&lt;ref&gt;{{cite web |url=http://www.pacificcigar.com/eng/aboutus/company.php |title=The Pacific Cigar Company Limited – The Habanos S.A. Asia Pacific Exclusive Distributor |publisher=Pacificcigar.com |accessdate=15 September 2013 |archive-url=https://web.archive.org/web/20130929185717/http://www.pacificcigar.com/eng/aboutus/company.php |archive-date=29 September 2013 |url-status=dead }}&lt;/ref&gt; More recently Tang opened the [[Cipriani]] in Hong Kong and the [[China Tang]] restaurant at the [[Dorchester Hotel]]. Tang was also a director and advisor to a number of boards, including [[Tommy Hilfiger]].&lt;ref name=&quot;Reuter 2013&quot;&gt;{{cite web | url=https://www.reuters.com/finance/stocks/officerProfile?symbol=GCL.N&amp;officerId=1223893 | title=Brief Biography of Tang, David | agency=Reuters | accessdate=26 September 2013}}&lt;/ref&gt;
+
+In 1983–84, Tang taught English literature and philosophy at [[Peking University]].&lt;ref&gt;{{cite news |url=http://www.scmp.com/news/hong-kong/education-community/article/2109002/david-tang-colourful-life-man-behind-hong-kongs |title=David Tang: the colourful life of the man behind Hong Kong's fashion brand with a Shanghai twist |work=South China Morning Post |date=30 August 2017}}&lt;/ref&gt;
+
+==Awards==
+Tang was promoted from [[Order of the British Empire|OBE]] to [[Knight Commander of the Order of the British Empire]] ([[Order of the British Empire|KBE]]) in the [[New Year Honours 2008|2008 New Year Honours]].&lt;ref name=&quot;Times&quot;/&gt; He was also honoured by the French Government as [[wikt:chevalier|Chevalier]] of the [[Ordre des Arts et des Lettres]] (1995).&lt;ref&gt;{{cite web|url=https://www.standard.co.uk/lifestyle/london-life/sir-david-tang-meet-londons-best-connected-man-10229591.html |title=Sir David Tang: meet London's best-connected man who is friends with everyone from Kate Moss to Eric Schmidt |publisher=Evening Standard|date=7 May 2015|accessdate=23 May 2016}}&lt;/ref&gt;
+
+He also received the award for Outstanding Achievement in Art and Design at the Asian Awards in 2014.&lt;ref&gt;{{cite web|url=http://www.theasianawards.com/david_tang.html|title=Sir David Tang|publisher=theasianawards.com|accessdate=24 May 2016}}&lt;/ref&gt;
+
+==Other roles==
+Sir David was the [[Honorary Consul]] of [[Cuba]] in Hong Kong.&lt;ref&gt;{{cite web|url=http://www.protocol.gov.hk/eng/consular/america/cuba.htm |title=Protocol Division Government Secretariat – Cuba |publisher=Government of Hong Kong |date=17 August 2009 |accessdate=15 September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.protocol.gov.hk/eng/ |title=Protocol Division Government Secretariat |publisher=Government of Hong Kong |accessdate=15 September 2013}}&lt;/ref&gt; From time to time, he contributed articles for newspapers.&lt;ref&gt;{{cite web|author=David Tang |url=https://www.standard.co.uk/comment/it-is-chinas-turn-to-eclipse-americas-power-7998498.html |title=It is China's turn to eclipse America's power – Comment|work=London Evening Standard |date=1 August 2012 |accessdate=15 September 2013}}&lt;/ref&gt;
+
+Tang was invited to provide a weekly English column for the Chinese-language Hong Kong newspaper ''[[Apple Daily]]''.  A selection of his articles has been published in a book ''An Apple a Week'' (published in 2006).&lt;ref&gt;{{Cite news|url=http://www.scmp.com/node/564237|title=Core blimey!|work=South China Morning Post|access-date=2017-09-03}}&lt;/ref&gt;&lt;ref&gt;{{Cite book|title=An apple a week|last=David.|first=Tang|date=2006|publisher=Next Publications Ltd|isbn=9789625778518|location=Hong Kong|oclc=72441780}}&lt;/ref&gt; He also contributed an &quot;agony uncle&quot; column to the weekend ''[[Financial Times]]'', in which he responded to readers' social dilemmas.&lt;ref&gt;{{Cite web|url=https://www.ft.com/content/f6d8ee74-8d56-11e7-9084-d0c17942ba93|title=David Tang, bon vivant and FT columnist, dies aged 63|last=|first=|date=30 August 2017|website=Financial Times|archive-url=|archive-date=|access-date=2017-09-03}}&lt;/ref&gt;
+
+In 2011, Tang founded a website, ICorrect.com, where celebrities can post fixes and refutations of incorrect information spreading over the internet.&lt;ref&gt;{{Cite web |url=http://www.icorrect.com/about_us |title=ICorrect – Setting the Record Straight |access-date=4 November 2016 |archive-url=https://web.archive.org/web/20161025151427/http://www.icorrect.com/about_us |archive-date=25 October 2016 |url-status=dead }}&lt;/ref&gt;
+
+==Support for Hong Kong democracy==
+Tang was unrestrained in speaking, at times scathingly, in opposition to the Hong Kong Government. He was particularly incensed by its intransigence on democratic reform. In a speech, on 18 February 2016, to the Foreign Correspondents Club, Hong Kong, in reference to the Chief Executive's policy address, he said,
+
+&lt;blockquote&gt;&quot;Whoever wrote that for the first sentence for the chief executive, if he himself did not write it, must be a comedian; or perhaps a monkey who accidentally typed up those words on a typewriter. What it all means to me is the disingenuousness of our chief executive and government, and the contempt with which they hold us, the citizens of Hong Kong.  ... Our government has been growing apart from the people of Hong Kong and they must anticipate trouble. Already, there are over one million people in Hong Kong who are trapped by poverty, and they cannot be too pleased about the government. It is simply invidious that in a prosperous community such as Hong Kong, over 15 percent of our population should be living below the breadline.  It is a shameful state, scandalous if you ask me. Then there was the Umbrella Movement, which clearly demonstrated the resolution of many ordinary people taking real democratic power seriously, and their dissatisfaction can only be increased by the defeat of the universal suffrage motion in LegCo.&quot;&lt;ref&gt;{{cite news|date=19 February 2016|newspaper=Coconuts Hong Kong|title=Shanghai Damn, Son: Read Sir David Tang's full speech, 'Hong Kong's Future'|url=https://coconuts.co/hongkong/news/shanghai-damn-son-read-sir-david-tangs-full-speech-hong-kongs-future/||access-date=31 August 2017}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+==Later life==
+
+In August 2017, ''[[Asia Times]]'' reported that Tang planned a farewell party at the [[Dorchester Hotel]] in London as doctors had given him only a month or two to live.&lt;ref&gt;{{cite web|url=http://www.atimes.com/article/long-mr-shanghai-tang/|title=Sir David Tang to host a final farewell at the Dorchester|publisher=AsiaTimes|accessdate=20 August 2016}}&lt;/ref&gt; However, before the farewell party could occur,&lt;ref&gt;{{cite web|url=https://www.ft.com/content/f6d8ee74-8d56-11e7-9084-d0c17942ba93|title=David Tang, bon vivant and FT columnist, dies aged 63|publisher=Financial Times|accessdate=30 August 2017|url-access=subscription }}&lt;/ref&gt; Tang died on 29 August 2017, twenty-seven days after his 63rd birthday, leaving behind his wife Lucy and a daughter Victoria and a son Edward from his first marriage to Susanna Cheung.&lt;ref&gt;{{cite web|title=David Tang dies: tributes paid to Hong Kong businessman and socialite|url=http://www.scmp.com/news/hong-kong/education-community/article/2108963/david-tang-dies-tributes-paid-hong-kong|website=South China Morning Post|accessdate=30 August 2017}}&lt;/ref&gt;
+
+==Books==
+* ''Rules for Modern Life: A Connoisseur's Survival Guide'', Portfolio Penguin, 2016
+* ''A Chink in the Armour'', Enrich Publications, 2010 (second edition)
+* ''An Apple a Week'', Next Publications, 2007 (third edition)
+* ''East Meets West: Global Design for Contemporary Interiors'', Conran, 1998 ([[Kelly Hoppen]]), foreword.
+* ''Quotations from Chairman Uncle Dave'', privately printed
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* [http://www.london-gazette.co.uk/ www.london-gazette.co.uk]
+*[https://chinaclub.com.sg The China Club]
+* [http://www.chinatanglondon.co.uk/ China Tang]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tang, David}}
+[[Category:1954 births]]
+[[Category:2017 deaths]]
+[[Category:Alumni of King's College London]]
+[[Category:Chevaliers of the Ordre des Arts et des Lettres]]
+[[Category:Hong Kong businesspeople]]
+[[Category:Hong Kong fashion businesspeople]]
+[[Category:Hong Kong newspaper people]]
+[[Category:Hong Kong socialites]]
+[[Category:Hong Kong textiles industry businesspeople]]
+[[Category:Hong Kong writers]]
+[[Category:Knights Commander of the Order of the British Empire]]
+[[Category:Peking University faculty]]
+[[Category:People educated at The Perse School]]
+[[Category:Tang family]]</text>
+      <sha1>s98afzmdkrsttf3ni62yqxz6i6z9sj6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:MerzbowXerosxAerovivianda1Cover.jpeg</title>
+    <ns>6</ns>
+    <id>9244978</id>
+    <revision>
+      <id>809279103</id>
+      <parentid>807873856</parentid>
+      <timestamp>2017-11-08T04:18:38Z</timestamp>
+      <contributor>
+        <username>RonBot</username>
+        <id>30498975</id>
+      </contributor>
+      <comment>Orphaned non-free file(s) deleted per [[WP:F5|F5]] ([[User:RonBot/Run|disable]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="762" xml:space="preserve">{{Non-free album cover|image has rationale=yes}}
+{{Non-free use rationale album cover| Article           = Aerovivianda 1
+| Use               = Infobox
+&lt;!-- ADDITIONAL INFORMATION --&gt;
+| Name              = Aerovivianda 1
+| Artist            = [[Merzbow]] &amp; [[Xerosx]]
+| Label             = [[ZSF Produkt]]
+| Graphic Artist    = 
+| Item              = 
+| Type              = album
+| Website           = 
+| Owner             = 
+| Commentary        = 
+&lt;!--OVERRIDE FIELDS --&gt;
+| Description       = 
+| Source            = http://www.discogs.com/viewimages?what=R&amp;obid=858857
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = &lt;!--Must be specified if Use is not Infobox / Header / Section / Artist--&gt;
+| Replaceability    = 
+| other_information = 
+}}</text>
+      <sha1>8h6x7wts4fjm2qa4bcvgso0sa0s78mn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aerovivanda 1</title>
+    <ns>0</ns>
+    <id>9244983</id>
+    <revision>
+      <id>904239817</id>
+      <parentid>835374790</parentid>
+      <timestamp>2019-06-30T21:58:25Z</timestamp>
+      <contributor>
+        <username>Tbhotch</username>
+        <id>10808929</id>
+      </contributor>
+      <comment>added [[Category:Collaborative albums]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1872" xml:space="preserve">{{Correct title|Aerovivanda #1|reason=#}}
+
+{{Infobox album
+| name       = Aerovivanda #1
+| type       = studio
+| artist     = [[Merzbow]] &amp; Xerosx
+| cover      = MerzbowXerosxAerovivianda1Cover.jpeg
+| alt        =
+| released   = {{Start date|1984}}
+| recorded   = November 1983
+| venue      =
+| studio     = Pisarcik Office
+| genre      = [[Noise (music)|Noise]]
+| length     = {{Duration|m=61|s=45}}
+| label      = ZSF Produkt
+| producer   = Merzbow
+| prev_title =
+| prev_year  =
+| next_title = [[Aerovivanda 2|Aerovivanda #2]]
+| next_year  = 1984
+}}
+
+'''''Aerovivanda #1''''' is a collaboration album by [[Japan]]ese [[noise (music)|noise]] musicians [[Merzbow]] and Xerosx. It was released on [[compact cassette|cassette]].&lt;ref&gt;{{cite web |url=http://www.discogs.com/release/858857 |title=Merzbow &amp; Xerosx - Aerovivanda #1 (Cassette) |work=Discogs |accessdate=March 30, 2012}}&lt;/ref&gt;
+
+==Track listing==
+{{Track listing
+| headline        = Side primo
+| total_length    = 30:48
+| all_music       = Merzbow
+| title1          = Aerovivanda 1
+| length1         = 
+| title2          = Aerovivanda 2
+| length2         = 
+| title3          = Aerovivanda 3
+| length3         = 
+| title4          = Aerovivanda 4 (Part 1)
+| length4         = 
+}}
+{{Track listing
+| headline        = Side due
+| total_length    = 30:58
+| title1          = Aerovivanda 4 (Part 2)
+| length1         = 
+| title2          = Aerovivanda 5
+| length2         = 
+| title3          = Aerovivanda 6
+| length3         = 
+}}
+
+==Notes==
+*All musick composed and assemblage by Merzbow
+*Mixed at Merzbau studio
+*(K &amp; P) {{Nihongo2|[[Asagaya|阿佐谷]]}} 1983 Nobembre
+
+==Personnel==
+*Masami Akita&amp;nbsp;– rhythm, effect, guitar, synthe
+*Yuzuru Shogase&amp;nbsp;– rhythm, synthe, effect
+
+==References==
+{{Reflist}}
+
+{{Merzbow}}
+
+[[Category:1983 albums]]
+[[Category:Merzbow albums]]
+[[Category:Collaborative albums]]</text>
+      <sha1>9pty0kbvefk54u36xssf5dmcznec7s1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Toque (Canadian)</title>
+    <ns>0</ns>
+    <id>9244988</id>
+    <redirect title="Knit cap" />
+    <revision>
+      <id>549593102</id>
+      <parentid>542636492</parentid>
+      <timestamp>2013-04-09T23:22:07Z</timestamp>
+      <contributor>
+        <username>Squids and Chips</username>
+        <id>2947772</id>
+      </contributor>
+      <comment>Redirect to correct page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="51" xml:space="preserve">#REDIRECT [[Knit cap]]
+
+{{R from alternative name}}</text>
+      <sha1>r3oq5g2pgav0nmaag847b6zlnyd3opv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Doki Doki Panic</title>
+    <ns>0</ns>
+    <id>9244996</id>
+    <redirect title="Super Mario Bros. 2" />
+    <revision>
+      <id>970017232</id>
+      <parentid>970004296</parentid>
+      <timestamp>2020-07-28T18:55:10Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>11292982</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[Super Mario Bros. 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" xml:space="preserve">#REDIRECT [[Super Mario Bros. 2#Development]]</text>
+      <sha1>970pybad3t6ebxfz2rl0yxk8mojyqnz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Portal:New Zealand/Selected picture/Week 6, 2007</title>
+    <ns>100</ns>
+    <id>9244999</id>
+    <revision>
+      <id>172203724</id>
+      <parentid>170521449</parentid>
+      <timestamp>2007-11-18T02:47:05Z</timestamp>
+      <contributor>
+        <username>Mr.Z-man</username>
+        <id>646348</id>
+      </contributor>
+      <comment>Removing instance of image New Zealand War Memorial.jpg that has been deleted because &quot;[[WP:CSD#I7]] - Disputed/invalid [[WP:NFCC|fair use rationale]]&quot;);  using [[WP:TWINKLE|TW]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="546" xml:space="preserve">&lt;!--  Commented out because image was deleted: [[Image:New Zealand War Memorial.jpg|200px|center|New Zealand War Memorial.|{{deletable image-caption|1=Saturday, 17 November 2007}}]] --&gt;
+The [[New Zealand]] National [[War Memorial]] is located in Buckle Street, in [[Wellington, New Zealand|Wellington]], the nation's capital. Dedicated in 1932 on [[Anzac Day]] in commemoration of the [[First World War]].
+&lt;div style=&quot;text-align:right;margin-right:10px;margin-bottom:4px;&quot;&gt;
+'''[[Portal:New_Zealand/Selected_picture/2007|Picture archive]]'''&lt;/div&gt;</text>
+      <sha1>bzkd9jnsrtv93ahl4pvzv9pjh97pfjs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1 (New Jersey bus)</title>
+    <ns>0</ns>
+    <id>9245001</id>
+    <redirect title="List of NJ Transit bus routes (1–99)" />
+    <revision>
+      <id>707583288</id>
+      <parentid>334510026</parentid>
+      <timestamp>2016-02-29T17:46:06Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[List of NJ Transit bus routes (1–99)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" xml:space="preserve">#REDIRECT [[List of NJ Transit bus routes (1–99)#1]]
+{{R from NYC bus}}</text>
+      <sha1>04ck4w6v54c963megn9kivaedw0t87b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>34 (New Jersey bus)</title>
+    <ns>0</ns>
+    <id>9245002</id>
+    <redirect title="List of NJ Transit bus routes (1–99)" />
+    <revision>
+      <id>707583300</id>
+      <parentid>334510055</parentid>
+      <timestamp>2016-02-29T17:46:11Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[List of NJ Transit bus routes (1–99)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" xml:space="preserve">#REDIRECT [[List of NJ Transit bus routes (1–99)#34]]
+{{R from NYC bus}}</text>
+      <sha1>frrfb7vocifp9be0ly4gvi2m2m0n1u2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>5 (New Jersey bus)</title>
+    <ns>0</ns>
+    <id>9245003</id>
+    <redirect title="List of NJ Transit bus routes (1–99)" />
+    <revision>
+      <id>707583308</id>
+      <parentid>334510083</parentid>
+      <timestamp>2016-02-29T17:46:16Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[List of NJ Transit bus routes (1–99)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" xml:space="preserve">#REDIRECT [[List of NJ Transit bus routes (1–99)#5]]
+{{R from NYC bus}}</text>
+      <sha1>79ud06o5lr709bwc6hlg3d2hoix4wl8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>21 (New Jersey bus)</title>
+    <ns>0</ns>
+    <id>9245004</id>
+    <redirect title="List of NJ Transit bus routes (1–99)" />
+    <revision>
+      <id>707583326</id>
+      <parentid>334510110</parentid>
+      <timestamp>2016-02-29T17:46:21Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[List of NJ Transit bus routes (1–99)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" xml:space="preserve">#REDIRECT [[List of NJ Transit bus routes (1–99)#21]]
+{{R from NYC bus}}</text>
+      <sha1>1k13kz3zg5pjb7l9ljynj0ms5o8yw6u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>31 (New Jersey bus)</title>
+    <ns>0</ns>
+    <id>9245005</id>
+    <redirect title="Olympia Trails" />
+    <revision>
+      <id>207275042</id>
+      <parentid>104794826</parentid>
+      <timestamp>2008-04-22T02:55:52Z</timestamp>
+      <contributor>
+        <username>AEMoreira042281</username>
+        <id>897961</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Olympia Trails#Routes 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" xml:space="preserve">#REDIRECT [[Olympia_Trails#Routes_2]]
+{{R from NYC bus}}</text>
+      <sha1>0o3ebp8d5b697hlzjuu76xq5seuq7qx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>25 (New Jersey bus)</title>
+    <ns>0</ns>
+    <id>9245007</id>
+    <redirect title="List of NJ Transit bus routes (1–99)" />
+    <revision>
+      <id>707583341</id>
+      <parentid>334510134</parentid>
+      <timestamp>2016-02-29T17:46:26Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>8066546</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fixing double redirect to [[List of NJ Transit bus routes (1–99)]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" xml:space="preserve">#REDIRECT [[List of NJ Transit bus routes (1–99)#25]]
+{{R from NYC bus}}</text>
+      <sha1>acdyugdm5ppgu67scsp9vn0lz4l378a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Portal:Military history of Australia/Units/February 5</title>
+    <ns>100</ns>
+    <id>9245009</id>
+    <revision>
+      <id>900058808</id>
+      <parentid>844189049</parentid>
+      <timestamp>2019-06-03T04:40:09Z</timestamp>
+      <contributor>
+        <username>BrownHairedGirl</username>
+        <id>754619</id>
+      </contributor>
+      <minor />
+      <comment>BrownHairedGirl moved page [[Portal:Military of Australia/Units/February 5]] to [[Portal:Military history of Australia/Units/February 5]] without leaving a redirect: portal moved</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="822" xml:space="preserve">[[Image:Tandem thurst 01.jpg|right|150px|A soldier from 5/7 RAR training with a 1st Armoured Regiment tank in 2001]]
+The '''[[1st Brigade (Australia)|1st Brigade]]''' is an [[Australian Army]] [[brigade]]. The brigade is headquartered at [[Robertson Barracks]] near [[Darwin, Northern Territory|Darwin]], although significant elements are also based at [[RAAF Edinburgh]] in South Australia. A combined arms formation, the 1st Brigade consists of two infantry battalions &amp;ndash;  [[5th Battalion, Royal Australian Regiment|5 RAR]] and [[7th Battalion, Royal Australian Regiment|7 RAR]] &amp;ndash; and an armoured cavalry regiment, the [[Australian 1st Armoured Regiment|1st Armoured Regiment]]. It also has other combat support and service support units including artillery, engineers, signals and various logistics elements.</text>
+      <sha1>hfjf090rtepaal9397jtvxpcmmjfyfc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:MerzbowMaterialAction2NAMCover.jpeg</title>
+    <ns>6</ns>
+    <id>9245012</id>
+    <revision>
+      <id>801823809</id>
+      <parentid>746286652</parentid>
+      <timestamp>2017-09-22T02:36:01Z</timestamp>
+      <contributor>
+        <username>Onel5969</username>
+        <id>10951369</id>
+      </contributor>
+      <minor />
+      <comment>Disambiguating links to [[Chaos]] (link removed) using [[User:Qwertyytrewqqwerty/DisamAssist|DisamAssist]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="759" xml:space="preserve">{{Non-free album cover|image has rationale=yes}}
+{{Non-free use rationale album cover| Article           = Material Action 2 N.A.M.
+| Use               = Infobox
+&lt;!-- ADDITIONAL INFORMATION --&gt;
+| Name              = Material Action 2 N.A.M.
+| Artist            = [[Merzbow]]
+| Label             = CHAOS
+| Graphic Artist    = 
+| Item              = 
+| Type              = album
+| Website           = 
+| Owner             = 
+| Commentary        = 
+&lt;!--OVERRIDE FIELDS --&gt;
+| Description       = 
+| Source            = http://www.discogs.com/viewimages?what=R&amp;obid=322201
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = &lt;!--Must be specified if Use is not Infobox / Header / Section / Artist--&gt;
+| Replaceability    = 
+| other_information = 
+}}</text>
+      <sha1>ih87kldkngh1q9r7apz0ul65kmx12vq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Material Action 2 N.A.M.</title>
+    <ns>0</ns>
+    <id>9245013</id>
+    <revision>
+      <id>864436328</id>
+      <parentid>832077606</parentid>
+      <timestamp>2018-10-17T05:42:29Z</timestamp>
+      <contributor>
+        <username>Zackmann08</username>
+        <id>15881234</id>
+      </contributor>
+      <comment>fixing deprecated params</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2243" xml:space="preserve">{{Infobox album
+| name       = Material Action 2 N.A.M.
+| type       = studio
+| artist     = [[Merzbow]]
+| cover      = MerzbowMaterialAction2NAMCover.jpeg
+| alt        =
+| released   = {{Start date|1983}}
+| recorded   = September–October 1982 at Junktion Music Work, Tokyo
+| venue      =
+| studio     =
+| genre      = [[Noise music|Noise]]
+| length     = {{Duration|m=40|s=59}}
+| label      = Chaos
+| producer   = Masami Akita
+| prev_title = [[Lowest Music 2]]
+| prev_year  = 1982
+| next_title = [[Erotrograph]]
+| next_year  = 1983
+}}
+
+'''''Material Action 2 N.A.M.''''' is an album by the [[Japan]]ese [[noise music|noise]] group [[Merzbow]]. It was the first non-[[Compact Cassette|cassette]] Merzbow release. The &quot;2&quot; in the title refers to ''[[Yantra Material Action]]'', which was intended as the first Merzbow [[Gramophone record|LP]]. Chaos was distributed by Eastern Works, which is sometimes listed as the label.&lt;ref name=&quot;merzbook&quot;&gt;{{cite book |title=Merzbook: The Pleasuredome of Noise |last=Woodward |first=Brett |year=1999 |publisher=[[Extreme Records|Extreme]] |page=94 |isbn=0-646-38326-4}}&lt;/ref&gt; The album was later included in the ''[[Merzbox#Material Action 2 N.A.M|Merzbox]]''.
+
+On June 8, 2016, the album was reissued as a replica LP pressed on colored vinyl by Menstrualrecordings.
+
+==Track listing==
+{{Track listing
+| headline        = Side this
+| title1          = Nil Ad Mirari
+| length1         = 22:47
+}}
+{{Track listing
+| headline        = Side other
+| title1          = Nimbus Alter Magneto Electricity
+| length1         = 18:12
+}}
+
+==Personnel==
+*Masami Akita&amp;nbsp;– recording, mixing, tapes, junk percussion, electro-acoustical noise, organ, tape collage, artwork
+*Kiyoshi Mizutani&amp;nbsp;– tapes, synthesizer, violin, machine noise
+*H. Kawagishi&amp;nbsp;– engineering
+*Mamoru Murayama/Ad Suprex&amp;nbsp;– design, artwork
+
+==Release history==
+{|class=&quot;wikitable&quot;
+! Region
+! Date
+! Label
+! Format
+! Catalog
+! Quantity
+|-
+| Japan
+| 1983
+| Chaos
+| [[LP record|LP]]
+| CHAOS 00001
+| Unknown
+|-
+| Italy
+| June 8, 2016
+| Menstrualrecordings
+| [[LP record|LP]]
+| LH71
+| 302
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Discogs master|1012271}}
+
+{{Merzbow}}
+
+[[Category:1983 albums]]
+[[Category:Merzbow albums]]</text>
+      <sha1>hby7p3g7muyh7mob5wn4hzeeg5gzcy9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:RecRec Music logo.png</title>
+    <ns>6</ns>
+    <id>9245019</id>
+    <revision>
+      <id>807367199</id>
+      <parentid>519326481</parentid>
+      <timestamp>2017-10-27T14:18:50Z</timestamp>
+      <contributor>
+        <username>Bruce1ee</username>
+        <id>211905</id>
+      </contributor>
+      <comment>updated source</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="680" xml:space="preserve">== Summary ==
+{{Non-free use rationale logo| Article           = RecRec Music
+| Use               = Infobox
+&lt;!-- ADDITIONAL INFORMATION --&gt;
+| Used for          = 
+| Owner             = 
+| Website           = 
+| History           = 
+| Commentary        =
+&lt;!--OVERRIDE FIELDS --&gt;
+| Description       = [[RecRec Music]] record label logo.
+| Source            = https://www.discogs.com/label/8061-RecRec-Music/images
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = &lt;!--Must be specified if Use is not Infobox / Org / Brand / Product--&gt;
+| Replaceability    = 
+| other_information = 
+}}
+
+== Licensing ==
+{{Non-free logo|Record company logos|image has rationale=yes}}</text>
+      <sha1>69tz3t9m8fsef649lcxv1f27a6uac3j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>List of Bluetooth protocols</title>
+    <ns>0</ns>
+    <id>9245024</id>
+    <revision>
+      <id>943281511</id>
+      <parentid>942479310</parentid>
+      <timestamp>2020-02-29T23:51:23Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10963" xml:space="preserve">{{short description|Wikipedia list article}}
+{{unreferenced|date=March 2012}}
+
+The wireless data exchange standard [[Bluetooth]] uses a variety of [[protocol (computing)|protocol]]s. Core protocols are defined by the trade organization [[Bluetooth SIG]]. Additional protocols have been adopted from other standards bodies. This article gives an overview of the core protocols and those adopted protocols that are widely used.
+
+The Bluetooth protocol stack is split in two parts: a &quot;controller stack&quot; containing the timing critical radio interface, and a &quot;host stack&quot; dealing with high level data. The controller stack is generally implemented in a low cost silicon device containing the Bluetooth radio and a microprocessor. The host stack is generally implemented as part of an operating system, or as an installable package on top of an operating system. For integrated devices such as Bluetooth headsets, the host stack and controller stack can be run on the same microprocessor to reduce mass production costs; this is known as a ''hostless'' system.
+
+== Controller stack ==
+
+=== [[Asynchronous Connection-Less]] [logical transport] (ACL){{anchor|ACL}} ===
+The normal type of radio link used for general data packets using a polling [[Time division multiple access|TDMA]] scheme to arbitrate access. It can carry packets of several types, which are distinguished by:
+* length (1, 3, or 5 time slots depending on required payload size)
+* [[Forward error correction]] (optionally reducing the data rate in favour of reliability)
+* modulation ([[Bluetooth#Bluetooth v2.0 + EDR|Enhanced Data Rate]] packets allow up to triple data rate by using a different RF modulation for the payload)
+
+A connection must be explicitly set up and accepted between two devices before packets can be transferred.
+
+ACL packets are retransmitted automatically if unacknowledged, allowing for correction of a radio link that is subject to interference. For [[isochronous]] data, the number of retransmissions can be limited by a flush timeout; but without using L2PLAY retransmission and flow control mode or EL2CAP, a higher layer must handle the packet loss.
+
+ACL links are disconnected if there is nothing received for the supervision timeout period; the default timeout is 20 seconds, but this may be modified by the master.
+
+=== Synchronous Connection-Oriented (SCO) link{{anchor|SCO}} ===
+The type of radio link used for voice data. An SCO link is a set of reserved time slots on an existing ACL link. Each device transmits encoded voice data in the reserved timeslot. There are no retransmissions, but forward error correction can be optionally applied. SCO packets may be sent every 1, 2, or 3 time slots.
+
+Enhanced SCO (eSCO) links allow greater flexibility in setting up links: they may use retransmissions to achieve reliability, allow for a wider variety of packet types and for greater intervals between packets than SCO, thus increasing radio availability for other links(.)
+
+=== Link Management Protocol (LMP){{anchor|LMP}} ===
+Used for control of the radio link between two devices, handling matters such as link establishment, querying device abilities and power control. Implemented on the controller.
+
+=== Host Controller Interface (HCI){{anchor|HCI}} ===
+Standardized communication between the host stack (e.g., a PC or mobile phone OS) and the controller (the Bluetooth integrated circuit (IC)). This standard allows the host stack or controller IC to be swapped with minimal adaptation.
+
+There are several HCI transport layer standards, each using a different hardware interface to transfer the same command, event and data packets. The most commonly used are [[USB]] (in PCs) and [[UART]] (in mobile phones and PDAs).
+
+In Bluetooth devices with simple functionality (e.g., headsets), the host stack and controller can be implemented on the same microprocessor. In this case the HCI is optional, although often implemented as an internal software interface.
+
+=== Low Energy Link Layer (LE LL){{anchor|LELL}} ===
+This is the LMP equivalent for [[Bluetooth Low Energy]] (LE), but is simpler. It is implemented on the controller and manages advertisement, scanning, connection and security from a low-level, close to the hardware point of view from '''Bluetooth perspective.'''
+
+== Host stack ==
+
+=== Logical link control and adaptation protocol (L2CAP){{anchor|L2CAP}} ===
+'''L2CAP''' is used within the Bluetooth protocol stack. It passes packets to either the Host Controller Interface (HCI) or, on a hostless system, directly to the Link Manager/ACL link.
+
+L2CAP's functions include:
+*Multiplexing data between different higher layer protocols.
+*Segmentation and reassembly of packets.
+*Providing one-way transmission management of multicast data to a group of other Bluetooth devices.
+*[[Quality of service]] (QoS) management for higher layer protocols.
+
+L2CAP is used to communicate over the host ACL link.  Its connection is established after the ACL link has been set up.
+
+In basic mode, L2CAP provides packets with a payload configurable up to 64&amp;nbsp;kB, with 672 bytes as the default MTU, and 48 bytes as the minimum mandatory supported MTU.  In retransmission and flow control modes, L2CAP can be configured for reliable or asynchronous data per channel by performing retransmissions and CRC checks.  Reliability in either of these modes is optionally and/or additionally guaranteed by the lower layer Bluetooth BDR/EDR air interface by configuring the number of retransmissions and flush timeout (time after which the radio will flush packets).  In-order sequencing is guaranteed by the lower layer.
+
+The EL2CAP specification adds an additional ''enhanced retransmission mode'' (ERTM) to the core specification, which is an improved version of retransmission and flow control modes. ERTM is required when using an AMP (Alternate MAC/PHY), such as 802.11abgn.
+
+=== Bluetooth network encapsulation protocol (BNEP){{anchor|BNEP}} ===
+'''BNEP''' is used for delivering network packets on top of L2CAP. This protocol is used by the ''personal area networking (PAN)'' profile.  BNEP performs a similar function to [[Subnetwork Access Protocol]] (SNAP) in Wireless LAN.
+
+In the protocol stack, BNEP is bound to L2CAP.
+
+=== Radio frequency communication (RFCOMM){{anchor|RFCOMM}} ===
+The Bluetooth protocol RFCOMM is a simple set of transport protocols, made on top of the L2CAP protocol, providing emulated [[RS-232]] [[serial port]]s (up to sixty simultaneous connections to a Bluetooth device at a time). The protocol is based on the ETSI standard TS&amp;nbsp;07.10.
+
+RFCOMM is sometimes called ''serial port emulation''. The Bluetooth ''serial port profile'' is based on this protocol.
+
+RFCOMM provides a simple reliable data stream to the user, similar to TCP. It is used directly by many telephony related profiles as a carrier for AT commands, as well as being a transport layer for OBEX over Bluetooth.
+
+Many Bluetooth applications use RFCOMM because of its widespread support and publicly available API on most operating systems. Additionally, applications that used a serial port to communicate can be quickly ported to use RFCOMM.
+
+In the protocol stack, RFCOMM is bound to L2CAP.
+
+=== Service discovery protocol (SDP){{anchor|SDP}} ===
+Used to allow devices to discover what services each other support, and what parameters to use to connect to them.  For example, when connecting a mobile phone to a Bluetooth headset, SDP will be used to determine which [[Bluetooth profile]]s are supported by the headset (''[[Bluetooth profile#Headset Profile .28HSP.29|headset profile]]'', ''[[Bluetooth profile#Hands-Free Profile .28HFP.29|hands free profile]]'', ''[[Bluetooth profile#Advanced Audio Distribution Profile .28A2DP.29|advanced audio distribution profile]]'', etc.) and the protocol multiplexer settings needed to connect to each of them.  Each service is identified by a [[Universally Unique Identifier]] (UUID), with official services (Bluetooth profiles) assigned a short form UUID (16 bits rather than the full 128).
+
+In the protocol stack, SDP is bound to L2CAP.
+
+=== Telephony control protocol (TCS){{anchor|TCS}} ===
+Also referred to as ''telephony control protocol specification binary'' (TCS binary)
+
+Used to set up and control speech and data calls between Bluetooth devices. The protocol is based on the ITU-T standard [[Q.931]], with the provisions of Annex D applied, making only the minimum changes necessary for Bluetooth.
+
+TCS is used by the ''[[Bluetooth profile#Intercom Profile .28ICP.29|intercom]]'' (ICP) and ''[[Bluetooth profile#Cordless Telephony Profile .28CTP.29|cordless telephony]]'' (CTP) profiles. The telephone control protocol specification is not called TCP, to avoid confusion with transmission control protocol (TCP) used for Internet communication.
+
+=== Audio/video control transport protocol (AVCTP){{anchor|AVCTP}} ===
+Used by the remote control profile to transfer [[AV/C]] commands over an L2CAP channel.  The music control buttons on a stereo headset use this protocol to control the music player.
+
+In the protocol stack, AVCTP is bound to L2CAP.
+
+=== Audio/video data transport protocol (AVDTP){{anchor|AVDTP}} ===
+Used by the advanced audio distribution profile to stream music to stereo headsets over an L2CAP channel.  Intended to be used by video distribution profile.
+
+In the protocol stack, AVDTP is bound to L2CAP.
+
+=== Object exchange (OBEX){{anchor|OBEX}} ===
+{{Main|OBEX}}
+''Object exchange'' (OBEX; also termed ''IrOBEX'') is a communications protocol that facilitates the exchange of binary objects between devices.  It is maintained by the [[Infrared Data Association]] but has also been adopted by the [[Bluetooth Special Interest Group]] and the [[SyncML]] wing of the [[Open Mobile Alliance]] (OMA).
+
+In Bluetooth, OBEX is used for many profiles that require simple data exchange (e.g., object push, file transfer, basic imaging, basic printing, phonebook access, etc.).
+
+=== Low Energy Attribute Protocol (ATT){{anchor|ATT}} ===
+Similar in scope to SDP but specially adapted and simplified for Low Energy Bluetooth. It allows a client to read and/or write certain attributes exposed by the server in a non-complex, low-power friendly manner.
+
+In the protocol stack, ATT is bound to L2CAP.
+
+=== Low Energy Security Manager Protocol (SMP){{anchor|SMP}} ===
+This is used by Bluetooth Low Energy implementations for pairing and transport specific key distribution.
+
+In the protocol stack, SMP is bound to L2CAP.
+
+== See also ==
+* [[Bluetooth]]
+* [[Bluetooth profile]]
+
+== External links ==
+*[https://web.archive.org/web/20100225214851/http://www.bluetooth.com/Bluetooth/Technology/Works/Data_Transport_Architecture.htm Bluetooth.com - Data Transport Architecture]
+*[http://www.oracle.com/technetwork/systems/bluetoothintro-156415.html Oracle.com - Bluetooth protocol stack overview with diagram (halfway down the page)]
+
+[[Category:Bluetooth]]
+[[Category:Lists of network protocols|Bluetooth]]</text>
+      <sha1>njtnjpctfrnmukdjfxquu8nr6qxcygq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Lspcon 2007.png</title>
+    <ns>6</ns>
+    <id>9245032</id>
+    <revision>
+      <id>518763485</id>
+      <parentid>436498284</parentid>
+      <timestamp>2012-10-19T20:15:42Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Updating license tag(s) with image has rationale=yes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="667" xml:space="preserve">== Summary ==
+{{Non-free use rationale logo| Article           = Lasallian Schools Press Conference
+| Use               = Org
+&lt;!-- ADDITIONAL INFORMATION --&gt;
+| Used for          = 
+| Owner             = 
+| Website           = 
+| History           = 
+| Commentary        =
+&lt;!--OVERRIDE FIELDS --&gt;
+| Description       = The official logo of the Lasallian Schools Press Conference 2007 (with title).
+| Source            = 
+| Portion           = 
+| Low_resolution    = 
+| Purpose           = &lt;!--Must be specified if Use is not Infobox / Org / Brand / Product--&gt;
+| Replaceability    = 
+| other_information = 
+}}
+
+
+== Licensing ==
+{{Non-free logo|image has rationale=yes}}</text>
+      <sha1>a8t443uk2fwl84px83ftwnofd9im6fv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sadiq Abubakar III International Airport</title>
+    <ns>0</ns>
+    <id>9245035</id>
+    <revision>
+      <id>944655362</id>
+      <parentid>904361441</parentid>
+      <timestamp>2020-03-09T03:42:31Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor />
+      <comment>/* External links */add authority control</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2949" xml:space="preserve">{{Infobox airport
+| name         = Sadiq Abubakar III International Airport
+| nativename   = 
+| image        = 
+| IATA         = SKO
+| ICAO         = DNSO
+| type         = Public
+| owner-oper   = [[Federal Airports Authority of Nigeria]] (FAAN)
+| city-served  = [[Sokoto]], [[Nigeria]]
+| location     = 
+| elevation-f  = 1010
+| elevation-m  = 
+| coordinates  = {{coord|12|54|58|N|5|12|25|E|type:airport_region:NG}}
+| pushpin_map            = Nigeria
+| pushpin_label_position = 
+| pushpin_label          = '''SKO'''
+| pushpin_map_alt        = 
+| pushpin_mapsize        = 
+| pushpin_image          = 
+| pushpin_map_caption    = Location of the airport in Nigeria
+| website      = 
+| metric-rwy   = y
+| r1-number    = 08/26
+| r1-length-f  = 
+| r1-length-m  = 3000
+| r1-surface   = Asphalt
+| footnotes    = Sources: FAAN&lt;ref name=FAAN&gt;[http://www.faannigeria.org/index.php/airports/major-domestic-airports/sokoto FAAN - Sokoto Airport]&lt;/ref&gt; WAS&lt;ref name=WAD&gt;{{WAD|DNSO|source=[[DAFIF]]}}&lt;/ref&gt; GCM&lt;ref name=GCM&gt;{{GCM|SKO}}&lt;/ref&gt; Google Maps&lt;ref&gt;[https://www.google.com/maps/@12.9163845,5.2057374,3800m/data=!3m1!1e3 Google Maps - Sokoto]&lt;/ref&gt;
+}}
+
+'''Sadiq Abubakar III International Airport'''&lt;ref name=WAD /&gt; or '''Sultan Saddik Abubakar Airport'''&lt;ref name=FAAN /&gt; {{airport codes|SKO|DNSO}} is an airport serving [[Sokoto]], the capital of the [[Sokoto State]] in [[Nigeria]]. Arik Air does daily operation from Abuja and Med-View Airlines does flights to Jeddah during Hajj using a 747.
+
+The Sokoto [[VOR-DME]] (Ident: '''SOK''') and [[non-directional beacon]] (Ident: '''SK''') are located on the field.&lt;ref&gt;{{Cite web|url=http://ourairports.com/navaids/SOK/Sokoto_VOR-DME_NG/#lat=12.921099662780762,lon=5.229310035705566,zoom=10,type=Satellite|title=Sokoto VOR-DME (SOK) @ OurAirports|website=ourairports.com|access-date=2018-08-21}}&lt;/ref&gt; The runway length does not include {{convert|118|m}} [[displaced threshold]]s on each end.
+
+==Airlines and destinations==
+{{Airport-dest-list
+&lt;!-- --&gt;
+|{{nowrap|[[Aero Contractors (Nigeria)|Aero Contractors]]}}| [[Nnamdi Azikiwe International Airport|Abuja]]|
+&lt;!-- --&gt;
+[[Arik Air]] | [[Nnamdi Azikiwe International Airport|Abuja]]|
+&lt;!-- --&gt;
+[[Med-View Airlines]] | '''Seasonal charter:''' [[King Abdulaziz International Airport|Jeddah]]
+&lt;!-- --&gt;
+}}
+
+==See also==
+*[[Transport in Nigeria]]
+*[[List of airports in Nigeria]]
+*[[Federal Airports Authority of Nigeria]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{ASN|SKO}}
+*[http://ourairports.com/airports/DNSO/pilot-info.html#general OurAirports - Sokoto]
+*[https://skyvector.com/airport/DNSO/Sokoto-Saddiq-Abubakar-III-Int-Airport SkyVector - Sokoto]
+*[https://www.openstreetmap.org/#map=13/12.9170/5.2049 OpenStreetMap - Saddiq Abubakar]
+
+{{Portalbar|Nigeria|Aviation}}
+{{Airports in Nigeria}}
+
+
+{{authority control}}
+
+[[Category:Airports in Nigeria]]
+[[Category:Sokoto]]
+[[Category:Sokoto State]]
+
+
+{{Nigeria-struct-stub}}
+{{Nigeria-airport-stub}}</text>
+      <sha1>a3mcd7ol3wits5qlrsr7husufaygdmr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cowabbie</title>
+    <ns>0</ns>
+    <id>9245044</id>
+    <revision>
+      <id>955109371</id>
+      <parentid>885438191</parentid>
+      <timestamp>2020-05-06T00:52:17Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <minor />
+      <comment>/* Notes and references */add authority control</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3606" xml:space="preserve">{{Use dmy dates|date=August 2012}}
+{{Use Australian English|date=August 2012}}
+{{Infobox Australian place
+| type                     = town
+| name                     = Cowabbie
+| state                    = nsw
+| image                    = CowabbiePresbyterianChurch.jpg
+| caption                  = Cowabbie Presbyterian Church
+| image_alt                = 
+| relief                   = 
+| coordinates              = {{coord|34|36|0|S|147|0|36|E|display=inline,title}}
+| pushpin_map_caption      = 
+| pushpin_label_position   = 
+| map_alt                  = 
+| pop                      = 
+| pop_year                 = 
+| pop_footnotes            = 
+| poprank                  = 
+| density                  = 
+| density_footnotes        = 
+| established              = 
+| established_footnotes    = 
+| abolished                = 
+| gazetted                 = 
+| postcode                 = 2663
+| elevation                = 
+| elevation_footnotes      = 
+| area                     = 
+| area_footnotes           = 
+| timezone                 = 
+| utc                      = 
+| timezone-dst             = 
+| utc-dst                  = 
+| dist1                    = 504
+| dir1                     = SW
+| location1                = Sydney
+| dist2                    = 74
+| dir2                     = NW
+| location2                = Wagga Wagga
+| dist3                    = 34
+| dir3                     = NW
+| location3                = [[Coolamon, New South Wales|Coolamon]]
+| lga                      = [[Coolamon Shire Council]]
+| seat                     = 
+| region                   = 
+| county                   = [[Bourke County, New South Wales|Bourke]]
+| division                 = 
+| stategov                 = [[Electoral district of Cootamundra|Cootamundra]]
+| fedgov                   = [[Division of Riverina|Riverina]]
+| visitation_num           = 
+| visitation_year          = 
+| visitation_footnotes     = 
+| managing_authorities     = 
+| url                      = 
+| maxtemp                  = 
+| maxtemp_footnotes        = 
+| mintemp                  = 
+| mintemp_footnotes        = 
+| rainfall                 = 
+| rainfall_footnotes       = 
+| near-n                   = 
+| near-ne                  = 
+| near-e                   = 
+| near-se                  = 
+| near-s                   = 
+| near-sw                  = 
+| near-w                   = 
+| near-nw                  = 
+| near                     = 
+| footnotes                = 
+}}
+'''Cowabbie''' is a rural community in the central part of the [[Riverina]] region of [[New South Wales]], Australia.  It is situated by road about {{convert|29|km|mi}} south of [[Ardlethan, New South Wales|Ardlethan]] and {{convert|32|km|mi}} north of [[Matong, New South Wales|Matong]] along the [[Wagga Wagga]] road.
+
+The place name ''Cowabbie'' is derived from expression used by the local [[Indigenous Australians|Aboriginals]] for cows when they were first seen in the area by these early inhabitants,&lt;ref&gt;{{NSW GNR|id=JPckFxKmGH|title=Cowabbie|accessdate=}}&lt;/ref&gt; and Cowabbie Station is one of the functioning properties in the area.
+
+Cowabbie has a rich [[Presbyterian]] history.  The original church - dilapidated but memorialised by the small community surrounding it, was first built by the local Hannah family in 1865 and then transported to its current location by bullock-team in 1926.
+
+==Notes and references==
+{{Commons category}}
+{{Reflist}}
+
+{{Coolamon Shire}}
+{{Riverina}}
+
+
+{{authority control}}
+
+[[Category:Towns in the Riverina]]
+[[Category:Towns in New South Wales]]
+[[Category:Coolamon Shire]]
+
+
+{{Riverina-geo-stub}}</text>
+      <sha1>oszxe1pulltbgfmmagxyhpp0hpthcsg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Iraqi Kurdistan</title>
+    <ns>14</ns>
+    <id>9245049</id>
+    <revision>
+      <id>926349830</id>
+      <parentid>872702853</parentid>
+      <timestamp>2019-11-15T19:45:58Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>moved [[Category:Autonomous regions]] to subcategory</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" xml:space="preserve">{{portal|Iraq}}
+{{Commons cat|Iraqi Kurdistan}}
+{{Cat main|Iraqi Kurdistan}}
+*'''[[Iraqi Kurdistan]]''' is a geopolitical region of [[Iraq]].
+
+[[Category:Geography of Iraq]]
+[[Category:Kurdistan|*]]
+[[Category:Subdivisions of Iraq]]</text>
+      <sha1>ro4k8zlyn64cpvna9vexcn7hlpj8q4w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Articles for deletion/Peter Delgrosso</title>
+    <ns>4</ns>
+    <id>9245060</id>
+    <revision>
+      <id>106289200</id>
+      <parentid>104979968</parentid>
+      <timestamp>2007-02-07T11:39:30Z</timestamp>
+      <contributor>
+        <username>Mailer diablo</username>
+        <id>131286</id>
+      </contributor>
+      <comment>Closing debate; result was delete</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6715" xml:space="preserve">&lt;div class=&quot;boilerplate metadata vfd xfd-closed&quot; style=&quot;background-color: #F3F9FF; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px solid #AAAAAA;&quot;&gt;
+:''The following discussion is an archived debate of the proposed deletion of the article below. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt;  Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]).  No further edits should be made to this page.  ''
+&lt;!--Template:Afd top
+
+Note:  If you are seeing this page as a result of an attempt to re-nominate an article for deletion, you must manually edit the AfD nomination links in order to create a new discussion page using the name format of [[Wikipedia:Articles for deletion/PAGENAME (2nd nomination)]].  When you create the new discussion page, please provide a link to this old discussion in your nomination. --&gt;
+
+The result was '''&lt;font color=red&gt;d&lt;/font&gt;elete'''. - [[User:Mailer diablo|Mailer Diablo]] 11:39, 7 February 2007 (UTC)
+
+===[[Peter Delgrosso]]===
+:{{la|Peter Delgrosso}} – &lt;includeonly&gt;([[Wikipedia:Articles for deletion/Peter Delgrosso|View AfD]])&lt;/includeonly&gt;&lt;noinclude&gt;([[Wikipedia:Articles for deletion/Log/2007 February 1#{{anchorencode:Peter Delgrosso}}|View log]])&lt;/noinclude&gt;
+This article has had major contributions from editors with apparent [[WP:COI|conflicts of interest]]: created by [[WP:SPA|single purpose account]] [[Special:Contributions/Simpli|User:Simpli]] and then heavily edited by [[Special:Contributions/Pdelgrosso|Pdelgrosso]]. He's aged 32, and has had ten years of experience in ecommerce, and the main relevant non-wiki Ghits shows that his role is often that of a spokesman in all sorts of communications, be it press, email, web fora etc, in a [[public relations|PR]] or [[Investor relations|IR]] capacity. He has a brief [http://global.forbes.com/finance/mktguideapps/personinfo/FromMktGuideIdPersonTearsheet.jhtml?passedMktGuideId=1030827 bio listed] in the Forbes [[WP:NOT#DIRECTORY|directory]] (which states he's &quot;Divisional VP at web.com), and a few other hits which are SEC disclosure filings. However, divisional VPs are pretty common, and I'm not convinced that getting your name on a few thousand press releases as a contact person is sufficient to make one notable. [[User:Ohconfucius|Ohconfucius]] 07:46, 1 February 2007 (UTC)
+*'''Delete''' - appears to be fairly unremarkable. Per [[WP:HOLE]], I'm just not seeing why he's any more special than most company VP's. If we can get some [[WP:BIO|non-trivial press coverage]] on the guy, however, or some reasoning as to why he's notable, then I'm open to changing my opinion. [[User:Part Deux|Part Deux]] 08:12, 1 February 2007 (UTC)
+*'''Delete''' - &quot;fairly unremarkable&quot; says it all.-[[User:Dmz5|&lt;font color=&quot;red&quot;&gt;&lt;b&gt;Dmz5&lt;/b&gt;&lt;/font&gt;]]&lt;small&gt;[[Special:Contributions/Dmz5|*Edits*]][[User talk:Dmz5|*Talk*]]&lt;/small&gt; 08:22, 1 February 2007 (UTC)
+*'''Delete''' no assertion of notability; possible violation of [[WP:AUTO]]. [[User:Walton monarchist89|Walton monarchist89]] 10:52, 1 February 2007 (UTC)
+*'''Delete''' - fails [[WP:BIO]]. [[WP:HOLE]] applies. [[User:MER-C|MER-C]] 13:03, 1 February 2007 (UTC)
+*'''Delete''' , additionally there seems to be a problem with [[WP:V]] [[User:Alf photoman|Alf photoman]] 15:47, 1 February 2007 (UTC)
+*'''Strong Delete''' - &quot;delete&quot; because non-notable and &quot;strong&quot; because of [[WP:COI]], [[WP:SPAM]]. --[[User:A. B.|A. B.]] [[User talk:A. B.|&lt;sup&gt;(talk)&lt;/sup&gt;]] 15:49, 1 February 2007 (UTC)
+:'''Hmmm...''' -- check out [[Special:Contributions/Pdelgrosso|Pdelgrosso's other contributions]]. There are edit wars at [[Interland]] and [[Web.com]] as he, anon IPs and some new [[WP:SPA|SPAs]] try to sanitize these companies' images. See the article histories for [http://en.wikipedia.org/w/index.php?title=Interland&amp;action=history Interland] and [http://en.wikipedia.org/w/index.php?title=Web.com&amp;action=history Web.com] -- looks like they're winning. If he's notable at all, it may be because of something buried in those deleted links to news stories. --[[User:A. B.|A. B.]] [[User talk:A. B.|&lt;sup&gt;(talk)&lt;/sup&gt;]] 15:55, 1 February 2007 (UTC)
+::'''See [[Wikipedia talk:Articles for deletion/Peter Delgrosso|AfD talk page]]:'''  for a list of related biographical articles and editors also connected to [[Interland]] a.k.a. [[Web.com]]. The other articles may also be non-notable and some of the associated editors' user names are similar to those of the articles edited (example: [[User:JonathanBWilson|JonathanBWilson]] started [[Jonathan B. Wilson]]). Many edits have been made by anonymous IPs that traceroute to &lt;tt&gt;atl2prdcrrt01-vlan4.net.interland.net&lt;/tt&gt;
+::--[[User:A. B.|A. B.]] [[User talk:A. B.|&lt;sup&gt;(talk)&lt;/sup&gt;]] 16:56, 1 February 2007 (UTC)
+*'''Delete''' I don't see anything in this article that meets any of the criteria at [[WP:BIO]].--[[User:Isotope23|Isotope23]] 17:50, 1 February 2007 (UTC)
+*'''Delete''' per Isotope23 --[[User:BozMo|BozMo]] [[user talk:BozMo|talk]] 18:29, 1 February 2007 (UTC)
+*'''Delete''' (&lt;s&gt;and possibly protect&lt;/s&gt;), fails [[WP:BIO]] and history indicates this article may have already been recreated at least once.  See August 6, 2006 edit comments by user After Midnight --- [[User:Steevo714|Steevo714]] 23:38, 1 February 2007 (UTC)
+*'''Reply''' and '''Delete''' I did do some PRODs related to this in August, but the edit history is a bit misleading.  I was doing New Page Patrol that day and saw [[Peter Delgrosso]], [[Pete Delgrosso]] and [[Delgrosso]] all created with identical content.  I was a rookie then and wasn't sure of what tag to put on them, so I PROD'ed them with a note that they were duplicates.  {{admin|RHaworth}} saw the PROD tags and merged them all together and redirected 2 of them to the other and cleaned up the history.  So the edit history that you are seeing with my name is actually the edit history copied from the other 2 articles (which still '''redirect there and should be deleted if this AFD passes''') from the move/restore operation performed by the admin. --[[User:After Midnight|After Midnight]] &lt;sup&gt;&lt;small&gt;[[User talk:After Midnight|0001]]&lt;/small&gt;&lt;/sup&gt; 00:53, 2 February 2007 (UTC)
+*'''Strong Delete''' - nn company vp. [[User:Chrislk02|-- Chrislk02 (Chris Kreider)]] 01:10, 2 February 2007 (UTC)
+
+:''The above discussion is preserved as an archive of the debate.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made on the appropriate discussion page (such as the article's talk page or in a [[Wikipedia:Deletion review|deletion review]]). No further edits should be made to this page. &lt;!--Template:Afd bottom--&gt;&lt;/div&gt;</text>
+      <sha1>9rhjbuoru7fyjfqd21ej622growq9zv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Matsudaira Chikayoshi</title>
+    <ns>0</ns>
+    <id>9245067</id>
+    <revision>
+      <id>873033013</id>
+      <parentid>855883931</parentid>
+      <timestamp>2018-12-10T18:50:00Z</timestamp>
+      <contributor>
+        <ip>55.205.192.98</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1397" xml:space="preserve">{{Japanese name|Matsudaira}}
+{{Infobox Officeholder
+| name= Matsudaira Chikayoshi
+| image= Matsudaira Chikayoshi.png 
+| nationality=Japanese
+| order=[[Funai Domain|Lord of Funai]]
+| term_start= January 31, 1837
+| term_end= August 6, 1857
+| predecessor= Matsudaira Chikanobu
+| successor= none
+| birth_date={{birth date|1829|1|10|mf=y}}
+| death_date={{death date and age|1886|11|11|1829|1|10|mf=y}}
+| death_place=
+| spouse= 
+}}
+'''{{nihongo|Matsudaira Chikayoshi|松平 近説}};''' (January 10, 1829 &amp;ndash; November 11, 1886) was a Japanese samurai of the late [[Edo period]] who served as daimyō of the [[Funai Domain]] ([[Bungo Province]], 21,000 koku). Served in a variety of positions in the Tokugawa Shogunate, including that of [[wakadoshiyori]]. Resigning from the family headship in 1871, he went into retirement.
+
+{{s-start}}
+{{succession box | title=[[Funai Domain|Daimyo of Funai]] | before=[[Matsudaira Chikanobu]] | after= none | years=1841-1871}}
+{{s-end}}
+
+==External links==
+*[https://web.archive.org/web/20070116233846/http://www1.parkcity.ne.jp/sito/133.html Genealogy of the Matsudaira of Funai]
+
+
+{{DEFAULTSORT:Matsudaira, Chikayoshi}}
+[[Category:1829 births]]
+[[Category:1886 deaths]]
+[[Category:Samurai]]
+[[Category:Daimyo]]
+[[Category:Meiji Restoration]]
+[[Category:Wakadoshiyori]]
+[[Category:Hisamatsu-Matsudaira clan]]
+[[Category:Ogyū-Matsudaira clan]]
+
+
+{{Daimyo-stub}}</text>
+      <sha1>f64nt5vcp54iu8h4vmu9bo530myk43e</sha1>
+    </revision>
+  </page>
+</mediawiki>
