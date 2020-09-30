@@ -9,10 +9,11 @@ from string import digits
 from nltk.tokenize import word_tokenize 
 from nltk.corpus import stopwords
 from Stemmer import Stemmer
-from nltk.stem.snowball import SnowballStemmer
 from sortedcontainers import SortedDict
+import heapq
+import glob
 from collections import OrderedDict
-from nltk.stem import WordNetLemmatizer
+import math
 import pickle
 from Indexer import *
 
@@ -42,7 +43,7 @@ def cleanData(data):
 def create_small_dict(data, field):
     global small_dict
     for word in data:
-        if len(word)>2 and len(word)<9:
+        if len(word)>2 and len(word)<13:
             if word in small_dict:
                 small_dict[word][field]+=1
             else:
@@ -56,7 +57,7 @@ def create_dict():
     
     for word, postingList in small_dict.items():
         if word in index_dict:     
-            index_dict[word] += '|'+ str(docID)
+            index_dict[word] += '|'+ str(docID)+ ":"
             if postingList[0] != 0:
                 index_dict[word] += 't'+ str(postingList[0])
             if postingList[1] != 0:
@@ -68,10 +69,9 @@ def create_dict():
             if postingList[4] != 0:
                 index_dict[word] += 'r'+ str(postingList[4])
             if postingList[5] != 0:
-                index_dict[word] += 'e'+ str(postingList[5])
-            
+                index_dict[word] += 'e'+ str(postingList[5])            
         else:
-            index_dict[word ]= str(docID)
+            index_dict[word ]= str(docID)+":"
             if postingList[0] != 0:
                 index_dict[word] += 't'+ str(postingList[0])
             if postingList[1] != 0:
@@ -107,7 +107,7 @@ def findExternalLinks(data):
 
 
 def processText(data):
-    global docID
+    global docID, TitleIDMap
     data = data.lower()
     lines = data.split('\n')
     
@@ -138,33 +138,40 @@ def processText(data):
             try:
                 category.extend(lines[i].split(":")[1].split("]]")[0].split())
             except:
-                category.extend(lines[i].split())    
-
-        elif "==references==" in lines[i] or "== references ==" in lines[i]:
-            body_flag =False
+                category.extend(lines[i].split()) 
+                
+        elif "==references==" in lines[i] or "== references==" in lines[i] or "==references ==" in lines[i] or "== references ==" in lines[i]:
+            open_brackets = 0
             i+=1
-            while i<len(lines):
-                if "[[category" or "=="in lines[i]:
+            while i < len(lines):
+                if "{{" in lines[i]:
+                    new_opened = lines[i].count("{{")
+                    open_brackets += new_opened
+                if "}}" in lines[i]:
+                    new_closed = lines[i].count("}}")
+                    open_brackets -= new_closed
+                if open_brackets > 0:
+                    if "{{vcite" not in lines[i] and "{{cite" not in lines[i] and "{{reflist" not in lines[i]:
+                        line= lines[i].split("title=")
+                        if(len(line)>1):
+                            references.append(line[1].split('|')[0])
+                else:
                     break
-                elif "{{cite" in lines[i] or "{{vcite" in lines[i]:
-                    line= lines[i].split("title=")
-                    if(len(line)>1):
-                        references.append(line[1].split('|')[0])
-                elif '{{' in lines[i] and 'ref' not in lines[i]:
-                    references.append(line[1].split('{{')[1].split('}}'[0]))
                 i+=1
         
         elif body_flag == True:
             body.extend(lines[i].split())
 
-            
+    title = cleanData(str(TitleIDMap[docID]).lower())   
     infobox = cleanData(" ".join(infobox))
     body = cleanData(" ".join(body))
     category = cleanData(" ".join(category))
     references = cleanData(" ".join(references))
     external_links = cleanData(" ".join(external_links))
     
-    create_small_dict(TitleIDMap[docID], 0)
+    TitleIDMap[docID].append(len(title)+len(infobox)+len(body)+len(category)+len(references)+len(external_links))
+    
+    create_small_dict(title, 0)
     create_small_dict(infobox, 1)
     create_small_dict(body, 2)
     create_small_dict(category, 3)
@@ -173,6 +180,7 @@ def processText(data):
     
     create_dict()
     small_dict.clear()
+
 
 class DataHandler(xml.sax.ContentHandler):
     def __init__(self):
@@ -184,7 +192,7 @@ class DataHandler(xml.sax.ContentHandler):
         global docID
         if tag == "page":
             docID += 1
-        self.currentTag = tag
+        self.currentTag = tag;
         
     def characters(self, content):
         if self.currentTag == "title":
@@ -195,7 +203,7 @@ class DataHandler(xml.sax.ContentHandler):
     def endElement(self, tag):
         global docID
         if self.currentTag == "title":
-            TitleIDMap[docID] = cleanData(self.title.lower())
+            TitleIDMap[docID] = [self.title]
             self.title = ""
          
         elif self.currentTag == "text":
@@ -204,31 +212,40 @@ class DataHandler(xml.sax.ContentHandler):
         self.currentTag=""
 
 
+
 def main():
-    global index_dict, total_count
-    dump_url = sys.argv[1]
-    index_url = sys.argv[2]
-    index_stat_url = sys.argv[3]
+    global index_dict, total_count, docID,TitleIDMap
+    dump_url = "/home/madhvi/Wiki-Search-Engine/SampleData/"
+    files = glob.glob(dump_url+"*")
+    index_url = "./Index/"
     parser = xml.sax.make_parser()                                   # create XML parser
     parser.setFeature(xml.sax.handler.feature_namespaces, 0)         # switch off for namespace
     handler = DataHandler()                                          # content handler child class with overriden methods
     parser.setContentHandler(handler)                                # set overriden class
-    parser.parse(dump_url)                                           # parse data
- 
-    writeToFile(index_url, index_dict)                               # writes index into secondary memory
-    writeStats(index_stat_url, total_count, index_dict)              # writes stats of the Index
-    
-    index_dict.clear()
-
+        
+    for i in range (len(files)):   
+        print(files[i])
+        parser.parse(files[i])                                           # parse data
+        writeToFile(index_url+"index"+str(i), index_dict)
+        
+        print("TOTAL COUNT: ", total_count)
+        print("LENGTH OF TEMP DICTIONARY: ", len(index_dict))
+        print(" ")
+        
+        index_dict.clear()
+        
+    print("TOTAL DOCS PROCESSED: ", docID)
+    merge_files(index_url, len(files))
+    writeSecondaryIndex(index_url)
+    writeTitleDocIDMapping(index_url, TitleIDMap)
 
 if ( __name__ == "__main__"):
     
 	start = timeit.default_timer()
 
-	if len(sys.argv)!= 4:
-		print("Usage : python wikiIndexer.py sample.xml ./output")
-		sys.exit(0)
-
+	# if len(sys.argv)!= 4:
+	# 	print("Usage : python wikiIndexer.py sample.xml ./output")
+	# 	sys.exit(0)
 	main()  
 	stop = timeit.default_timer()
 	print(stop - start, "sec")
