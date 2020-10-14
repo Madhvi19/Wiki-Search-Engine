@@ -21,9 +21,9 @@ An efficient and scalable Search Engine built using Python on English Wikipedia 
 
 The repository contains the following files:
 
-**Parser.py:** This file creates the entire index in a field separated manner. Along with the index files, it also creates the offsets for the same as a Secondary index. It also creates a map for the title and the document id along with its offset. This file internally calls Indexer.py which writes the indexes in the secondary memory. 
+`Parser.py:` This file creates the entire index in a field separated manner. Along with the index files, it also creates the offsets for the same as a Secondary index. It also creates a map for the title and the document id along with its offset. This file internally calls `Indexer.py` which writes the indexes in the secondary memory. 
 
-**Search.py:** This function takes as input the query and returns the top K results from the Wikipedia corpus. 
+`Search.py:` This function takes as input the query and returns the top K results from the Wikipedia corpus. 
 
 ## Steps to Run the Code:
 
