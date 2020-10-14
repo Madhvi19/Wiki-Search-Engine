@@ -1,5 +1,6 @@
-# Wiki-Search-Engine:
+![Python 3](https://img.shields.io/badge/Python-3-green)
 
+# Wiki-Search-Engine:
 An efficient and scalable Search Engine built using Python on English Wikipedia dump, which is capable of creating an optimized Inverted index using K-Way Merge Sort and provides support for Field as well as Normal query search using TF-IDF Ranking.
 Problem Statement:
 A search engine is to be built on the Wikipedia Data Dump of size ~50 GB without using any external index. The search results should be returned in real-time. 
